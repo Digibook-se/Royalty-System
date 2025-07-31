@@ -1,0 +1,16 @@
+# Virtuell miljö
+venv/
+ 
+# Python & IDE
+__pycache__/
+*.py[cod]
+*.egg-info/
+ 
+# Miljövariabler
+.env
+ 
+# Loggar
+logs/
+ 
+# OS-specifikt
+.DS_Store
