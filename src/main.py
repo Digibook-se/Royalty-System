@@ -29,6 +29,12 @@ def main():
     # Load environment variables
     load_dotenv()
 
+    # Parse excluded authors from env (quoted, semicolon-separated)
+    excluded = set()
+    raw = os.getenv("EXCLUDED_AUTHORS", "").strip('"')
+    if raw:
+        excluded = {n.strip() for n in raw.split(";") if n.strip()}
+
     # Configure logging to STDERR with UTF-8 encoding
     logging.basicConfig(
         level=logging.INFO,
@@ -39,10 +45,10 @@ def main():
     # Create tables if they don't exist
     Base.metadata.create_all(engine)
 
-    # Open DB session
+    # Start DB session
     db = SessionLocal()
     try:
-        # Read authors from DB
+        # Load authors from DB
         authors = {u.name: u for u in db.query(Author).all()}
         logging.info(f"Hämtade {len(authors)} författare från databasen via webhook")
 
@@ -63,6 +69,11 @@ def main():
 
         # Loop per author
         for author_name, group in agg_df.groupby("Författarnamn"):
+            # Skip excluded authors
+            if author_name in excluded:
+                logging.info(f"Hoppar över {author_name} (i EXCLUDED_AUTHORS)")
+                continue
+
             name_ascii = to_ascii(author_name)
             author_obj = authors.get(author_name)
             if not author_obj:

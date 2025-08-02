@@ -1,3 +1,4 @@
+# Full eLib client with login, listing, HEAD selection, auto-separator, original version
 import os
 import io
 import csv
@@ -45,6 +46,10 @@ def fetch_invoice_csv() -> pd.DataFrame:
     resp_list.raise_for_status()
     soup_list = BeautifulSoup(resp_list.text, "lxml")
 
+    # Debug: skriv ut första 500 tecken i den returnerade HTML:n
+    print("DEBUG: eLib-sida (första 500 tecken):")
+    print(resp_list.text[:500])
+    
     csv_links = []
     for a in soup_list.find_all("a", href=True):
         if a["href"].lower().endswith(".csv"):
@@ -86,6 +91,7 @@ def fetch_invoice_csv() -> pd.DataFrame:
 
     df = pd.read_csv(io.StringIO(raw), sep=sep)
     return df
+
 
 def aggregate(df: pd.DataFrame) -> pd.DataFrame:
     """

@@ -53,6 +53,10 @@ DATABASE_URL=sqlite:///./royalty.db
 
 ---
 
+## Uteslut författare om dessa inte ska mottaga royalty-avräkning eller utbetalning
+Lista dessa i filen .env på detta sätt: 
+EXCLUDED_AUTHORS="Ankarberg, Doris; Lind, Carola"
+
 ## 1. Författardata → DB
 
 1. Författare fyller i WPForms-formulär på WordPress (plugin).
