@@ -22,6 +22,7 @@ class Author(Base):
     email = Column(String, unique=True, nullable=False, index=True)
     name = Column(String, nullable=True)
     bank_account = Column(String, nullable=True)
+    carried_balance  = Column(Numeric, default=0)
 
 # Modell för Royalty-rader
 class Royalty(Base):
@@ -36,7 +37,10 @@ class Royalty(Base):
     created_at = Column(DateTime, nullable=False)
 
 # Skapa engine och session-factory
-engine = create_engine(DATABASE_URL, echo=False, future=True)
+engine = create_engine (DATABASE_URL, echo=False, future=True)
 SessionLocal = sessionmaker(
     autocommit=False, autoflush=False, bind=engine
 )
+
+print(">>> Använder databas:", engine.url)
+
