@@ -16,14 +16,6 @@ from datetime import datetime, timezone
 from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 from typing import Dict, Optional, Tuple, List, Set
-try:
-    # När vi kör som paket (python -c "import src.main")
-    from src.author_aliases_io import load_aliases_prefer_xlsx
-except ModuleNotFoundError:
-    # När vi kör som script (python src/main.py)
-    from author_aliases_io import load_aliases_prefer_xlsx
-
-
 
 import pandas as pd
 from dotenv import load_dotenv
@@ -35,8 +27,7 @@ load_dotenv()
 from elib_client import fetch_invoice_csv, aggregate
 from report import make_report
 from emailer import send_report
-from models import Base, engine, SessionLocal, Author, Royalty, RoyaltyRun, RoyaltyRunItem
-
+from models import Base, engine, SessionLocal, Author, Royalty
 
 
 # ------------------------------------------------------------
@@ -47,7 +38,6 @@ OUT_DIR = Path("out")
 OUT_DIR.mkdir(exist_ok=True)
 
 ALIAS_FILE = OUT_DIR / "author_aliases.csv"
-ALIAS_XLSX = OUT_DIR / "author_aliases.xlsx"
 
 VAT_RATE = Decimal(os.getenv("VAT_RATE", "0.06") or "0.06")
 PAYOUT_THRESHOLD = Decimal(os.getenv("PAYOUT_THRESHOLD", "100") or "100")
@@ -308,7 +298,6 @@ class RunItem:
     payout_ex_vat: Decimal
     vat_amount: Decimal
     payout_inc_vat: Decimal
-    vat_rate: Decimal
     new_balance: Decimal
     will_payout: bool
 
@@ -334,10 +323,7 @@ def compute_run_plan(
     missing: List[str] = []
     already: List[str] = []
     excluded_in_csv: List[str] = []
-
-    # NYTT: konsolidera per author_id
-    by_author: Dict[int, pd.DataFrame] = {}
-    author_name_examples: Dict[int, str] = {}
+    items: List[RunItem] = []
 
     for author_name, group in agg_df.groupby("Författarnamn"):
         author_name = str(author_name).strip()
@@ -348,11 +334,11 @@ def compute_run_plan(
             excluded_in_csv.append(author_name)
             continue
 
-        # 2) alias: alias_name (eLib) -> author_name (DB)
+        # 2) alias via email
         author_obj: Optional[Author] = None
-        target_name = alias_email_map.get(k)
-        if target_name:
-            author_obj = author_lookup.get(norm_key(target_name))
+        alias_email = alias_email_map.get(k)
+        if alias_email:
+            author_obj = author_lookup.get(norm_key(alias_email))
 
         # 3) fallback match på namn
         if not author_obj:
@@ -362,7 +348,7 @@ def compute_run_plan(
             missing.append(author_name)
             continue
 
-        # 4) skydd mot dubbelkörning (enkel check)
+        # 4) skydd mot dubbelkörning
         exists = (
             db.query(Royalty)
             .filter(Royalty.author_id == author_obj.id, Royalty.period == period_key)
@@ -370,23 +356,6 @@ def compute_run_plan(
         )
         if exists:
             already.append(author_name)
-            continue
-
-        # 5) KONSOLIDERA: samla rader per author_id
-        if author_obj.id not in by_author:
-            by_author[author_obj.id] = group.copy()
-            author_name_examples[author_obj.id] = author_name
-        else:
-            by_author[author_obj.id] = pd.concat(
-                [by_author[author_obj.id], group.copy()],
-                ignore_index=True
-            )
-
-    # Bygg RunItems per author (konsoliderat)
-    items: List[RunItem] = []
-    for author_id, group in by_author.items():
-        author_obj = db.query(Author).filter(Author.id == author_id).first()
-        if not author_obj:
             continue
 
         prev_balance = dec(author_obj.carried_balance or 0)
@@ -402,21 +371,19 @@ def compute_run_plan(
             payout_ex_vat = Decimal("0.00")
             new_balance = total_available
 
-        vat_rate = VAT_RATE if getattr(author_obj, "vat_registered", False) else Decimal("0.00")
-        vat_amount = (payout_ex_vat * vat_rate).quantize(Decimal("0.01"))
-        payout_inc_vat = (payout_ex_vat + vat_amount).quantize(Decimal("0.01"))
+        vat_amount = (payout_ex_vat * VAT_RATE).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+        payout_inc_vat = (payout_ex_vat + vat_amount).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
 
         items.append(
             RunItem(
                 author=author_obj,
-                author_name_in_csv=author_name_examples.get(author_id, author_obj.name or ""),
+                author_name_in_csv=author_name,
                 group_df=group,
                 prev_balance=prev_balance,
                 today_share=today_share,
                 payout_ex_vat=payout_ex_vat,
                 vat_amount=vat_amount,
                 payout_inc_vat=payout_inc_vat,
-                vat_rate=vat_rate,
                 new_balance=new_balance,
                 will_payout=will_payout,
             )
@@ -431,7 +398,6 @@ def compute_run_plan(
         already_run_names=already,
         excluded_in_csv=excluded_in_csv,
     )
-
 
 
 # ------------------------------------------------------------
@@ -450,29 +416,8 @@ def print_step_2_and_3_summary(df, agg_df, period_label: str, run_plan: RunPlan,
     author_pct = (total_author / total_net * 100) if total_net else Decimal("0")
     publisher_pct = (total_publisher / total_net * 100) if total_net else Decimal("0")
 
-    def _safe_date_span(series):
-        s = series.astype(str).str.strip()
-        s = s[s.notna()]
-        s = s[s != ""]
-        s = s[s.str.lower() != "nan"]
-        if len(s) == 0:
-            return "?"
-        return s.min(), s.max()
-
-    if "FromDate" in df.columns:
-        fd_min, fd_max = _safe_date_span(df["FromDate"])
-    else:
-        fd_min, fd_max = "?", "?"
-
-    if "ToDate" in df.columns:
-        td_min, td_max = _safe_date_span(df["ToDate"])
-    else:
-        td_min, td_max = "?", "?"
-
-    # Visa spannet baserat på ToDate om det finns, annars FromDate
-    from_date = fd_min
-    to_date = td_max if td_max != "?" else fd_max
-
+    from_date = df["FromDate"].astype(str).min() if "FromDate" in df.columns else "?"
+    to_date = df["ToDate"].astype(str).max() if "ToDate" in df.columns else "?"
 
     print(f"\nPeriod:        {period_label}")
     print(f"Datumspann:    {from_date} → {to_date}")
@@ -618,17 +563,7 @@ def print_step_2_and_3_summary(df, agg_df, period_label: str, run_plan: RunPlan,
         print("Inga.")
 
     # se till att saknade hamnar i aliasfilen
-    # Om Excel-alias används vill vi inte autogenerera rader i CSV (fel format).
-    # Vi sparar missing-listan i txt (redan gjort) och du fyller i Excel.
-    if (OUT_DIR / "author_aliases.xlsx").exists():
-        added = 0
-    else:
-        if (OUT_DIR / "author_aliases.xlsx").exists():
-            added = 0
-        else:
-            added = append_missing_to_alias_file(ALIAS_FILE, sorted(set(missing)))
-
-
+    added = append_missing_to_alias_file(ALIAS_FILE, sorted(set(missing)))
     print("\nFILER SPARADE")
     print("-" * 34)
     print(f"- {missing_file}")
@@ -659,7 +594,7 @@ def final_confirmation(dry_run: bool, run_plan: RunPlan):
 
     print("\nNÄSTA STEG KOMMER ATT:")
     if dry_run:
-        print("- (dry_run=1) Inga mejl skickas och ingen data sparas i DB.")
+        print("- (DRY_RUN=1) Inga mejl skickas och ingen data sparas i DB.")
     else:
         print("- Skicka mejl till författare och spara rader i DB (oåterkalleligt för perioden).")
 
@@ -687,44 +622,6 @@ def final_confirmation(dry_run: bool, run_plan: RunPlan):
             print("\nAvbrutet av användaren. Ingen data har ändrats.\n")
             raise SystemExit(0)
         print(f"Svara med '{CONFIRM_WORD}' eller 'nej'.")
-def save_run_plan_to_db(db, run_plan, period_key: str, period_label: str, vat_rate, payout_threshold):
-    """
-    Sparar exakt körplanen (run_plan) i DB så bankfil kan skapas senare.
-    Körs efter att du bekräftat (Steg C), innan execute-loopen.
-    """
-    run = RoyaltyRun(
-        period=period_key,
-        period_label=period_label,
-        vat_rate=str(vat_rate),
-        payout_threshold=str(payout_threshold),
-    )
-    db.add(run)
-    db.flush()  # så run.id finns
-
-    total = len(run_plan.items)
-    for idx, item in enumerate(run_plan.items, start=1):
-        a = item.author
-        db.add(RoyaltyRunItem(
-            run_id=run.id,
-            author_id=a.id,
-            author_name=a.name,
-            author_email=a.email,
-            bank_account_snapshot=a.bank_account,
-
-            vat_registered=bool(getattr(a, "vat_registered", False)),
-            vat_number=getattr(a, "vat_number", None),
-
-            prev_balance=str(item.prev_balance),
-            today_share=str(item.today_share),
-            payout_ex_vat=str(item.payout_ex_vat),
-            vat_amount=str(item.vat_amount),
-            payout_inc_vat=str(item.payout_inc_vat),
-            new_balance=str(item.new_balance),
-            will_payout=bool(item.will_payout),
-        ))
-
-    db.commit()
-    return run.id
 
 
 # ------------------------------------------------------------
@@ -737,11 +634,11 @@ def main():
         format="%(asctime)s %(levelname)s %(message)s"
     )
 
-    dry_run = os.getenv("dry_run", "0") == "1"
+    dry_run = os.getenv("DRY_RUN", "0") == "1"
     force_rerun = os.getenv("FORCE_RERUN", "0") == "1"  # om du vill återköra period
 
     if dry_run:
-        logging.info("dry_run=1 → inga mejl skickas")
+        logging.info("DRY_RUN=1 → inga mejl skickas")
 
     raw_excluded = os.getenv("EXCLUDED_AUTHORS", "") or ""
     excluded_keys = parse_excluded_authors(raw_excluded)
@@ -764,62 +661,23 @@ def main():
         logging.info(f"Hämtade {len(authors)} författare från databasen (match-nycklar: {len(author_lookup)})")
 
         # --- Alias ---
-        # NYTT: Föredra Excel om den finns. Annars fallback till CSV.
-        # Resultatet ska vara: norm(alias_name) -> "author_name i DB"
-        aliases = load_aliases_prefer_xlsx(
-            xlsx_path=str(ALIAS_XLSX),
-            csv_path=str(ALIAS_FILE),
-        )
-        logging.info(
-            f"Läste alias: {len(aliases)} kopplingar "
-            f"(källa: {'xlsx' if ALIAS_XLSX.exists() else 'csv'})"
-        )
-
-        # Anpassa till det compute_run_plan() förväntar sig (alias_email_map-variabelnamnet)
-        # Din compute_run_plan använder alias_email_map som en dict med alias->target.
-        alias_email_map = {norm_key(k): v for k, v in aliases.items()}
-
+        alias_email_map = read_author_aliases(ALIAS_FILE)
+        logging.info(f"Läste alias: {len(alias_email_map)} kopplingar från {ALIAS_FILE}")
 
         # --- CSV ---
         df = fetch_invoice_csv()
         logging.info(f"Hämtade {len(df)} rader från eLib-CSV")
 
-        # --- Källfördelning (eLib vs Biblio) ---
-        if "Source" in df.columns:
-            is_biblio = df["Source"].astype(str).str.upper().eq("BIBLIO")
-            biblio_rows = int(is_biblio.sum())
-            elib_rows = int((~is_biblio).sum())
-
-            # TotalAmt används som nettokolumn i din pipeline (efter fixen)
-            totalamt = pd.to_numeric(df.get("TotalAmt", 0), errors="coerce").fillna(0)
-
-            biblio_net = float(totalamt[is_biblio].sum())
-            elib_net = float(totalamt[~is_biblio].sum())
-
-            logging.info(
-                "KÄLLOR: eLib rows=%d netto=%.2f | Biblio rows=%d netto=%.2f | Total netto=%.2f",
-                elib_rows, elib_net, biblio_rows, biblio_net, (elib_net + biblio_net)
-            )
-        else:
-            logging.info("KÄLLOR: Ingen 'Source'-kolumn – kan inte dela upp eLib/Biblio.")
-
-
         if "ToDate" not in df.columns:
             raise KeyError("CSV saknar kolumnen 'ToDate' – kan inte avgöra period")
 
-        to_series = df["ToDate"]
-
-        # Gör till sträng, trimma, filtrera bort tomt och "nan"
-        to_series = to_series.astype(str).str.strip()
-        to_series = to_series[to_series.notna()]
-        to_series = to_series[to_series != ""]
-        to_series = to_series[to_series.str.lower() != "nan"]
-
-        if len(to_series) == 0:
-            raise ValueError("ToDate saknar giltiga datum efter filtrering (tomt eller nan)")
-
-        to_date = to_series.sort_values().iloc[-1]
-
+        to_date = (
+            df["ToDate"]
+            .astype(str)
+            .dropna()
+            .sort_values()
+            .iloc[-1]
+        )
 
         period_dt = datetime.fromisoformat(to_date)
         period_key, period_label = period_from_date(period_dt)
@@ -847,36 +705,15 @@ def main():
 
         # --- STEG C ---
         final_confirmation(dry_run=dry_run, run_plan=run_plan)
-        run_id = None
-        if not dry_run:
-            run_id = save_run_plan_to_db(
-                db=db,
-                run_plan=run_plan,
-                period_key=period_key,
-                period_label=period_label,
-                vat_rate=VAT_RATE,
-                payout_threshold=PAYOUT_THRESHOLD,
-            )
-            logging.info(f"✅ Sparade run_plan i DB: royalty_runs.id={run_id}")
-        else:
-            logging.info("dry_run=1 → sparar inte run_plan i DB")
-
-        logging.info("TESTORDNING (första 10):")
-        for i, item in enumerate(run_plan.items[:10], start=1):
-            logging.info(f"{i}. {item.author.name}")
-
 
         # --- Execute ---
-        total = len(run_plan.items)
-        for idx, item in enumerate(run_plan.items, start=1):
+        for item in run_plan.items:
             author = item.author
             group = item.group_df
-            author_df = group.copy()
-
 
             # extra skydd: exkludera även här, om något skulle slinka igenom
             if norm_key(item.author_name_in_csv) in excluded_keys:
-                logging.info(f"[{idx}/{total}] Hoppar över {item.author_name_in_csv} (EXCLUDED_AUTHORS)")
+                logging.info(f"Hoppar över {item.author_name_in_csv} (EXCLUDED_AUTHORS)")
                 continue
 
             # dubbelkörningsskydd (om FORCE_RERUN=0)
@@ -887,96 +724,66 @@ def main():
                     .first()
                 )
                 if exists:
-                    logging.info(f"[{idx}/{total}] Redan körd för {item.author_name_in_csv} ({period_label})")
+                    logging.info(f"Redan körd för {item.author_name_in_csv} ({period_label})")
                     continue
-            # Beräkna mottagare EN gång
-            actual_recipient = test_email or author.email
-            if dry_run:
-                actual_recipient = os.environ.get("TEST_EMAIL") or actual_recipient
 
-            if not actual_recipient:
-                logging.warning(f"[{idx}/{total}] Saknar email för {author.name} – hoppar över (kan inte skicka)")
+            recipient = test_email or author.email
+            if not recipient:
+                logging.warning(f"Saknar email i DB för {author.name} – hoppar över (kan inte skicka)")
                 continue
                 
-            # Beräkningar (kommer från run_plan)
-            prev_balance   = float(getattr(item, "prev_balance", 0) or 0)
-            period_share   = float(getattr(item, "today_share", 0) or 0)   # periodens royaltyandel (författarens andel)
-            payout_ex_vat  = float(getattr(item, "payout_ex_vat", 0) or 0) # utbetalning exkl moms
-            carry_to_next  = float(getattr(item, "new_balance", 0) or 0)
+            prev_balance = author.carried_balance or 0.0
+            period_royalty = float(author_total)  # byt author_total till din variabel som är periodens belopp för författaren
+            gross_due = prev_balance + period_royalty
 
-            # ✅ Lägg till detta:
-            payout_inc_vat = dec(getattr(item, "payout_inc_vat", None) or 0)
-            if payout_inc_vat == 0 and payout_ex_vat > 0:
-                payout_inc_vat = payout_ex_vat  # fallback om du kör utan moms/logik
+            if gross_due >= MIN_PAYOUT:
+                payout_amount = gross_due
+                carry_to_next = 0.0
+            else:
+                payout_amount = 0.0
+                carry_to_next = gross_due
+            
+            carry_to_next = carry_over
 
+            pdf = make_report(author.name, author_df, period_label, prev_balance, carry_to_next)
 
-            # Detta är för PDF-momslogik (0% eller 6% beroende på författare)
-            vat_rate = getattr(item, "vat_rate", None)  # detta är en Decimal i din RunItem
-            # Om vat_rate saknas av någon anledning: fallback till 0
-            if vat_rate is None:
-                from decimal import Decimal
-                vat_rate = Decimal("0.00")
+            email_ok = True
+            if dry_run:
+                logging.info(f"(DRY_RUN) Skulle skickat rapport till {recipient}")
+            else:
+                try:
+                    send_report(recipient, pdf, period_label)
+                    sent += 1
+                    logging.info(f"Skickade rapport till {recipient}")
+                except Exception as e:
+                    email_ok = False
+                    logging.exception(f"Misslyckades skicka mail till {recipient}: {e}")
 
+            if email_ok and not dry_run:
+                # uppdatera saldo
+                db.execute(
+                    update(Author)
+                    .where(Author.id == author.id)
+                    .values(carried_balance=item.new_balance)
+                )
 
-            # Skapa PDF
-            pdf = make_report(
-                author.name,
-                author_df,
-                period_label,
-                prev_balance,
-                period_share,
-                payout_ex_vat,
-                carry_to_next,
-                vat_rate=vat_rate,
-            )
-
-            email_ok = False
-            try:
-                logging.info(f"[{idx}/{total}] Skickar rapport till {actual_recipient} ({author.name})")
-                send_report(actual_recipient, pdf, period_label)
-                email_ok = True
-                sent += 1
-            except Exception as e:
-                logging.warning(f"[{idx}/{total}] Kunde inte skicka rapport till {actual_recipient}: {e}")
-
-
-            # Spara i DB (bara om inte dry_run och om vi faktiskt lyckades skicka till någon)
-            if (not dry_run) and email_ok:
-                # Uppdatera carry-over
-                author.carried_balance = carry_to_next
-
-                # Spara alla rader (per titel) för att markera perioden som körd
+                # spara rader
                 for _, row in group.iterrows():
-                    net_amount = float(row.get("Nettobelopp", 0) or 0)
-                    author_share = float(row.get("AuthorShare", 0) or 0)
-
-                    # Om PublisherShare finns i din dataframe – använd den, annars räkna ut 30%-delen.
-                    publisher_share = row.get("PublisherShare", None)
-                    if publisher_share is None:
-                        publisher_share = net_amount - author_share
-                    publisher_share = float(publisher_share or 0)
-
                     db.add(
                         Royalty(
                             author_id=author.id,
-                            #author_name=author.name,  # (valfritt men bra)
+                            isbn=row["ISBN"],
+                            title=row["Titel"],
+                            net_amount=dec(row["Nettobelopp"]),
+                            author_share=dec(row["AuthorShare"]),
+                            publisher_share=dec(row["PublisherShare"]),
                             period=period_key,
-                            title=str(row.get("Titel", "")).strip(),
-                            isbn=str(row.get("ISBN", "")).strip(),
-                            net_amount=net_amount,
-                            author_share=author_share,
-                            publisher_share=publisher_share,
+                            created_at=datetime.now(timezone.utc),
                         )
                     )
 
                 db.commit()
-                db.refresh(author)
 
-            # Logg för admin
-            if payout_ex_vat > 0:
-                logging.info(f"{author.name}: utbetalning {payout_inc_vat:.2f} kr (inkl moms), carry {carry_to_next:.2f} kr")
-            else:
-                logging.info(f"{author.name}: under gräns – carry {carry_to_next:.2f} kr")
             if test_limit and sent >= test_limit:
                 logging.info("Testgräns nådd – avbryter")
                 break

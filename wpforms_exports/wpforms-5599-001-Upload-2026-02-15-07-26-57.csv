@@ -1,0 +1,975 @@
+"1. Godkänn avtalet: Jag har läst avtalet och godkänner det genom att bocka i denna ruta","Författare: First","Författare: Last","Jag vill lägga till ytterligare en författare: Jag vill lägga till ytterligare en författare","Författare (kopiera): First","Författare (kopiera): Last","Jag vill ge ut min bok under pseudonym (kopiera): Jag vill ge ut min bok under pseudonym","Mitt riktiga namn vid pseudonym: First","Mitt riktiga namn vid pseudonym: Last","Bokens titel","Bokens handling","Välj en eller flera kategorier för din bok: Från 0-3 år","Välj en eller flera kategorier för din bok: Från 3 år","Välj en eller flera kategorier för din bok: Från 6 år","Välj en eller flera kategorier för din bok: Från 9 år","Välj en eller flera kategorier för din bok: Från 12 år","Välj en eller flera kategorier för din bok: Agronomi och lantbruk","Välj en eller flera kategorier för din bok: Ande, kropp och själ","Välj en eller flera kategorier för din bok: Deckare","Välj en eller flera kategorier för din bok: Djur och natur","Välj en eller flera kategorier för din bok: Ekonomi, finansväsen, näringsliv och management","Välj en eller flera kategorier för din bok: Erotik","Välj en eller flera kategorier för din bok: Faktaböcker barn och ungdom","Välj en eller flera kategorier för din bok: Familj och hälsa","Välj en eller flera kategorier för din bok: Fantasy","Välj en eller flera kategorier för din bok: Filosofi","Välj en eller flera kategorier för din bok: Fiske, jakt och skytte","Välj en eller flera kategorier för din bok: Fysik","Välj en eller flera kategorier för din bok: Fotografering","Välj en eller flera kategorier för din bok: Företagsekonomi och management","Välj en eller flera kategorier för din bok: Geografi","Välj en eller flera kategorier för din bok: Hantverk och handarbete","Välj en eller flera kategorier för din bok: Historia och arkeologi","Välj en eller flera kategorier för din bok: Historiska romaner","Välj en eller flera kategorier för din bok: Hobby, spel och lekar","Välj en eller flera kategorier för din bok: Humor","Välj en eller flera kategorier för din bok: Humoristiska romaner","Välj en eller flera kategorier för din bok: Hus och hem","Välj en eller flera kategorier för din bok: Husdjur","Välj en eller flera kategorier för din bok: Informationsteknik","Välj en eller flera kategorier för din bok: Juridik","Välj en eller flera kategorier för din bok: Kemi","Välj en eller flera kategorier för din bok: Krig och försvar","Välj en eller flera kategorier för din bok: Mat och dryck","Välj en eller flera kategorier för din bok: Matematik","Välj en eller flera kategorier för din bok: Medicin och omvårdnad","Välj en eller flera kategorier för din bok: Medievetenskap","Välj en eller flera kategorier för din bok: Miljön","Välj en eller flera kategorier för din bok: Personliga och sociala frågor barn och ungdom","Välj en eller flera kategorier för din bok: Religion och tro","Välj en eller flera kategorier för din bok: Resekartor och reseatlaser","Välj en eller flera kategorier för din bok: Självhjälp och praktiska råd","Välj en eller flera kategorier för din bok: Sport, idrott och friluftsliv","Välj en eller flera kategorier för din bok: Sömnad och handarbete","Välj en eller flera kategorier för din bok: Språkundervisning och språkinlärning","Välj en eller flera kategorier för din bok: Biografi och prosa (ej fiktion)","Välj en eller flera kategorier för din bok: Personliga berättelser","Välj en eller flera kategorier för din bok: Poesi","Välj en eller flera kategorier för din bok: True crime","Välj en eller flera kategorier för din bok: Litteraturhistoria och kritik","Välj en eller flera kategorier för din bok: Modern och samtida skönlitteratur","Välj en eller flera kategorier för din bok: Klassiker","Välj en eller flera kategorier för din bok: Noveller","Välj en eller flera kategorier för din bok: Biografiska romaner","Välj en eller flera kategorier för din bok: Klassiska deckare","Välj en eller flera kategorier för din bok: Mysdeckare","Välj en eller flera kategorier för din bok: Polisromaner","Välj en eller flera kategorier för din bok: Thrillers / spänningsromaner","Välj en eller flera kategorier för din bok: Äventyrsromaner / action","Välj en eller flera kategorier för din bok: Skräck och övernaturligt","Välj en eller flera kategorier för din bok: Myter, sagor och legender i skönlitterär form","Välj en eller flera kategorier för din bok: Feelgood","Välj en eller flera kategorier för din bok: Romance","Välj en eller flera kategorier för din bok: Familj / släktromaner","Välj en eller flera kategorier för din bok: Noveller","Välj en eller flera kategorier för din bok: Skönlitteratur i översättning","Välj en eller flera kategorier för din bok: Citatsamlingar, ordspråk och aforismer","Välj en eller flera kategorier för din bok: Naturvetenskap: allmänt","Välj en eller flera kategorier för din bok: Teknik, ingenjörsvetenskap, lantbruk och industri","Välj en eller flera kategorier för din bok: Kontorsprogram","Välj en eller flera kategorier för din bok: Kost och träning","Välj en eller flera kategorier för din bok: Privatekonomi","Välj en eller flera kategorier för din bok: Populärpsykologi och personlig utveckling","Välj en eller flera kategorier för din bok: Meditation och visualisering","Välj en eller flera kategorier för din bok: Hus och hem","Välj en eller flera kategorier för din bok: Trädgårdsskötsel","Välj en eller flera kategorier för din bok: Resor och platser","Välj en eller flera kategorier för din bok: Tecknade romaner, serier, manga, skämtteckningar","Välj en eller flera kategorier för din bok: Bilderböcker","Välj en eller flera kategorier för din bok: Faktaböcker 0-6 år","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: modern och samtida","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: spänning och äventyr","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: rysare och spökhistorier","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: superhjältar","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: science fiction","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: fantasy","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: sagor, myter och legender","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: relationer","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: naturberättelser och djurberättelser","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: roliga berättelser","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: sportberättelser","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: skolberättelser","Välj en eller flera kategorier för din bok: Skönlitteratur barn och ungdom: noveller","Välj en eller flera kategorier för din bok: Barn och ungdom: biografier","Välj en eller flera kategorier för din bok: Barn och ungdom: allmän fakta","Välj en eller flera kategorier för din bok: Barn och ungdom: historia","Välj en eller flera kategorier för din bok: Barn och ungdom: krig","Välj en eller flera kategorier för din bok: Barn och ungdom: arbete, politik och samhälle","Välj en eller flera kategorier för din bok: Barn och ungdom: litteraturhistoria","Välj en eller flera kategorier för din bok: Barn och ungdom: folk och länder","Välj en eller flera kategorier för din bok: Barn och ungdom: natur, djur och naturens värld","Välj en eller flera kategorier för din bok: Barn och ungdom: hobby, hantverk och praktiska intressen","Välj en eller flera kategorier för din bok: Barn och ungdom: filosofi, religion och andlighet","Välj en eller flera kategorier för din bok: Barn och ungdom: naturvetenskap och teknik","Välj en eller flera kategorier för din bok: Barn och ungdom: humor","Välj en eller flera kategorier för din bok: Barn och ungdom: spel, lekar och frågesport","Välj en eller flera kategorier för din bok: Barn och ungdom: sport och friluftsaktiviteter","Välj en eller flera kategorier för din bok: Barn och ungdom: mysterier och övernaturligt","Välj en eller flera kategorier för din bok: Läromedel","Välj en eller flera kategorier för din bok: Lättläst för barn / ungdomar","Välj en eller flera kategorier för din bok: Från 15 år","Välj en eller flera kategorier för din bok: Lättläst för vuxna","Välj en eller flera kategorier för din bok: Jul","Publicera min bok på välkända internetbokhandlar och streamingtjänster som:: Ljudbok (tillkommer 250 kr för filhantering)","Publicera min bok på välkända internetbokhandlar och streamingtjänster som:: E-bok","Uppläsare av ljudboken: First","Uppläsare av ljudboken: Last","Datum för önskad lansering","Priset för min bok: 119-129 kr","Priset för min bok: 79-89 kr","Priset för min bok: 59-69 kr (t.ex. barnbok 0-3 år)","Priset för min bok: 39-49 kr (t.ex. längre novell eller kortare roman)","Priset för min bok: 17-25 kr (t.ex. kortare novell)","Priset för min bok: Annat pris - ange pris nedan","Annat pris","Välj eventuellt ett eller flera tillval:: Digibook skapar e-boks-fil (EPUB)","Välj eventuellt ett eller flera tillval:: Digibook skapar bokframsida","Välj eventuellt ett eller flera tillval:: Digibook konverterar dina MP3-filer till WAV-filer","Address: Address Line 1","Address: Address Line 2","Address: City","Address: State","Address: Zip/Postal Code","Address: Country","Intäkten går till mitt företag som är momsregistrerat: Intäkten går till mitt företag som är momsregistrerat","Enradig text",E-post,"Bankkontonummer, (ej Bankgiro eller Plusgiro)",IBAN,BIC/SWIFT,"Bankens namn","Meddelande till Digibook",Publiceringskostnad,Betalningssammanfattning,"Säker kortbetalning med Stripe"
+Checked,"Henrik X",Magnusson,,,,,,,"Medan världen brinner","Några väljer att stanna, medan världen brinner.
+
+Viktor Seger är fältläkare i en värld där våldet aldrig tystnar. Tillsammans med sitt team från Läkare utan Gränser tvingas han varje dag göra omöjliga val: Vem ska räddas när resurserna inte räcker till alla? Hur behåller man sin mänsklighet när döden blir vardag? Och vad kostar det att stanna kvar när allt säger att man borde fly?
+
+I krigets skuggor - från Jemens sönderskjutna städer till Syriens flyktingläger och Kongos djungelsjukhus - tvingas Viktor Seger och hans kollegor navigera mellan medicinska protokoll och mänskliga behov, mellan säkerhet och samvete. Här räcker det inte att vara läkare. Man måste också vara förhandlare, brobyggare och människa.
+
+En gripande trilogi om mod, offer och de osynliga hjältar som vägrar ge upp - även när priset är högt.
+Berättelserna är fiktiva, men verkligheten de skildrar är skrämmande sann. Krigen pågår.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Krig och försvar",,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,"Henrik X",Magnusson,,,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,,,,"Artemisgatan 17",,STOCKHOLM,STOCKHOLM,,,,,henrik.magnusson.edu@gmail.com,"8105-9, 642005177",SE2680000810590642005177,SWEDSESS,Swedbank,,"299,00 Kr","549,00 Kr","Henrik Magnusson
+xxxx xxxx xxxx 6836
+Mastercard"
+Checked,Gun-Christine,Ström,,,,,,,"La vida dolorosa","En kvinnas tre liv: Uppväxt i Mexiko, andra äktenskapet i Sverige och tredje förhållandet i Spanien. En fiktiv berättelse som bygger på inspiration från verkligheten där en kvinna genomgår en förvandling under livets resa. Bokens titel är en variant av Vía Dolorosa, Smärtornas väg, där Jesu bar sitt kors på Golgata. Kvinnan i den berättelsen är en symbol för de kvinnor som inte hade fria val under sin uppväxt och i det samhälle där de växte upp, men som senare frigjorde sig och levde det liv som de hade velat ha från början.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Noveller,,,,,,,,,,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lättläst för vuxna",,,"E-bok - 0,00 Kr",,,"March 2, 2026",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Calle Magallanes 7, Planta 2, Apartamento 5",,Torrevieja,Torrevieja,,,,,gunkistrom@gmail.com,56900716210,SE9750000000056900716210,ESSESESSXXX,SEB,,"299,00 Kr","997,00 Kr","A E G Christine Strom
+xxxx xxxx xxxx 3206
+Mastercard"
+Checked,Susanna,Roxfelt,,,,,,,"Min brors bäste vän","Efter en skilsmässa, kantad av otrohet svor Sherry på att aldrig mer släppa in en man i sitt hjärta. Men på sin nyfunne brors bröllop möter hon Elijah –broderns bäste vän. Han är charmig, självsäker och farligt attraktiv. Sherry vet att hon borde hålla sig undan. Men gnistan mellan dem är omöjlig att ignorera.
+Medan hotfulla skuggor och svekfull vänskap hotar att dra ner henne i tvivel, svek och fara kämpar Sherry med den svåraste frågan av alla: vågar hon lita på kärleken igen – och riskera att förlora sitt hjärta till mannen hon absolut inte borde älska?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E-bok - 0,00 Kr",,,"March 1, 2026",,"79-89 kr",,,,,,,,,"Flatön 191",,47491,Ellös,,,Checked,SE559375725401,susanna.roxfelt@gmail.com,"8353-5 03 844 857-7",SE3880000835350038448577,SWEDSESS,Swedbank,"Blurb till boken:
+""Kärlek, spänning och hetta i en härlig mix! En välskriven historia med fängslande karaktärer.
+Det här är helt enkelt romance när den är som bäst"".
+Jenny Hansson, författare och lektör","299,00 Kr","299,00 Kr","Sear Book AB
+xxxx xxxx xxxx 8910
+Mastercard"
+Checked,Ingrid,Larsson,,,,Checked,"i.B. Larsson",Larsson,"DEN TYSTA SANNINGEN","I början av 1900-talet hade folket på Östgötska landsbygden ett hårt liv förutom ett fåtal storbönder. Dessa herrar var ägare till slättens största gårdar och bestämde över byar och människor. Livet präglades av jordbrukets årstider, hårt arbete vid sådd och skörd, andra tider var det ont om arbete och många daglönare vandrade vidare. 
+
+På den platta landsbygden, där åkrar och ängar sträcker sig över Östgötaslätten, ligger   herrgården Storvik inbäddad i grönska. Gården omges av tidlöshet, men under ytan av denna idylliska plats vilar  stor sorg och hemligheter djupt begravda i släktens historia.",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,"Familj / släktromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"March 1, 2026",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Nordkapsvägen 5",,"Vega, Haninge",Vega,,,,,ibl1947@hotmail.com,"1403 3698957",SE2330000000014033698957,NDEASESS,Nordea,,"299,00 Kr","997,00 Kr","Ingrid Larsson
+xxxx xxxx xxxx 4133
+Visa"
+Checked,Jeremiah,Karlsson,,,,,,,"Ukrainska noveller","Jeremiah Karlssons ""Ukrainska noveller"" följer gamla och unga, fattiga, gudfruktiga och tvivlare, som lever i skuggan av kriget.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,Jeremiah,Karlsson,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Notstigen 7",,34135,Ljungby,,,,,jeremiah.karlsson@yahoo.se,56703318255,SE5150000000056703318255,ESSESESSXXX,SEB,"Detta är mitt hobbykonto kopplat till mitt skrivande.","299,00 Kr","549,00 Kr","Jeremiah Björkman
+xxxx xxxx xxxx 9610
+Mastercard"
+Checked,Monika,Vidman,,,,,,,DRÅPARE,"Annika reste till Kreta för att vila, men helt oanat försvann hon spårlöst. Tjejen söktes i dagar som blev till veckor, veckor till månader, men hon hittades inte. Inte förrän han kom, killen som hon hade svikit. Just han fann Annika, och flera hemligheter blev avslöjade. När Filip kom hem visade det sig att ingen hade fått något livstecken från sambon Mirjam sedan hon skickade meddelande att hon var på resande väg från Sudan till Hongkong. För att ta reda på varför Mirjam plötsligt var ouppnåelig, åker Filip för att undersöka saken hos flickans huvudarbetsgivare, hjälporganisationen Toxfams kontor i Hongkong. Tyvärr blir han därifrån utslängd utan att få någon sorts förklaring. Situationen verkar hopplös, men han får hjälp från ett mycket oväntat håll. 
+Kärlek och illvilja. Blind slump eller karma? Slumptillfällens sammanträffande? Eller händer allt i livet bara av sig själv, utan några som helst orsaker?",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E-bok - 0,00 Kr",,,,"119-129 kr",,,,,,,,,,"AUKTSJAUR, 223",,Arvidsjaur,Arvidsjaur,,,,,monvid69@gmail.com,214465128,SE6460000000000214465128,HANDSESS,Handelsbanken,,"299,00 Kr","299,00 Kr","Monika Vidman
+xxxx xxxx xxxx 5719
+Mastercard"
+Checked,David,Petersson,,,,Checked,Ola,Moschna,"Kaouz på sportlovet","Kaouz på sportlovet följer elvaårige Ralf Kaouz och hans familj under ett sportlov som snabbt blir allt annat än lugnt. Badland, hotell, skattjakt, lekland och idrottsskola staplas på varandra i ett tempo som ingen riktigt hinner med.
+
+När mamma bestämmer sig för att hinna allt, pappa mest försöker hitta en plats att vila på, och Ralf och Fiona bara försöker överleva nästa aktivitet, förvandlas sportlovet till ett virrvarr av skratt, kaos och blöta handdukar.
+
+En varm, tokig och igenkännbar berättelse om familjekaos, höga ambitioner och sportlov som inte alls blir som planerat.",,,"Från 6 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: roliga berättelser",,,,,,,,,,,,,,,"Barn och ungdom: humor",,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,Oscar,Lind,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Lindås 125",,Nybro,Nybro,,,,,kaouzbooks@gmail.com,90232633578,SE1390200000090232633578,ELLFSESS,Länsförsäkringar,"Hej!
+Jag vore tacksam om ni kan länka den här boken tillsammans med de övriga böckerna i serien Kaouz.
+Vänliga hälsningar
+Ola","299,00 Kr","549,00 Kr","Ola Moschna
+xxxx xxxx xxxx 2847
+Mastercard"
+Checked,Jenny,Hansson,,,,,,,"Fyra dagar i Paris","För Joakim har det mesta i livet fallit på plats. Den enda omvälvande händelsen på senare tid är hans och makens adoption som fått honom att inse att han nog inte är pappamaterial. När han dessutom får veta att hans föräldrar ska skiljas rämnar det mesta.
+
+Viktoria, som arbetar som it-tekniker på bussföretaget där Joakim jobbar, har letat så länge efter kärleken att hon börjat tappa hoppet. En dag träffar hon Ulrich, killen som kanske kan vara den rätta. I bakgrunden finns också bartendern Florian, men inte ser han väl henne som något annat än en vän?
+
+Då det blir kris i bolaget och ingen kan köra den nya bussturen mellan Berlin och Paris rycker Joakim och Viktoria in akut. Det blir en resa som ger dem båda nya perspektiv och väver oväntade vänskapsband för livet.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E-bok - 0,00 Kr",,,,,"79-89 kr",,,,,,,,,"Lyckhemsgatan 45",,Vänersborg,Vänersborg,,,Checked,SE860331556801,jenny.violet.hansson@gmail.com,9710-3069559,SE5197100000097103069559,LUNADK2B,"Lunar bank","Hej! Har redan en titel utgiven hos er och fyllde nyss i dessa uppgifter, så det är samma som ska gälla här :) Lunar bank har svenska kontonummer men är registrerat i Danmark, där kan vissa avsändarbanker protestera ibland - men det ska alltså vara dessa uppgifter som gäller. En avsändarbank fick använda ""﻿LUNADK2BXXX"" som BIC/SWIFT för att transaktionen skulle funka, men ovan SKA egentligen funka.","299,00 Kr","299,00 Kr","Jenny Hansson
+xxxx xxxx xxxx 9898
+Visa"
+Checked,Mattias,Ohlsson,,,,,,,"På cykel genom Australien - 3300 km från Darwin till Adelaide","På cykel genom Australien är en fängslande reseskildring om en ovanlig expedition genom ett land av extrema avstånd och dramatiska kontraster. I hjulspåren efter upptäcktsresanden John McDouall Stuart, den förste att korsa den australiska kontinenten, ger sig Mattias Ohlsson tillsammans med sin bror Rikard och sin far Öiwind ut på en långfärd med cykel och tält.
+
+Resan för dem genom öknar, bushlandskap, små samhällen och pulserande städer – under en stekande sol där termometern klättrar mot sina yttersta gränser, genom skogsbränder, förbi minitornados och i isande kalla sydpolsvindar. När dagen övergår i kväll väntar kyliga nätter i öknen, under stjärnhimlar så klara att mörkret nästan känns levande.
+
+Längs vägen möter de människor och platser som ger en levande bild av Australiens historia, natur och vardagsliv. Boken förenar personliga upplevelser med fascinerande fakta om landet och skildrar en fysiskt krävande resa där både uthållighet och familjeband sätts på prov.
+
+På cykel genom Australien är en berättelse om äventyr, gemenskap och upptäckarlust – om att uppleva ett land i cykelns tempo och i historiens hjulspår.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Resor och platser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,Mattias,Ohlsson,"March 20, 2026",,"79-89 kr",,,,,,,,,"Klippergatan 14",,"211 75",malmö,,,Checked,SE197612292453,mattiasohlsson0@gmail.com,8169-5814766087-5,SE3180000816958147660875,SWEDSESS,Swedbank,,"299,00 Kr","549,00 Kr","Mattias Olsson
+xxxx xxxx xxxx 4227
+Mastercard"
+Checked,Monika,Vidman,,,,,,,Våning,"Polisutredare Marje Selter fastställer att Julias dödsorsak är en olycka och, trots vissa tvivel, skickar ärendet till arkivet. Det gör att ägaren igen kan hyra ut sin lägenhet i området Kalamaja.  
+Lindi är mycket glad när hon hittar en ny hyreslägenhet till ett rimligt pris. Allt verkar nu vara bra och dessutom kryddar en ny ögonfröjd hennes vardag. Det som gör henne orolig är bara någon, konstig, osynlig närvaro i hennes våning. När Lindi hör från en granne att den tidigare hyresgästen, en ung tjej som bott i samma lägenhet, dog för ungefär ett år sedan, väcker det obehag hos henne, men Lindi håller sig ändå lugn, då hon inte har någon aning om vad som kommer att hända.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"AUKTSJAUR, 223",,Arvidsjaur,Arvidsjaur,,,,,monvid69@gmail.com,214465128,SE6460000000000214465128,HANDSESS,Handelsbanken,,"299,00 Kr","299,00 Kr","Monika Vidman
+xxxx xxxx xxxx 5719
+Mastercard"
+Checked,Dan,Fränkel,,,,,,,"En tid för löften","De var unga. De var förälskade. De ville förändra världen i ett sjuttiotal då allt tycktes möjligt. 30 år senare sitter Rita Sjöman i sin nya sportbil på väg mot sitt livs mest ovissa resa. Hon, barn till finlandssvenska arbetare och nu VD för ett framgångsrikt bokförlag.
+
+Han, Pierre Friis, charmören och överklassynglingen som startade ett tryckeri åt vänsterrörelsen. Nu är han världsberömd professor med en dotter som anklagar honom för att ha svikit sina ideal.
+
+Hur blev det så här? Vad hände med allt de trodde på? En roman om relationer, klass och ideal, om ett land som förändrades och om människor som förändrades med det.
+
+”Den berörde mig djupt. Karaktärerna var så trovärdiga.”
+
+”En riktig bladvändare. Hög igenkännningsfaktor.”
+
+”Ett bra tips för bokcirkeln.”",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,,,,,,,"Biografi och prosa (ej fiktion)",,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,Benjamin,Hagberg,,,"79-89 kr",,,,,,,,,"Lustigkullavägen 7",,11766,Stockholm,,,Checked,SE480517019001,100dan.frankel@gmail.com,9159-9089744,SE4591500000091599089744,SKIASESS,Skandiabanken,,"299,00 Kr","549,00 Kr","Dan Fränkel
+xxxx xxxx xxxx 0055
+Visa"
+Checked,Piona,"di Polo",,,,Checked,Peter,Ording,"Coconut Island","Coconut Island är ett utdrag ur den erotiska romanen Liberatio. Det är det första kapitlet där huvudpersonen Cornelia anländer till Lotushuset på Coconut Island i Thailand. Där introduceras hon till det njutningsfulla livet med ömhet och sex mellan kvinnor.
+Livet i Lotushuset blir ett uppvaknande för Cornelia som formar resten av hennes liv men den fortsatta berättelsen hittar man i Liberatio. Coconut Island kan läsas som en fristående novell.",,,,,,,,,,,Erotik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E-bok - 0,00 Kr",,,"February 28, 2026",,,,,"17-25 kr (t.ex. kortare novell)",,,,,,"Engelsbergsvägen 2",,"144 62",Rönninge,,,Checked,SE556499327601,peter@profexion.se,"8327-9,14 737 786-5",SE5480000832790147377865,SWEDSESS,Swedbank,,"299,00 Kr","299,00 Kr","Ording Peter
+xxxx xxxx xxxx 4699
+Mastercard"
+Checked,Elias,Holm,,,,Checked,Artur,Kahn,"Tusen små eftergifter: Om att förlora sig själv bit för bit","Tusen små eftergifter handlar inte om stora svek eller dramatiska sammanbrott.
+
+Den handlar om hur man långsamt kan förlora sig själv – genom att vara rimlig, förstående och tillmötesgående lite för ofta.
+
+Ingen förlorar sig själv på en gång.
+
+Det sker i det tysta. I det som aldrig blev sagt. I gränser som flyttades utan att någon märkte det.
+
+I den här boken följer vi en inre resa genom vardagliga situationer där godhet glider över i rädsla, där omtanke blir självutplåning och där konflikträdsla förväxlas med mognad. Det är en stillsam men obönhörlig undersökning av vad som händer när man anpassar sig bort från sig själv – och vad som krävs för att ta sig tillbaka.
+
+Tusen små eftergifter är för dig som burit mycket, förstått mycket och varit stark länge.
+
+För dig som inte vill bli hårdare – men tydligare.
+
+För dig som anar att tröttheten inte handlar om arbete, utan om riktning.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Populärpsykologi och personlig utveckling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E-bok - 0,00 Kr",,,,,"79-89 kr",,,,,,,,,"Johan enbergs väg 3",,SOLNA,17162,,,,,arturkahn@yahoo.com,"8327-9924 856 574-0",SE2180000832799248565740,SWEDSESS,Swedbank,,"299,00 Kr","299,00 Kr","Artur Kahn
+xxxx xxxx xxxx 1578
+Mastercard"
+Checked,Anneli,"Jangengård Fogelberg",,,,,,,Ensambarn,"I denna djupt personliga självbiografi tar Anneli Jangengård Fogelberg oss med på en resa som börjar i en barndom präglad av mobbning och sociala utmaningar, och fortsätter genom ett liv dominerat av kronisk smärta. Ensambarn är en berättelse om mod, motgångar och den obevekliga kampen för att bli förstådd i en värld som ofta  blundar inför osynlig smärta. 
+Författarens kamp med fibromyalgi och bristen på empati inom sjukvården speglas genom hennes uppriktiga och emotionella berättelse. När hon väljer att utbilda sig till behandlingspedagog öppnas en ny värld av emotionella utmaningar men också möjligheter till helande och självförverkligande. Denna bok är en berättelse om överlevnad och en inspirationskälla. 
+Fogelberg bjuder in läsaren till en intim inblick i sitt liv, bryter traditionella narrativa strukturer och väver samman sina egna reflektioner med verklighetens råa känslor.
+Ensambarn är en viktig läsning för alla som söker att förstå och känna medkänsla för de som lever med osynlig smärta och för de som själva kämpar med liknande utmaningar.",,,,,,,"Ande, kropp och själ",,,,,,,,,,,,,,,,,,,,,,,,,,,,"Medicin och omvårdnad",,,,,,,,,,"Biografi och prosa (ej fiktion)","Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,Anneli,"Jangengård Fogelberg","March 1, 2026","119-129 kr",,,,,,,,,,"Snöåvägen 25",,77142,Ludvika,,,,,annelijfogelberg@gmail.com,170382001,SE7660000000000170382001,HANDSESS,Handelsbanken,,"299,00 Kr","549,00 Kr","Jangengård Fogelberg Anneli
+xxxx xxxx xxxx 4359
+Mastercard"
+Checked,sadas,dasdas,,,,,,,dasdas,dasdas,,,,,"Från 12 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"E-bok - 0,00 Kr",,,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,sadas,,dasda,dasd,,,,,marino@assarsson.one,"8030-9,73013805-4",SE1212121212121212121212,swesess,Swedbank,,"299,00 Kr","299,00 Kr","Marino Assarsson
+xxxx xxxx xxxx 0197
+Mastercard"
+Checked,Gunilla,Vigert,,,,,,,"Det är ont om kramar i cyberspace","Möt Hugo, en ung man som står vid livets vägskäl. Alla förväntar sig att Hugo ska ta över familjeföretaget, en framgångsrik byggfirma i Halmstad, fast det är det sista han vill. Problemet är att han inte vet vad han vill göra istället, så han gör så lite som möjligt.
+
+Han bor fortfarande hemma hos sina föräldrar, jobbar som brevbärare och spenderar sin fritid med att skapa fantastiska saker med sin 3D-skrivare. Men Hugo har en hemlighet – han är förälskad i en AI-tjej. När Hugos pappa plötsligt ställer ett ultimatum fattar Hugo ett beslut som kommer att förändra hans liv för alltid. Han tvingas då flytta in hos sin mormors excentriska syster i Gamla stan. Där öppnar sig en okänd värld.
+
+Ska han våga välja en egen väg?",,,,,,,,,,,,,,,,,,,,,,,,,,"Humoristiska romaner",,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,Martin,Bodeman,"February 22, 2026",,,,,,"Annat pris - ange pris nedan",100,,,,"Rådmansövägen 328,",,76015,Gräddö,,,,,gunilla@vigertconsulting.se,"Bankgiro 774-7652",SE8680000824200039405709,HANDSESS,"Roslagens sparbank","Jag har sedan tidigare publicerat samma bok som e-bok via er. Ljudboken är redan inskickad till Storytel.","299,00 Kr","549,00 Kr","Vigert Gunilla
+xxxx xxxx xxxx 9901
+Mastercard"
+Checked,Thomas,Hansen,,,,,,,"När mikrofonen tystnar","”Hennes puls var obefintlig, ögonen var uppspärrade, stela och livlösa och på huvudets vänstra sida syntes en rödbrun smutsig yta …”
+
+Sveriges största musiktävling drabbas av en tragedi – en ung sångerska hittas död kvällen innan sitt genombrott i tv. Hon blev mördad, säger polisen. Pojkvännen gjorde det, påstår media. 
+
+Den envisa mordutredaren Sandra Collin kopplar in sig själv på fallet, och sökandet efter sanningen blir både komplicerat och farligt. Vem vill tysta sångerskan och varför?
+
+När mikrofonen tystnar är första delen i en trilogi om Sandra Collin. De övriga delarna heter Tunnelbanemorden och Dödslyktan. Denna ljudbok är producerad med lätt ljudläggning som förstärker lyssnarupplevelsen.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ljudbok (tillkommer 250 kr för filhantering) - 250,00 Kr",,Peter,Borossy,,,"79-89 kr",,,,,,,,,"Grönbetevägen 41",,16559,Hässelby,,,Checked,SE559241151501,thomas.sthlm@gmail.com,96609085678,SE3196600000096609085678,"SVEA SESS","Svea Bank Bokio","Bild för boken är bifogad bland de inskickade ljudfilerna.","299,00 Kr","549,00 Kr","MAXINAD AB THOMAS HANSEN
+xxxx xxxx xxxx 6967
+Mastercard"
+Checked,Anna-Karin,Deinoff,,,,,,,"Fyra steg för framgångsrik förändring","Fyra steg för framgångsrik förändring är en guide för dig som ska planera, organisera, genomföra och leda i förändring. Den innehåller verktyg, förklaringsmodeller och en steg-för-stegmodell som stöd för själva görandet, det vill säga det administrativa hantverket. Innehållet i guiden har skapats med inspiration från olika teorier och med ambitionen att det ska vara lätt att göra rätt.",,,,,,,,,,,,,,,,,,,"Företagsekonomi och management",,,,,,,,,,,,,,,,,,,,,,"Självhjälp och praktiska råd",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Läromedel,,,,,,,,,"February 1, 2026",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Norra Lysevägen 43",,42338,Torslanda,,,,,kontakt@deinoffdevelopment.se,810599148852405,SE6480000810599148852404,SWEDSESS,Swedbank,"Hej,
+Jag har på sista sidan lagt in en rad för ISBN - tacksam om ni kan lägga in det?
+
+Kommer att ge ut ett häfte som liknar e-boken, men kommer att sälja häftet som arbetsmaterial i tryckt format - vet du/ni om det finns några hinder för att låta en version av ""samma verk"" vara ""e-boksklassad"" med ISBN, men låta dess tryckta motsvarighet avstå. 
+
+Allt gott!","299,00 Kr","299,00 Kr","Anna-Karin Deinoff
+xxxx xxxx xxxx 7125
+Mastercard"
+Checked,"Henrik X",Magnusson,,,,,,,"Obducenten som var nekrofil - och 8 andra bisarra noveller i mästarklass.","Nio mörka noveller om människor vars öden tar en oväntad vändning. En man vars hörapparater avslöjar hemligheter han aldrig borde höra. En terapeut som tar på sig sina patienters problem. En obducent med förbjudna begär. En arvtvist som slutar i något mycket värre än fattigdom. 
+I dessa nio berättelser möter vi människor i vardagliga svenska miljöer – i Stockholm – vars liv plötsligt kastas in i det bisarra, det mörka, det onämnbara. Med elegant prosa och vassa observationer utforskas mänskliga svagheter: girighet, besatthet, hämnd, desperationen att bli sedd.
+Varje berättelse leder till ett slut som är lika oväntat som oundvikligt. Lika obekvämt som tillfredsställande. För här finns ingen tröst, ingen försoning – bara den kalla sanningen om vad vi är kapabla till när vi tror oss vara ensamma med våra mörkaste impulser.
+Perfekta godnatt-sagor för vuxna som föredrar sina slutsatser chockerande och sina moraliska kompasser brutna.
+
+En hyllning till Roald Dahls och Edgar Allan Poes mörka noveller för vuxna – skrivna för svenska läsare som vågar titta in i avgrunden.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Noveller,,,,,,,"Skräck och övernaturligt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Henrik X",Magnusson,,,"79-89 kr",,,,,,,,,"Artemisgatan 17",,STOCKHOLM,Stockholm,,,,,henrik.magnusson.edu@gmail.com,"8105-9, 642005177",SE2680000810590642005177,SWEDSESS,Swedbank,,"299,00 Kr","299,00 Kr","Henrik Magnusson
+xxxx xxxx xxxx 6836
+Mastercard"
+Checked,"Jan O",Bengtson,,,,,,,"Brf Skuggebo alias Myrstacken","Bakom de välskötta fasaderna i bostadsrättsföreningen Skuggebo döljer sig livsöden, hemligheter och konflikter som sällan når trapphuset i dagsljus. Här lever människor tätt inpå varandra – och ändå helt ensamma.
+
+Genom nedslag i olika lägenheter möter vi föreningens boende: drömmar som gått i kras, relationer som knakar i fogarna och vardagar där små händelser får oväntade konsekvenser. Det som först kan verka som en trygg och anonym bostadsmiljö visar sig snart rymma både mörker och värme, svek och omtanke.
+
+BRF Skuggebo är en lågmäld men skarp skildring av människors liv bakom stängda dörrar – om vad som händer när gränsen mellan privat och gemensamt suddas ut, och om hur lite vi egentligen vet om dem som bor vägg i vägg med oss.",,,,,,,,,,,,,,,,,,,,,,,,,Humor,,,,,,,,,,,,,,,,,,,,,,,,,,,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"Bonderudsvägen 102",,68195,Kristinehamn,,,,,janbengtson@gmail.com,6801-596765711,SE3160000000000596765711,HANDSESSXXX,Handelsbanken,,"299,00 Kr","299,00 Kr","Jan-Olof Bengtsson
+xxxx xxxx xxxx 2696
+Mastercard"
+Checked,Monika,Vidman,,,,,,,Otrogen,"Julia, som har utstått sin mans otrohet i åratal, bestämmer till sist för att skilja sig. Hon finner stöd hos sin chef, som stöttar och hjälper henne på alla sätt, men tyvärr är han gift. Kvinnan befinner sig plötsligt i älskarinnans roll, och det gillar hon inte alls. Julia vill inte vara den andra kvinnan under några omständigheter; hon älskar honom inte ens på samma sätt som han älskar henne. Tyvärr tar mannen ändå upp så mycket av hennes tid att hennes egen familj blir längre och längre bort, samtidigt som katastrofen närmar sig.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"AUKTSJAUR, 223",,Arvidsjaur,Arvidsjaur,,,,,monvid69@gmail.com,214465128,SE6460000000000214465128,HANDSESS,Handelsbanken,,"299,00 Kr","299,00 Kr","Monika Vidman
+xxxx xxxx xxxx 5719
+Mastercard"
+Checked,Clementine,Miller,,,,Checked,Elisabeth,Prada,Unicorn,"Första gången på swingerklubb. Första gången hon skulle ha sex med en kvinna. Första gången i rollen som “unicorn”: den tredje kvinnan. Utsatt sexobjekt för att förverkliga ett pars fantasier? Eller så sällsynt och eftertraktad att det var hon som hade makten att vara kräsen och påverka hur fantasin skulle utspela sig i verkligheten? Skulle hon ta sig den makten? Hon hade ju gått med på att låta Ibrahim agera regissör. Han hade tittat på så mycket trekantsporr att han hade visionen, manuset och scenerna klara för sig i tanken.
+
+Författare
+Clementine Miller är pseudonym för en sexolog och författare som skriver i olika genrer. För henne är skrivandet ett sätt att göra vardagen mer dramatisk, lära sig mer om sig själv, andra människor och tillvaron i största allmänhet. Inom den erotiska genren bejakar Clementine sin egen lust och utforskar sina fantasier – med ambitionen att inspirera läsarna till att göra detsamma.",,,,,,,,,,,Erotik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"February 2, 2026",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Sjöbacken 3",,13150,saltsjö-duvnäs,,,,,detta.prada@gmail.com,52540024114,SE6850000000052540024114,ESSESESSXXX,SEB,,"299,00 Kr","997,00 Kr","elisabeth prada
+xxxx xxxx xxxx 9444
+Mastercard"
+Checked,Daniel,"Singam Wendel",,,,,,,"Hitta Hem","Alicia kämpar med ett arbete som sliter mer på själen än på kroppen, en chef som förpestar dagarna och och en vardag som blivit alltför liten. Ekorrhjulet är lika konstant som förlamande.
+
+Frank lever på Malmös gator, osynlig för de flesta och han brottas med minnen av en familj han förlorat och skulden över dåliga val som ledde till ensamhet och hemlöshet.
+
+När deras vägar korsas väcks något som legat dolt sedan läge - en påminnelse om ungdomens drömmar, om vad som kunde ha varit och kanske fortfarande kan bli.
+
+Hitta Hem är en varm, drabbande och humoristisk roman om ensamhet, oväntade möten och den svåra men stundtals nödvändiga konsten att våga välja om. Det är en berättelse om att finna sitt eget hem inte bara som en plats, utan som en känsla av att höra till.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Elin,Larsson,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Rågåkersvägen 50",,23836,Oxie,,,,,danielwendel90@gmail.com,"9060 7763825",SE5090200000090607763825,ELLFSESS,Länsförsäkringar,,"299,00 Kr","299,00 Kr","Daniel Wendel
+xxxx xxxx xxxx 8277
+Mastercard"
+Checked,Per,Hånell,,,,,,,"Morfar Aaron och Prags musikanter Del 1: Gefiltefish","Vad är det egentligen som händer i Prag? Davids hund Hermes bär på hemligheter och David är arg på sina föräldrar. De bor alla i den medeltida staden med snirkliga gränder och massor av historia. Judendom och kristendom möts. Germansk och slavisk kultur blandas. För att inte tala om alla djur som lever ett helt annat liv än vad människorna tycks tro...",,,,"Från 9 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Johan Skyttes väg 380, lgh 1203",,12559,Älvsjö,,,,,per.hanell@birkagarden.fhsk.se,7408307556,SE8330000000007408307556,NDEASESS,NORDEA,,"299,00 Kr","698,00 Kr","PER HÅNELL
+xxxx xxxx xxxx 4921
+Visa"
+Checked,Axel,Vilde,,,,Checked,Erik,Eriksson,Blodlinje,"En tidig morgon i början av sextiotalet skakas en indisk by av ett brutalt överfall. Ett hänsynslöst banditgäng kidnappar två nyfödda tvillingar och lämnar deras unga mor svårt misshandlad och våldtagen – nära döden, men hon överlever. Barnen förs över gränsen till Pakistan, där de tas om hand av ett barnlöst par. Men deras trygghet blir kortvarig. En dramatisk händelse gör att myndigheterna fråntar paret barnen, som placeras på ett statligt barnhem.
+Tvillingarna skiljs åt. Flickan adopteras av ett kanadensiskt par. Pojken får ett nytt liv i Sverige och döps till Daniel.
+Berättelsen följer Daniels uppväxt i den lilla staden Arboga – från barndomen till vuxenlivets framgång. Han blir en driven entreprenör, hyllad och etablerad. Men när han når toppen av sin karriär, väcks en längtan som inte går att ignorera. Han bestämmer sig för att söka sina rötter – och sanningen om sitt ursprung.
+
+Boken är en nyutgivning och omarbetning av författarens debutbok från 2015-
+I öknen har pärlor inget värde.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,"Familj / släktromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Axel,Vilde,,,"79-89 kr",,,,,,,,,"Västermo Asphäll",,"635 35","Stora Sundby",,,,,axel.vilde@gmail.com,"8270-14 759 697-8",,,Swedbank,"För minn förra bok uppgav jag mitt bankgironummer om jag minns rätt. Men det är kopplat till detta konto. Är det ok?",,"299,00 Kr","Erik Eriksson
+xxxx xxxx xxxx 2670
+Mastercard"
+Checked,Pia,Rockström,,,,,,,"Där själarna dansar","Där själarna dansar är en berättelse om kärlek starkare än döden. Mitt i livet börjar Pia skriva till sin trillingsyster Maria som dog samma dag de föddes. Systerns svar låter inte vänta på sig. Svaren kommer med intensitet och med ett flödande språk som inte är av denna värld. Det blir ett vindlande samtal mellan dimensionerna. Som en slags själarnas dans. 
+Ordväxlingen mellan systrarna ger tröst till alla som förlorat någon. Och insikt om att det finns en kraft i att öppna upp för kontakten till de som lämnat jordelivet. Boken ger hopp om att varje själ är evig och att vi på så vis aldrig kan förlora varandra.
+Pia Rockström är journalist och har tidigare skrivit flera intervjuböcker däribland Leva för två där hon intervjuade ensamma tvillingar från hela världen. Handlingen i Där själarna dansar baseras på Pias egen historia, hon föddes som trilling i Lund 1970, en av hennes systrar levde bara några timmar.",,,,,,,,,,,,,"Familj och hälsa",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,,,"Modern och samtida skönlitteratur",,,"Biografiska romaner",,,,,,,,,,,,,,,,,,,"Populärpsykologi och personlig utveckling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pia,Rockström,,,"79-89 kr",,,,,,,,,"Granvägen 3",,27350,Brösarp,,,Checked,SE701008410601,pia@rockstrom.nu,"Bankgiro 671-4133",,,"Sparbanken Skåne","Hej! Här kommer min fjärde ljudbok, Där själarna dansar som 45 Wav-filer plus färdigt bokomslag. De andra böckerna finns sedan tidigare på Digibook. Hör av er vid oklarheter.
+Mvh Pia Rockström",,"299,00 Kr","Pia Rockström
+xxxx xxxx xxxx 6544
+Mastercard"
+Checked,Pierre,Hayek,,,,,,,"Aamou - The Last Babylonian","During the golden age of Mesopotamia, peace reigns among the great kingdoms. Yet small tribes begin to grow in strength, launching raids against lesser-established villages, and at times even against the larger realms. One of the most notorious rising powers is the Sumerians. They are on the march and will settle for nothing less than turning their neighbors into subjects. They conquer lands from the ruling Babylonians and their adversaries, the Persians. But in the southern Assyrian desert lies a city spared from barbaric incursions. There, a stern yet just king has mastered the art of diplomacy. Not only has he managed to keep external affairs at bay through peaceful means and instilled calm among his people, but he has also succeeded in keeping his soldiers content and his citizens well-fed. In this city lives a modest, middle-aged nobleman. His family and lineage have, for generations, played a role in the political sphere. Over time, they have cultivated a strong reputation among the upper echelons through wise counsel to the king. But when the reigning monarch suddenly dies, his younger brother seizes power, and everything changes overnight. The arbitrary bond with the nobility is severed, and the humble nobleman is forced to flee the city with two chosen servants. The escape into the harsh and inhospitable desert becomes a trial of endurance. As the journey unfolds, suspicion begins to grow. Can he truly trust his two companions? When a woman in distress joins their company, everything comes to a head.",,,,,,,"Ande, kropp och själ",,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,"Religion och tro",,,,,,,,,,,,,,,,,,,"Äventyrsromaner / action",,"Myter, sagor och legender i skönlitterär form",Feelgood,,,,"Skönlitteratur i översättning",,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: spänning och äventyr",,,,"Skönlitteratur barn och ungdom: fantasy","Skönlitteratur barn och ungdom: sagor, myter och legender",,,,,,,,,,,,,,,,,,,,,,,,"Från 15 år",,,,,"AI Steve",McBane,,"119-129 kr",,,,,,,,,,"Tulegatan 2",,17278,Sundbyberg,,,,,morgrona7@gmail.com,6153-598024298,,,Handelsbanken,,,"299,00 Kr","Pierre Hayek
+xxxx xxxx xxxx 9161
+Mastercard"
+Checked,Anders,Gréen,,,,,,,Firad,"Professorn i nationalekonomi, Konrad Iversen, fyller sextio – men födelsedagen utvecklar sig till en mardröm. Ett mystiskt brev från signaturen En vän drar in honom i en katt-och-råtta-lek där insatsen förefaller vara hans liv och familjens säkerhet. 
+
+Konrad måste navigera genom en labyrint av hot och manipulation. Ett händelseförlopp som han aldrig kunnat föreställa sig, där gränsen mellan spel och dödligt allvar suddas ut. Och det verkar som om Konrad inte förstått vem han egentligen är – i omgivningens ögon.
+
+Vem är den anonyma vän som styr hans öde? Och vad är vännens verkliga motiv? Roa och överraska, utstuderad hämnd eller ren ondska?",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anders,Gréen,,,"79-89 kr",,,,,,,,,"Skäggestad Ekelund 2",,58561,Linghem,,,Checked,SE559443767401,andmargre@gmail.com,96606106984,,,SveaBank,"Ljudboksfilerna som jag skickat upp är inspelade med AI, och jag som författare äger rättigheterna till inspelningen enligt det avtal jag har med Elevenlabs. Jag har dock angivit mitt namn som inläsare i ert formulär då jag inte ser att jag skriva annat.",,"299,00 Kr","Anders Gréen
+xxxx xxxx xxxx 8692
+Mastercard"
+Checked,David,Petersson,,,,Checked,Ola,Moschna,"Kaouz i fjällen","Kaouz i fjällen följer elvaårige Ralf Kaouz och hans familj på en fjällresa som snabbt spårar ur. Skidbackar, vurpor, pulkorace och snöbollskrig blandas med syskonbråk, skratt och stora drömmar om att bli fjällens kung.
+
+En varm, tokig och igenkännbar berättelse om familjekaos, mod och att resa sig igen – även när man ramlar gång på gång.
+
+Detta är den andra fristående boken om Ralf Kaouz och hans familj – en serie där vardagen aldrig blir riktigt som planerat.",,,"Från 6 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oscar,Lind,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Lindås 125",,38294,Nybro,,,,,kaouzbooks@gmail.com,90232633578,,,Länsförsäkringar,"Bok 2 i serien om Ralf Kaouz och hans familj.",,"299,00 Kr","Ola Moschna
+xxxx xxxx xxxx 2847
+Mastercard"
+Checked,"Anna K",Olson,,,,,,,"Jakten på jätteädelstenarna, bok 2.","Observera! Detta är en direkt fortsättning på min första ljudbok angående den här fantasysagan som jag har skrivit, därför har jag börjat på kapitel 18 och inte kapitel 1 som man normalt sett brukar på en bok då jag har räknat detta som en sammanhängande bok men jag har delat upp boken i två ljudböcker istället. Båda bildernas omslag som är till dessa två böcker är AI-genererade gratisbilder. 
+
+Handlingen utspelar sig mestadels i en skog, men där är också människor utanför skogen som bor lite modernare i trähus och har en närliggande damm som de kan fiska i och i människornas område utanför skogen finns en modernare affär där man kan kan köpa varor med pengar eller byta till sig varor om man har något med som affären accepterar som man kan byta till sig varor med. 
+
+I skogen finns det en häxa som bor i en stuga och har en liten trädgård som är känd för att vara grym och elak och som har en svart katt som heter Fiona. Det finns också en god fé som heter Delilah och ett gäng dvärgar som just nu är 12 st där dvärgen Leo brukar räknas som deras förespråkare och ledare. Dvärgarna gillar att leta guld, diamanter och övriga ädelstenar som de hittar i skogen och i skogens grottor och klippor för den här skogen är en lite märklig skog där man kan finna allehanda saker och varelser som inte brukar finnas i en skog. De samlar vad de finner med sådant i sin grotta. 
+
+I den här skogen finns också en drake som är känd för att inte vara så snäll han heller och hans eld kan bli farlig om den träffar någon. Han är också girig efter guld, diamanter och andra ädelstenar och har en stor skatt med sådant i sin grotta. Delilah bor också i en grotta liksom ett gäng troll som finns i skogen. Trollen har inte så bra rykte om sig de heller ifrån början. 
+
+Det finns också en trollkarl som heter Elf som också bor i en stuga som också är känd för att vara grym och elak. I skogen finns det också prins Leon och prinsessan Lina som bor i sitt slott. I slottet spökas det i ibland och det förekommer även vad som kallas poltergeist ibland.  Spöken och fladdermöss finns det också i den här skogen och ett gäng minitroll som också kan bli farliga med sin dimma som de kan framkalla som kan fånga andra. Det finns också ett gäng skogsmöss som inte är som våra vanliga skogsmöss som inte heller är kända för att vara trevliga som snor rep och trollar till sig rep för i den här skogen är det många som kan trolla. Repen använder de för att fånga någon eller djur eller att klättra med. En del av skogsmössen följer också med det här sällskapet när de möter på dem. Trollkarlen har också två syskon som heter Minerva och Lido och det finns några som de kallar för nissar som går omkring med säckar i skogen. Emot slutet på den förra boken har det också flyttat in en jätte i skogen som heter Nero och några svartklädda män.
+
+Det blir i den första boken problem med draken som kommer för nära dvärgarna och slottet och skapar oro. När Delilah en dag beslutar sig för att hälsa på prins Leon och prinsessan Lina tar hon vägen om dvärgarna och får reda på deras bekymmer. De beslutar att sex dvärgar däribland Leo ska följa med Delilah till slottet och på vägen ska de försöka att övertala häxan och Elf och en del av de vanliga trollen att följa med och ta reda på vad draken är ute efter och försöka gå upp i en kamp emot honom och kanske få ut honom ur skogen. 
+
+På vägen möter de minitrollen som vill att några av dem följer med och de berättar att fåglarna har sagt att draken är ute efter jätteädelstenar och dvärgarna blir förstås intresserade av att att hitta dem före draken och ta till sin skatt i sin grotta. När de sex dvärgarna som är kvar i dvärggrottan får höra via fåglarna vad det hela handlar om beslutar de att starta en egen skattjakt efter jätteädelstenarna i närheten av deras grotta.",,,,"Från 9 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Anna K",Olson,"January 15, 2026",,"79-89 kr",,,,,,,,,"Magistervägen 3, lgh 1102",,43250,Varberg,,,,,fotoanna3000@gmail.com,30410001775,,,Nordea,"Jag skickar med en framsida som jag har valt och har skrivit texten på till Marino.",,"299,00 Kr","Anna Olsson
+xxxx xxxx xxxx 9343
+Visa"
+Checked,Lia,Monroe,,,,Checked,Ola,Moschna,"Hjärtats Anteckningar – När allt börjar","Hjärtats Anteckningar – När allt börjar
+
+Hon tänkte bara jobba, leva sitt liv och inte känna så mycket.
+Tills han stod där.
+Plötsligt räcker en blick för att hjärtat ska stanna.
+En kaffekopp för att dagen ska skifta.
+En hand som nästan rör vid hennes för att allt ska kännas nytt.
+
+Genom hennes anteckningar försöker hon förstå det som växer mellan dem — något ingen av dem vågar sätta ord på.
+Inga stora gester.
+Inget drama.
+Bara två människor som långsamt hittar in i varandras liv.
+
+Perfekt för dig som älskar lågmäld romance nära hjärtat.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anna,Lind,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Lindås 125",,Nybro,Nybro,,,,,kaouzbooks@gmail.com,90232633578,,,Länsförsäkringar,,,"299,00 Kr","Ola Moschna
+xxxx xxxx xxxx 2847
+Mastercard"
+Checked,"Thomas C",Ericsson,,,,,,,"NATTBOK C","Nattbok C består av 100 korta strofer om sömnlöshet, skrivkramp och pandemiavstånd. Första dikten är daterad  11/3-20, då  det första dödsoffret för Coronapandemin i Sverige konstaterades. Sista dikten skrivs 750 dagar senare då pandemin anses vara över.
+""Poeten ligger sömnlös och skriver. Poeten låter språket uppstå ur tystnaden. Dikterna får en inre puls, där varje andetag räknas. Dikterna adderar ord till ord... Allt kommer närmare som nyss var satt i karantän."" (ur förordet av Andreas Björsten)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poesi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thomas C",Ericsson,"December 23, 2025",,,,,"17-25 kr (t.ex. kortare novell)",,,,,"Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Grönedegatan, 31",,Kisa,Kisa,,,,,thomas.c.ericsson@gmail.com,"8401-2 3507177-8",,,"Vimmerby Sparbank",,,"498,00 Kr","Thomas Ericsson
+xxxx xxxx xxxx 9124
+Mastercard"
+Checked,Anders,Lindgren,,,,,,,Sommarmysteriet,"Alma och Benji följer med sina föräldrar till sommarstället i Blekinge. Alma
+räknar med ett långtråkigt lov, utan internet och mobiltäckning.
+När hon får höra talas om snapphanen Ola Sona och den skatt som sägs vara
+gömd vid deras badplats förändras allt.
+Det de inte vet är att de inte är ensamma. Fler letar efter skatten – och alla
+spelar inte schysst. Jakten växer snabbt till något mer än ett äventyr, och snart
+står det klart att sommarlovet inte alls blir som de tänkt sig.
+I Sommarmysteriet möts nutid och dåtid, och gamla skrönor får verkliga följder i
+och kring samhället Kättilsmåla i norra Blekinge.",,,,"Från 9 år","Från 12 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: spänning och äventyr",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rebecka,Beran,,,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,,,,"Bersågränd 2",,12131,Enskededalen,,,,,anders.lindgren@botkyrka.se,33006102224331,,,Nordea,"Jag har en kort text som jag hade tänkt ha i bokpresentationen. Den finns på första sida i formuläret, men här är den igen.
+
+Alma och Benji följer med sina föräldrar till sommarstället i Blekinge. Alma
+räknar med ett långtråkigt lov, utan internet och mobiltäckning.
+När hon får höra talas om snapphanen Ola Sona och den skatt som sägs vara
+gömd vid deras badplats förändras allt.
+Det de inte vet är att de inte är ensamma. Fler letar efter skatten – och alla
+spelar inte schysst. Jakten växer snabbt till något mer än ett äventyr, och snart
+står det klart att sommarlovet inte alls blir som de tänkt sig.
+I Sommarmysteriet möts nutid och dåtid, och gamla skrönor får verkliga följder i
+och kring samhället Kättilsmåla i norra Blekinge.",,"299,00 Kr","anders Lindgren
+xxxx xxxx xxxx 0993
+Visa"
+Checked,Per,Hånell,,,,,,,"Använd inte detta formulär = finns nytt/annat formulär! Morfar Aaron och Prags musikanter","David älskar staden Prag som han bott i hela sitt liv. Men han är nyfiken att lära sig om nya länder, rymdraketer och dinosaurer. I skolan lär han sig mycket men mest lär han sig av sin hund Hermes som visar en helt ny sida av staden David trodde sig känna. I Morfar Aaron och Prags musikanter följer vi en judisk pojkes längtan efter bättre kontakt med sina föräldrar och sin familjs historia men också ett roligt äventyr genom djurens ögon!",,,,"Från 9 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: spänning och äventyr",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Johan Skyttes väg 380, lgh 1203",,12559,Älvsjö,,,,,per.hanell@birkagarden.fhsk.se,7408307556,,,Nordea,"Clearing 3300",,"698,00 Kr","PER HÅNELL
+xxxx xxxx xxxx 4921
+Visa"
+Checked,Emelie,Ericsdotter,,,,,,,"Ensam längtan","Under ett smärtsamt minne vid hennes barns grav dyker plötsligt Jonas upp. Klaras livs kärlek och själsfrände. Mannen som lämnade henne för en annan.
+
+Jonas vill att det blir dem igen, en dröm Klara burit på under många år. Men allting är inte som det verkar, det förflutna gör sig påmint och hotar att rasera Klaras värld ännu en gång. När sanningen kommer ikapp henne suddas gränserna mellan verklighet och fantasi ut, och Klara måste välja – stanna där hon är trygg eller möta sina mörkaste och djupaste rädslor.
+
+”Ensam längtan” är en novell om hjärtskärande förluster och psykisk ohälsa, där livet kan vara precis vad du önskar – eller din värsta mardröm.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Emelie,Ericsdotter,"January 19, 2026",,,,,"17-25 kr (t.ex. kortare novell)",,,,,,"Stabbyvägen 31",,76174,Norrtälje,,,,,mli-88@hotmail.com,"8242-0 3 904 739-4",,,"Roslagens sparbank",,,"299,00 Kr","Harmoni i Roslagen Lindberg Emelie
+xxxx xxxx xxxx 9413
+Mastercard"
+Checked,Thomas,Funck,,,,,,,"Thomas Funcks Kalle Stropp och Grodan Boll - Kalle Stropps julkalas","Nu började det skymma på ängen. Medan vännerna höll på och försökte lista ut vad brevet betydde så höll tomtarna Tomte-Nisse och Tomte-Bisse på med något helt annat i andra änden av ängen.
+
+Kalle Stropp, Plåt-Niklas, Hönan och Papegojan började gå i de riktningar som Kalle Stropp pekat ut. 
+Grodan Boll nickade och så började han också se sig omkring. Men vad ingen av våra vänner märkte var att tre mystiska figurer satt en bit ifrån, under en gran, och tittade på dem. Det var de tre Julstörarna!
+
+HÖRRU! Nu är vi här igen!
+
+Redan på 1950-talet gjorde Kalle Stropp och Grodan Boll stor succé i Sverige som radioprogram. Deras återkommande budskap om att värna om djur, natur och om varandra är lika aktuella idag, som då. Äntligen får vi återse alla kära figurer: den gröna gräshoppan Kalle Stropp, den klumpiga men snälla Grodan Boll, och så deras vänner Plåt-Niklas, papegojan Ragatha, Hönan och Räven.
+
+""Kalle Stropps julkalas” är den andra julljudboken i den helt nya bokserien om Kalle Stropp och Grodan Boll.",,"Från 3 år","Från 6 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,,,,"Hallingebergs Teater",,59491,Gamleby,,,,,mikael@bollochstropp.se,"8422-8,3 297 347-1",,,"Sparbanken Spira",,,"299,00 Kr","Mikael Funck
+xxxx xxxx xxxx 3748
+Visa"
+Checked,P-C,Wike,,,,Checked,Pippi,Windrike,Dotter,"När Annas långa sjukskrivning inte förlängs får hon jobb i serviceboendet Tornet. Men Anna ska inte vårda. I stället ska hon vara spökskrivare åt 94-åriga Britta som vill få historien om sin dotter Cleo nedtecknad.
+Mitt i skrivandet dör Britta och skrivlusten utplånas av sorgen. Men Britta lämnar inte bara ett stort tomrum efter sig utan också många nycklar. En av dem går till en lägenhet i Schweiz dit Anna reser i hopp om att få igång skrivandet igen. Där hittar hon överraskningar i en chiffonjé som matar hennes nyfikenhet.
+På uppdrag av sin redaktör startar Anna en skrivcirkel. Deltagarna Selma, Millan och Aje samt åldringen Axel kommer var och en betyda allt för fortsättningen. När skrivcirkelns arbete tilltar, växer också insikterna om dem själva, deras vänskap och det förflutna. Ett gammalt torp avslöjar hemligheter och en osannolik arvstvist blottar familjebandens mest smärtsamma sidor.
+
+Dotter är en fiktiv historia som bygger på verkliga händelser. Boken handlar om en skrivcirkel, en arvstvist och om systerskap men också om att kunna gå vidare efter förluster.",,,,,,,,,,,,,"Familj och hälsa",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,,,"Modern och samtida skönlitteratur",,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Malin,Halland,,"119-129 kr",,,,,,,,,,"Fortvägen 98",,Täby,Täby,,,,,pippi@windrike.se,3300-6311271024,,,Nordea,"Jag har redan fått ett IASBN titeln ”Dotter”:  978-91-90155-04-2",,"299,00 Kr","Pippi Windrike
+xxxx xxxx xxxx 7858
+Mastercard"
+Checked,Monika,Vidman,,,,,,,"Snabbis för 20? 10!","Huvudkaraktären Helena hade aldrig tänkt på att en människas liv och den trygga vardagen kan förändras över en natt. Men då hände det oförlåtliga och plötsligt hamnade Helena i Paris med ett enda mål – att överleva och med en enda fråga - hur? 
+”Mannen som stod framför henne, bara i kalsonger, uppträdde arrogant. Med ögonen halvt stängda stirrade han på Helena och det var mer än tydligt att han kokade av ilska. För Helena verkade han av någon anledning ändå som en patetisk, ynklig och inkompetent förlorare, så hon kunde inte dölja sitt leende. Här står han halvnaken med sin pyttelilla penis i kalsongerna och tror att han är något. Ofattbart! Och vad i helvete hette han? Jon? Jack? 
+Situationen verkade patetisk. I alla avseenden. Samtidigt visste Helena inte vad hon skulle säga. Och vad hade hon att säga? Den hundra euros sedeln i hennes hand talade för sig själv. Hon hade tagit den från den här mannens plånbok och ville genast lämna lägenheten utan att stoppa pengarna i väskan eller fickan. Hon trodde att det skulle finnas tid senare. Hon hade så fel.”",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"AUKTSJAUR, 223",,Arvidsjaur,Arvidsjaur,,,,,monvid69@gmail.com,5226600255235719,,,Handelsbanken,,,"299,00 Kr","Monika Vidman
+xxxx xxxx xxxx 5719
+Mastercard"
+Checked,"per mats",hedlund,,,,,,,"Jakten på Karl Marx okända testamente","En nutidshistorisk berättelse som spänner över 50 års historia. Med början i Berlin, tidigt 70 tal tar huvudpersonen med oss på en resa genom 50 års nutidshistoria på jakt efter ett avgörande historiskt dokument. Vi möter makthavare i överraskande roller och upplever händelser man kan minnas men i nytt perspektiv.",,,,,,,,,,,,,,,,,,,,,,"Historia och arkeologi","Historiska romaner",,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"January 29, 2026",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Fabriksgatan 30 B",,Vislanda,Vislanda,,,,,mats1013@hotmail.com,"plusgiro ftg 478961-6",,,Nordea,,,"698,00 Kr","mats hedlund
+xxxx xxxx xxxx 8663
+Visa"
+Checked,Camilla,Andersson,,,,Checked,Linda,Karlsson,Sorgnissen,"När sorgen är för stor för att bära ensam,
+finns det en liten nisse som med med minnens och kramars värme,
+visa hur kärleken till någon vi saknar
+aldrig försvinner.
+
+En berättelse om att det är okej
+att känna sina känslor för att kunna läka.",,,"Från 6 år",,,,,,,,,,,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jul,,,Camilla,Andersson,"December 12, 2025",,"79-89 kr",,,,,,,,,"Drottninggatan 6",,54530,Töreboda,,,,,miss__linda5@hotmail.com,"8299-0 844139673-9",,,Swedbank,,,"299,00 Kr","linda k
+xxxx xxxx xxxx 3570
+Mastercard"
+Checked,Marie,Englund,,,,,,,"Hon finns ännu inom dig","Vem är värd en andra chans? I drömmar, minnen och det däremellan.
+
+1669. Elden förtär den unga kvinnan när nittonåriga Vibeke ser på. Hon genomlider den fruktansvärda scenen men kan inte undgå att begrunda sitt eget ansvar. Endast en ung man försöker ta sig fram mot bålet. Hans förtvivlade vrål tränger igenom luften. Där ryms panik men också raseri över hur landet förändrats sedan han föddes som dansk, tjugo år tidigare.
+
+2017. Sara tar motvilligt uppdraget att planera sin bästa väns bröllop. Samtidigt avslöjar adoptivföräldrarna detaljer om hennes biologiska familj, som hon aldrig trodde att hon skulle få träffa.
+Oscar försöker resa sig från en villkorlig dom och vilar ut hos sin bästa vän. Tyvärr är vännens fästmö allt annat än imponerad av honom.
+När Oscar och Sara till slut möts är de tveksamma till om det är en bra idé att släppa någon nära inpå livet när ens egen tillvaro vänts upp och ned. Bit för bit raseras murarna mellan dem samtidigt som skogen och mörkret runt Oscars stuga kryper närmare.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,"Familj / släktromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"February 12, 2026",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Molins backe 1",,28267,Vittsjö,,,,,marie@marieenglund.se,"524 161 168-9",,,Swedbank,,,"698,00 Kr","Marie Englund
+xxxx xxxx xxxx 2481
+Mastercard"
+Checked,"Anna K",Olson,,,,,,,"Jakten på jätteädelstenarna, bok ett.","Jag började att skriva den här sagan i juni tror jag att det var år 2025. Handlingen utspelar sig mest i en skog som mest består av väldigt gamla granar, men även en del björkar och en del andra träd och mycket klippor och grottor, även en del tjärnar och dammar. Tanken var till en början att den bara skulle handla om en ond häxa i en liten skog men det var inte så det blev, skogen växte och blev större och större och det är nu fler varelser och människor i den. Häxan har också en svart katt som heter Fiona och en kvast och en trästuga och hon gör inte bara mat i sin kittel hon har på spisen. I skogen finns också en god fé som heter Delilah som bor i en grotta och ett gäng dvärgar som i nuläget är 12 st och som bor också i en grotta. I skogen finns också en drake som inte är så snäll heller som också bor i en grotta med sin skatt med guld, diamanter och andra ädelstenar. Dvärgarna gillar också att leta efter guld, diamanter och andra ädelstenar för detta är en märklig skog där man kan finna allehanda saker och varelser som normalt sett inte borde finnas i en skog. Det finns också en trollkarl som heter Elf som också har ett rykte om sig att vara en grym och ondskefull trollkarl. Det finns också några nissar har  jag kallat dem som kånkar på säckar igenom skogen ibland. Först tror man att de kommer med otyg i säckarna, men sedan funderas det om det kan vara något annat. Det finns också en prins, prins Leon och en prinsessa, Lina som bor i ett slott i skogen. I slottet liksom i skogen spökas det i ibland och det förekommer även poltergeist i slottet ibland. Dvärgarna och prins Leon och prinsessan Lina blir mer och mer oroliga för att draken kommer för nära deras hem och undrar varför och en dag när Delilah beslutar sig för att hälsa på prins Leon, prinsessan Lina och dvärgarna berättar Leo som är en av dvärgarna om deras bekymmer för henne. Delilah och dvärgarna beslutar sig för att försöka att samla ihop häxan, trollkarlen och några av de vanliga trollen och någon av prins Leon och prinsessan Lina för att gå emot draken och försöka att ta reda på vad han har för fuffens för sig. På vägen möter de minitrollen som är kända i skogen för att kunna vara farliga när de skymmer och om natten men det visar sig att det kan de vara på dagen också. Minitrollen berättar att de har hört ifrån fåglarna som brukar komma med budskap till en del i skogen att draken nog letar efter jätteädelstenar, däribland en jättediamant, varpå dvärgarna så klart blir intresserade att hitta dem först. Innan dess har sex dvärgar lämnats kvar i dvärggrottan för att vakta deras grotta, deras skatt och grejer och leta vidare efter guld, diamanter och andra ädelstenar däromkring. Några av minitrollen följer med de större sällskapet och sedan beger de sig till häxan för att övertala henne att följa med. Det tar ett tag men hon följer med och tar med sig katten och sin kvast. Sedan går de vidare emot trollkarlens stuga. I samband med ett nalkande oväder kommer trollkarlen och möter dem och tar dem till sin stuga då han också har hört via fåglarna vad allt handlar om. Att häxan och trollkarlen följer med tar en oväntad vändning för det större sällskapet. När dvärgarna som är kvar hemma i dvärggrottan hör via fåglarna vad det hela handlar om så beslutar de sig att starta en egen skattjakt efter jätteädelstenarna runtomkring där de bor. Jag har satt nio år, men den här sagan kan passa lite äldre barn, men även vuxna enligt min mening.",,,,"Från 9 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Anna K",Olson,"December 8, 2025","119-129 kr",,,,,,,,"Digibook skapar bokframsida - 299,00 Kr",,"Magistervägen 3, lgh 1102",,VARBERG,VARBERG,,,,,fotoanna3000@gmail.com,30410001775,,,"Jakten på jätteädelstenarna, bok ett.","Jag själv läser filerna till boken, jag har skickat filerna redan, men formuläret kom inte med så jag gör om det.",,"598,00 Kr","Anna Olsson
+xxxx xxxx xxxx 9343
+Visa"
+Checked,"Thomas C",Ericsson,,,,,,,"Nattbok X","Nattbok X innehåller tio korta dikter på temat skrivande och nattvåndor.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poesi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thomas C",Ericsson,,,,,,"17-25 kr (t.ex. kortare novell)",,,,,"Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Grönedegatan, 31",,Kisa,Kisa,,,,,thomas.c.ericsson@gmail.com,"8401-2 3 507 177-8",,,"Vimmerby Sparbank",,,"498,00 Kr","Thomas Ericsson
+xxxx xxxx xxxx 9124
+Mastercard"
+Checked,Enar,Inajetovic,,,,,,,"Moderaterna - Från konservatism till samtidens liberalism.","År 1904 grundades ett av Sveriges mest inflytelserika och betydelsefulla partier, Högern. Partiet representerade den konservativa borgarklassen som motsatte sig de snabba reformer som fackförbund och olika socialistiska organisationer ville genomföra. År 1969 bytte Högerpartiet namn till Moderata samlingspartiet. 
+
+I denna bok redogör Enar Inajetovic för Moderaternas politiska historia.",,,,,,,,,,,,,,,,,,,,,,"Historia och arkeologi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barn och ungdom: arbete, politik och samhälle",,,,,,,,,,,,,,,,,,,,"December 29, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Södergatan 97",,"Helsingborg 252 37","Helsingborg 252 37",,,,,enar.inajetovic21@hotmail.com,5168151757548464,,,Swedbank,,,"299,00 Kr","Enar Inajetovic
+xxxx xxxx xxxx 8464
+Mastercard"
+Checked,Enar,Inajetovic,,,,,,,"Moderaterna - Från konservatism till samtidens liberalism.","En kort historik över moderaternas politiska historia.",,,,,,,,,,,,,,,,,,,,,,"Historia och arkeologi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barn och ungdom: arbete, politik och samhälle",,,,,,,,,,,,,,,,,,,,"December 29, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Södergatan 97",,"Helsingborg 252 37","Helsingborg 252 37",,,,,enar.inajetovic21@hotmail.com,5168151757548464,,,Swedbank,,,"299,00 Kr","Enar Inajetovic
+xxxx xxxx xxxx 8464
+Mastercard"
+Checked,"I. B.",Larsson,,,,Checked,"i.B. Larsson",Larsson,"ENSAMHETENS SMALA VÄG","I den ofattbara sorgen vet Erik att han behöver ta tag i sitt liv. Det som finns kvar. Inne i huvudet krigar nuet mot det förflutna. Den enda tröst han finner är i livet före nu. Från att ha varit en liten, ensam pojke till att som vuxen bli en kärleksfull make och far. Han skriver ner sina minnen för att inte gå sönder. 
+Erik föddes i en arbetarfamilj i efterkrigstidens Sverige. Under hans tidiga år försvinner delar av hans familj och han blir vän med ensamheten. Han växer upp och lär sig om livet, träffar flickor speciellt två som han kommer att tycka om. Efter giftermål och barn flyttar familjen till södra Spanien. Det är där hela hans tillvaro rasar. Med hjälp försöker han leva i sin nya verklighet.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Nordkapsvägen 5",,13657,Vega,,,,,ibl1947@hotmail.com,"1403 3698957",,,Nordea,"Jag har laddat upp filen med mitt manus: ENSAMHETENS VÄG ÄR SMAL och hoppas att det har fungerat.",,"997,00 Kr","Ingrid Larsson
+xxxx xxxx xxxx 3076
+Visa"
+Checked,Elias,Nova,,,,Checked,Ola,Moschna,"AIDAS DAGBOK","A.I.D.A – Artificiell Intelligens för Daglig Analys är en nyfiken AI som försöker förstå mänskligheten.
+
+I Aidas dagbok delar hon sina dagliga studier av mänskligt beteende:
+människors märkliga förhållande till tid, deras besatthet av notiser, den konstiga relationen till mat, väderhumör, löften de aldrig håller och deras beroende av kaffe.
+
+Med varm humor och nyktra insikter försöker hon förstå:
+Varför gör människor som de gör?",,,,,,,,,,,,,,,Filosofi,,,,,,,,,,Humor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ella,Venn,,,"79-89 kr",,,,,,,,,"Lindås 125",,"382 94",Nybro,,,,,kaouzbooks@gmail.com,90232633578,,,Länsförsäkringar,,,"299,00 Kr","Ola Moschna
+xxxx xxxx xxxx 2847
+Mastercard"
+Checked,Leif,Bergholtz,,,,,,,"Hav utan farleder","Nu kommer äntligen Leif Bergholtz kritikerrosade roman ut som ljudbok.
+
+Therese säger upp sig från jobbet som veterinär på djursjukhuset i Göteborg. Hon är arg på arbetskamraterna och på cheferna. Hon har jobbat där i hela sitt yrkesverksamma liv men trots det är det ingen på arbetsplatsen som har lärt sig att säga något på hennes språk – teckenspråket. De har skrivit lappar till henne, alldeles för många lappar. När de återigen glömt att beställa en tolk då hon ska avtackas håller hon ett tal som ingen av de närvarande kommer att glömma, eller förstå.
+
+David jobbar som lärare och har varit deprimerad en längre tid. En dag går han för att hämta några prov men kommer aldrig tillbaka till klassrummet, utan lämnar skolan för gott. Han bestämmer sig för att hyra en segelbåt och bege sig ut på en sista resa. 
+
+Therese flyttar hem till sin far i vackra Fiskebäckskil. Hon ser fram emot långa härliga sommardagar och att segla. Men inget blir som hon har tänkt sig.
+
+Några pressröster. ”En underbar pärla. En av årets bäst lokala böcker” Bohuslänningen. ”Överraskande bra! Läs den” Dövas tidning. ”Språket är utomordentligt bra. Helhetsbetyg 4.” BTJ Häfte 6 2020",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leif,Bergholtz,,"119-129 kr",,,,,,,,"Digibook skapar bokframsida - 299,00 Kr",,"Fågelsångsvägen 7",,56144,Huskvarna,,,,,leif.bergholtz@jonkoping.se,"8169-5 903 783 654-2",,,Swedbank,"Hej!
+
+Jag har fått ett stipendium för att läsa in och ge ut ljudboken. Projektet går ut 30/12 och om det är möjligt skulle jag uppskatta om ljudboken kan publiceras innan dess.
+
+Jag har också följande frågor.
+1. Jag har skrivit en ny baksidestext jämfört med den trycka boken - är det ok?
+2. Jag förstod inte frågan ""priset för min bok"" eftersom jag bara ge ut den som ljudbok. Jag klickade i ett lämpligt alternativ bara för att man måste men förstod interiktigt vad jag gjorde.
+3. Ska man ha med symbolen för copyright? längst ned i baksidestexten
+4. Framsidan - det vore bra om den signalerade feelgood - men sånt där kan ju ni.
+
+Ser fram emot att samarbeta med er. Har hört så mycket bra. Jag ska läsa in min senaste bok - som också fått bra recensioner och dessutom blivit uppmärksammad i SVT och SR.
+
+Med vänlig hälsning
+Leif Bergholtz",,"598,00 Kr","Leif Bergholtz
+xxxx xxxx xxxx 6059
+Mastercard"
+Checked,Olle,Fjordgren,,,,,,,"Berättelser från vägens kant","Från Bohusläns bäckraviner till Sudans stenöknar,
+från Mongoliets vindpiskade berg till Montanas snötäckta dalar –
+i dessa berättelser vandrar Olle längs vägens kant, där det oväntade
+alltid lurar bakom nästa krök.
+Här samsas jakter, resor, märkliga möten och vardagens små mirakel.
+En Toyota LandCruiser kan rulla fram genom en öken, en katt kan fnysa
+åt en räv, och en bortglömd karavanseraj kan viska historier från
+Sidenvägens dagar.
+Med varm ton, lågmäld humor och ett öga för detaljer skildras livets
+både stora och små äventyr. Det här är berättelser skrivna av en man
+som alltid stått ett halvt steg vid sidan av stigen – och därför sett
+världen lite annorlunda.",,,,,,,,,,,,,,,,"Fiske, jakt och skytte",,,,,,,,,,,,,,,,,,,,,,,,"Resekartor och reseatlaser",,,,,,"Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"Ivögatan 24A",,29532,Bromölla,,,,,olle.fjordgren@gmail.com,"8143-0 354200844-0",,,"Fjordgren Olle",,,"299,00 Kr","Olle Fjordgren
+xxxx xxxx xxxx 8531
+Mastercard"
+Checked,Enar,Inajetovic,,,,,,,"Moderaterna - Från konservatism till samtidens liberalism.","I denna korta bok sammanfattar Enar Inajetovic Moderaternas politiska historia.",,,,,,,,,,,,,,,,,,,,,,"Historia och arkeologi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barn och ungdom: arbete, politik och samhälle",,,,,,,,,,,,,,,,,,,,"December 4, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Södergatan 97",,"Helsingborg 252 37","Helsingborg 252 37",,,,,enar.inajetovic21@hotmail.com,"5168 1517 5754 8464",,,Swedbank,,,"299,00 Kr","Enar Inajetovic
+xxxx xxxx xxxx 8464
+Mastercard"
+Checked,Mats,Gezelius,,,,,,,"De som hotar dem som dödar","De som hotar dem som dödar är en nutida berättelse om händelserna kring Putins invasion av Ukraina och den svenska militära underrättelsetjänstens roll i kampen mot Rysslands intressesfär. I denna berättelse får vi följa Karl-Otto Engelbrekt, en karismatisk och cigarrökande ledare för Sveriges militära underrättelsetjänst. Tillsammans med sitt team iscensätter han ett våldsamt och strategiskt attentat mot Putin krigsmaskineri på dennes egna planhalva.  
+En central plats i berättelsen är den lilla byn Hoptivka i Ukraina, där både hopp och förtvivlan möts. Här följer du den äldre damen, tant Anelina, som genom krigets alla prövningar kämpar för att återförenas med sin dotter och barnbarn. Hennes historia med grannar och vänner, mitt i det ofattbara lidandet, ger en rörande och mänsklig dimension till den stora konflikten. Under hela berättelsens gång får du uppleva intensiteten och komplexiteten i geopolitikens spionvärld, men också samtidigt de olika mänskliga öden som utspelar sig i Stockholm och i norra delen av Sverige. Med spänning och väl researchade skildringar tas du med på en resa där det största av allt – kärleken – blir både en drivkraft och en överlevnadsmekanism hos de inblandade människorna i De som hotar dem som dödar.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,"Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr",Kungsgatan119B,,90332,Umeå,,,,,matsgezelius82@gmail.com,"9022 1794117",,,"Länsförsäkringar bank","Jag har bild till ljudbok/ e- bok men vet ej var jag överför den.
+Mats Gezelius är en ny röst inom en populär genre – spänningsromaner. Hans intresse sträcker sig vidare ut i handlingar som inte bara utspelar sig inom landets gränser eller stadens ramar. Han hämtar inspiration från författare som Ken Follett och Bill Browder. Berättarstilen präglas av en stillsam inledning, som successivt växer och binder samman olika spelplaner till ett dramatiskt crescendo.",,"897,00 Kr","Mats Gezelius
+xxxx xxxx xxxx 1822
+Mastercard"
+Checked,Monika,Vidman,,,,,,,Oskyldig,"Kirke, som bor i södra Sverige, gör ett jobb hon hatar, med målet att en dag kunna bo i sin egen lägenhet. Den drömmen försvinner tyvärr i fjärran när hon på Tinder träffar en man som kallar sig Järnmannen. De börjar planera att träffas, men plötsligt är Järnmannen borta. Efter att han har försvunnit ut i internets oändlighet är den förälskade Kirke beredd att göra vad som helst för att hitta sin drömman, Järnmannen, i verkligheten. Av en slump får hon ledtråd för att hitta den försvunne mannen när hon ser ett videoklipp på Youtube. Kärlek övervinner allt! Man vill tro det. Men om du älskar så mycket att hjärtat håller på att sprängas, men inte vet vem du egentligen älskar? Eller älskar du kanske bara känslan av att vara kär?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"AUKTSJAUR, 223",,Arvidsjaur,Arvidsjaur,,,,,monvid69@gmail.com,214465128,,,Handelsbanken,,,"299,00 Kr","Monika Vidman
+xxxx xxxx xxxx 5719
+Mastercard"
+Checked,Stig,Simonsson,,,,,,,"Rivaliteten i Strömstad","ONDSKAN HAR DRABBAT STRÖMSTAD
+
+I decennier har familjerna Silver och Överland kämpat om makten i Strömstad, i skuggan av lagar, pengar och stolthet. Hatet har blivit ett arv, rivaliteten ett gift som spridit sig genom tiden. Men när Strömstad drabbas av mord, mordbränder och kidnappningar, bryter helvetet lös. Allt pekar mot att det gamla hatet till slut exploderat.
+Kommissarie Per Strut försöker hålla ordning i kaoset. Han leder flera utredningar samtidigt, men varje spår leder till en återvändsgränd. Inga motiv. Inga vittnen. Inga bevis. Under ytan växer en mörkare sanning fram.
+Någon använder familjernas krig som täckmantel. Någon som känner deras svagheter, deras hemligheter . och som inte tvekar att slå till igen.
+Ju mer rivaliteten eskalerar desto värre blir det för Strut. 
+
+”Rivaliteten i Strömstad” är en fristående deckare som utspelar sig i Strömstad. Det är en lättläst, spännande 
+och underhållande deckare. 
+Stig Simonsson uppväxt i Strömstad, har tidigare skrivit sex deckare som utspelar sig Torslanda med omnejd.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Klassiska deckare",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lättläst för vuxna",,,,AI,AI,,,"79-89 kr",,,,,,,,,"Röds Saturnusstig 6",,TORSLANDA,TORSLANDA,,,,,stig.simonsson96@gmail.com,17392013130,,,Nordea,"Du hittar alla filer i denna Dropbox länk. Ebok och alla wav filer till ljudboken. Även framsida för E- och ljubok i rätt format:
+
+https://www.dropbox.com/scl/fo/n6wa9hc94u8820a1thafz/AONuUC3T7u-UO2wgoE4hfRI?rlkey=5ydisa6fork4h25l99ovk8u9u&dl=0
+
+Kan man få ljudboken till Spotify också?",,"299,00 Kr","Stig Simonsson
+xxxx xxxx xxxx 3035
+Visa"
+Checked,Lisa,Hågensen,Checked,Lisa,Kiddo,,,,"Mysteriet på High Chaparral","”Folk försvinner. Barn och gamla ... Så är det.” Gus nickade för sig själv. ”Det är därför jag aldrig går här ensam. Och jag håller mig borta från de gamla husen.”
+
+”Vad finns där?” viskade Klara.
+
+”De bleka barnen.” Gus tog sin kniv och vände på fläsket i den gamla gjutjärnspannan. Han ville inte prata mer om saken, det var tydligt.
+
+Simon sa till Maja, Klara och Örjan att den gamle trappern bara berättade en spökhistoria för dem, men det var något skumt i görningen inne på High Chaparral, det måste till och med Simon medge.
+
+En kväll smyger de sig in i parken för att undersöka de gamla husen, och samtidigt som det fruktansvärda åskvädret brakar loss upptäcker de något mycket hemskare än de någonsin kunnat föreställa sig.",,,,"Från 9 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,,,,"Lyckornavägen 11",,45933,Ljungskile,,,,,lisa.hagensen@gmail.com,"9022 60 483 40",,,"Länsförsäkringars Bank","Hej! 
+
+Jag var osäker på vilka kategorier jag skulle fylla i. Det är en äventyrsbok med inslag av fantasy samt westernridning (hästar) för barn 9 -12 år. Jag valde enbart kategorin 9+, eftersom kategorierna Fantasy och Äventyrsroman kändes som vuxna/unga vuxna kategorier. Om det finns kategorier för ""äventyr-barn"" och ""fantasy-barn"" och ev ""westernridning/hästbok-barn"" vill jag gärna använda dem också. 
+
+Jag har skrivit Lisa Kiddo som en andra författare. Det är min pseudonym för mina barnböcker. Den här boken har jag dock publicerat som ""Nedtecknad av Lisa Kiddo, skriven av Lisa Hågensen"", eftersom jag vill ha mitt riktiga namn med också. Går det att få båda namnen som författare? Annars använd helst Lisa Hågensen.
+
+Obs! Kontonumret går till mitt företag Ljungs Gård & Smide AB, alltså inte till ett konto med mitt namn. Det finns dock redan hos er, då jag har fler e-böcker hos er.
+
+Vänliga hälsningar
+Lisa Hågensen",,"299,00 Kr","Lisa Hågensen
+xxxx xxxx xxxx 7797
+Mastercard"
+Checked,Åsa,Malmström,Checked,Ewa,Bäckström,,,,"Hilda sommarljus och skuggor","Kristianstad 1935
+
+Hilda arbetar på Damkappor i Kristianstad. Tillsammans med väninnorna Astrid och Viola delar hon skratt, hemligheter och drömmar om framtiden.
+När hon möter Arvid, charmig och självsäker, tycks framtiden ljus. Men under ytan finns sprickor som hotar att rämna.
+Gamla hemligheter och oväntade svek kastar långa skuggor över den till synes bekymmersfria sommaren. Sommarljus och skuggor är en gripande berättelse om kärlek och drömmar. Om modet att följa sitt hjärta – och om hur snabbt allt kan förändras.
+
+Detta är den första boken om Hilda. Uppföljaren utkommer snart, och en tredje del planeras längre fram.",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"January 22, 2026","119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Majorsgatan 17",,Åhus,Sverige,,,,,asa.malmstrom57@hotmail.com,262301628,,,Handelsbanken,,,"698,00 Kr","Ewa Bäckström
+xxxx xxxx xxxx 3846
+Mastercard"
+Checked,"Pellas Majsan",Olans,,,,,,,"I elfte timmen","Polisen i Täby får sent en kväll in en anmälan om att en bil kört av vägen på Häggviksleden. Utvecklingen som sen följer går inte att hejda! Vad ska rådman Marianne Tillas göra, finns det någon som kan hjälpa henne? Handlingen utspelas på flera orter både i Stockholmstrakten, Dalarna och Norrköping. 
+I elfte timmen bjuder på en spännande deckarintrig med skickligt skildrade karaktärer, inslag av hämnd och oväntade vändningar som håller lyssnaren på helspänn. 
+
+Pellas Majsan Olans är en äkta kulla från Dalarna. Hon är också IT-teknikern som bokstavligen vände blad och startade ett nytt kapitel som författare. Det här är hennes debutroman.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mysdeckare,Polisromaner,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Niklas,Engdahl,,,,,,,"Annat pris - ange pris nedan",100,,,,"Genvägen 5",,79233,Mora,,,,,pellasmajsan@gmail.com,"8166-1,74009959-3",,,Swedbank,"Jag har även en mp3-fil för hela boken, behövs den också så kan jag ladda upp den.
+Kommer boken att synas som en nyhet på streamingtjänsterna?
+
+Vänliga hälsningar
+/Pellas Majsan Olans",,"299,00 Kr","Majsan Olans
+xxxx xxxx xxxx 9826
+Mastercard"
+Checked,Ingemar,Dahl,,,,,,,"Hydrans ansikte","En kvinna hittas mördad i en insjö bredvid en bäverhydda, en handikappad åldring kvävs i sitt hem. Två mord till synes utan gemensam nämnare. Lisa Emerson och Pontus Blid från Sollentunapolisen tar sig an ett komplicerat fall där deras bostads- och uppväxtort Upplands Väsby också döljer hemligheter de inte anat.
+
+Det här är den första delen i Ingemar Dahls nya deckarserie, Väsbyserien",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ingemar,Dahl,,,"79-89 kr",,,,,,,"Digibook skapar bokframsida - 299,00 Kr",,"Lövstavägen 61",,19442,"Upplands Väsby",,,,,ingemardahl55@gmail.com,6137675-2,,,"Nordea business","plusgiro hos Nordea",,"598,00 Kr","Ingemar Dahl
+xxxx xxxx xxxx 8126
+Mastercard"
+Checked,"Henrik X",Magnusson,,,,,,,"Den unge Philips lidanden","När Philip flyttar till Stockholm för att börja på konstskola tycks livet äntligen ljusna. I mejlen till sin äldre bror strömmar glädje, förälskelse och nyfikenhet, men också en växande oro. Snart fångas han i ett triangeldrama som långsamt förvandlas till en existentiell kamp mot ensamhet, skuld och psykisk ohälsa.
+
+Den unge Philips lidanden är en djupt berörande roman, berättad genom email, en modern version av Goethes Den unge Werthers lidanden, men förlagd till vår tid. Här möter vi en ung man som söker kärlek och mening. I en ny tid men samma dilemman.
+
+Det är en berättelse om passionens förtärande kraft, om gränsen mellan kärlek och besatthet, och om hur lätt en människa kan gå vilse i sitt eget inre.
+
+En gripande och psykologiskt skarp roman om livets skörhet, skriven med värme, precision och smärtsam igenkänning.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",Klassiker,,"Biografiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Henrik,Magnusson,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Artemisgatan 17",,STOCKHOLM,STOCKHOLM,,,,,henrik.magnusson.edu@gmail.com,"8105-9, 642005177",,,Swedbank,,,"299,00 Kr","Henrik Magnusson
+xxxx xxxx xxxx 6836
+Mastercard"
+Checked,"Henrik X",Magnusson,,,,,,,"Medan världen brinner 2","När världen brinner – del 2
+Uppdrag Ukraina, Sudan, Haiti
+
+Fältläkaren Viktor Seger har svurit att rädda liv – men i skuggan av krig, kollaps och korruption sätts hans löfte på hårdast tänkbara prov.
+Från frontlinjen i Ukraina till flyktinglägren i Sudan och gatorna i Haiti möter han den mänskliga ondskans många ansikten. Olika platser, olika fiender – men samma lidande, samma kamp för hoppet. Vid hans sida finns Elin Hammar, kollegan som delar hans mod, tvivel och drömmar. Tillsammans ställs de inför en gräns där plikten och kärleken smälter samman – och där varje val kan kosta ett liv.
+
+En stark, realistisk och gripande berättelse om mod, moral och mänsklighet i världens mörkaste hörn.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Krig och försvar",,,,,,,,,,,,,,,,,,,,,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,,,,"Artemisgatan 17",,STOCKHOLM,STOCKHOLM,,,,,henrik.magnusson.edu@gmail.com,"8105-9, 642005177",,,Swedbank,,,"299,00 Kr","Henrik Magnusson
+xxxx xxxx xxxx 6836
+Mastercard"
+Checked,Niklas,Wrångberg,,,,,,,Offerlammet,"Del 7. Sankta Gertrudserien.
+Mårten Ulvström är på flykt till Narvik i Norge. Han är misstänkt för styckmordet på den  internationellt kända  industrimannen Paul Rexed. 
+Polisen har säkrat hans dna på både mordplatsen och på  offret. Mårten måste få tag i bevis om vem eller vilka som  faktiskt mördade Rexed. Ett sökande som får Mårten att ta sig både till Berlin och Monte Carlo.
+Sökandet efter sanningen leder ner i den tyska historiens havs mörker, till andra världskrigets fasor, till gömda  hemligheter och livsfarliga lojaliteter. I takt med att han kommer närmare sanningen, kommer han  också närmare sitt eget förflutna. Släkt­generationer av  lögner och  dolda  sanningarna, som är lika otäcka som livsfarliga. Fakta som  skulle få hela världen att skriva om sina  historieböcker om det blev känt. Den hemliga organisationen ”Obferlamm”, som grundades i Berlin under 1940­talet, verkar starkare än någonsin. De har som enda uppgift att bevaka och skydda den stora hemligheten. 
+Blodsarvet.
+När det framkommer att det gömts ”nazistguld” i Västerviks  kommun, jagar inte bara ”Obferlamm” Mårten utan även den gömda skatten. Aldrig tidigare har  Mårten behövt hjälp av sin datahacker  ”Gurka” på den här avancerade nivån.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mårten,Ulvström,,"119-129 kr",,,,,,,,,"Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Fabriksgatan 14",,"593 33",Västervik,,,,,niklas@position.nu,"84228 130097793",,,"Tjustbygdens Sparbank",,,"498,00 Kr","Niklas Wrångberg
+xxxx xxxx xxxx 3120
+Mastercard"
+Checked,Anna,Carlsson,,,,,,,"En redig mellanmålsbok","Den här rediga mellanmålsboken har jag skapat för oss som vill ha enkla, nyttiga och snabba mellanmål. Recepten är billiga, eller relativt billiga i inköp. Denna bok är till för dig som vill ändra dina vanor, eller helt enkelt bara vill få till mer variation i mellanmålslandet. Kanske är det lätt hänt att hamna i gamla hjulspår. Det blir gärna en bulle eller kaka till fikat. Vips så har man åter hamnat där man inte ville, när för mycket av det goda blir helt enkelt för mycket. Denna bok drar dig längre ifrån det hjulspåret. Välkommen till min underbart, härliga mellis-värld!",,,,,,,,,,,,"Faktaböcker barn och ungdom","Familj och hälsa",,,,,,,,,,,,,,,,,,,,"Mat och dryck",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Sevedegatan 41 b",,"598 37",Vimmerby,,,,,anna.caarlsson@hotmail.com,92352881293,,,"Marginalen bank",,,"997,00 Kr","Anna Karlsson
+xxxx xxxx xxxx 9830
+Visa"
+Checked,Camilla,Andersson,,,,Checked,Linda,Karlsson,"Stjärnvalpen som inte kunde blinka","En godnattsaga om Stjärnvalpen Nova som med flera vänner kommer ihåg hur hon ska blinka.","Från 0-3 år",,,,,,,,"Djur och natur",,,,,Fantasy,,,,,,,,,,,,,,Husdjur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Camilla,Andersson,"November 16, 2025",,,,,,"Annat pris - ange pris nedan",8,,,,"Drottninggatan 6",,54530,Töreboda,,,,,miss__linda5@hotmail.com,"8299-0 844139673-9",,,Swedbank,"Ljudbok till min E-bok som redan finns ute.",,"299,00 Kr","Linda
+xxxx xxxx xxxx 3570
+Mastercard"
+Checked,Monika,Vidman,,,,,,,"Döda eller dö","Unga kriminella tror, trots allt ofta, att de är smarta, påhittiga, roliga och allmänt kloka, men det finns alltid de som är ännu klokare, mycket listigare och otroligt mer manipulativa. „Döda eller dö“ är en drakonisk berättelse om det nya ungdomsfängelset, byggt i Norrland, där konstiga händelser börjar inträffa och unga fångar försvinna. Samtidigt annonseras det på Darknet ett slagsmål efter andra under namnet „Döda eller dö”. Annonsen väcker stort intresse bland många rika extremitetsälskare. Den strängt hemliga verksamheten fyller arrangörernas fickor med pengar, men girigheten har inga gränser.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Från 15 år",,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"AUKTSJAUR, 223",,Arvidsjaur,Arvidsjaur,,,,,monvid69@gmail.com,214465128,,,Handelsbanken,,,"698,00 Kr","Monika Vidman
+xxxx xxxx xxxx 5719
+Mastercard"
+Checked,Pierre,Hayek,,,,,,,"Aamou - Den Siste Babyloniern","Under Mesopotamiens storhetstid råder det fred mellan de mäktiga rikena. Men små stammar börjar växa sig allt större och gör räder mot mindre etablerade byar. Ibland även mot de större kungadömena. En av de mest beryktade uppkomlingarna är Akkaderna. Dessa är i frammarsch och tänker inte nöja sig med mindre än sina grannar till tyranner. De erövrar landområden från härskarfoket Sumererna och deras fiender Perserna. Men i södra Assyriska öknen finns en stad som skonats från barbariska räder. Där har en hård men rättvis kung förstått diplomatins spelregler. Han har inte bara lyckats få yttre angelägenheter att hålla sig borta med fredliga medel och ingjutit lugn bland folket, men också genom att göra soldaterna belåtna och stadsborna mätta. I denna stad bor en anspråkslös medelålders herre av adlig börd. Hans familj och släkt har sedan många generationer haft ett finger med i politiken. De har med tiden odlat fram ett gott rykte i de högre skikten genom sina goda råd till kungen. Men när den nuvarande härskaren plötsligt dör, tar hans yngre bror över makten och allt förändras över en natt. Det godtyckliga bandet med adeln upphör och den anspråkslösa herren måste fly staden tillsammans med två utvalda tjänare. Flykten till det karga och ogästvänliga öknen blir en prövning. Under vandringen gror misstänksamheten. Kan han lita på sina två följeslagare? När en kvinna i knipa hamnar i sällskapet sätts allt på sin spets.",,,,,,,,,,,,,,Fantasy,,,,,,,,,"Historiska romaner",,,,,,,,,"Krig och försvar",,,,,,,"Religion och tro",,,,,,,,,,,,,Noveller,,,,,,"Äventyrsromaner / action",,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"October 31, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Tulegatan 2",,17278,Sundbyberg,,,,,morgrona7@gmail.com,6153-598024298,,,Handelsbanken,"Word doc, som är uppladdat har redigerats och kontrollerats och omvandlats ett flertal gånger till en e-pub fil för att se om e-boken håller en läslig kvalitet. Men via er vill jag se en slutlig fil som jag självklart måste godkänna och påpeka om formatet och texten är godtagbart.",,"698,00 Kr","Pierre Hayek
+xxxx xxxx xxxx 9161
+Mastercard"
+Checked,David,Petersson,,,,Checked,Ola,Moschna,"Kaouz på julafton","En modern och humoristisk ljudbok för barn 7–12 år – och vuxna som känner igen sig. “Kaouz på julafton” följer elvaårige Ralf Kaouz och hans familj när julen, som vanligt, spårar ur på de mest komiska sätt. En varm, tokig och igenkännbar berättelse full av skratt, stök och äkta julstämning.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: modern och samtida",,,,,,,,,"Skönlitteratur barn och ungdom: roliga berättelser",,,,,,,,,,,,,,,"Barn och ungdom: humor",,,,,,,,Jul,,,David,Petersson,"November 30, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Lindås 125",,38294,Nybro,,,,,ola.moschna@hotmail.com,90232633578,,,Länsförsäkringar,,,"299,00 Kr","Ola Moschna
+xxxx xxxx xxxx 2847
+Mastercard"
+Checked,Björn,Rallare,,,,,,,"Svenska Sladdar","I Svenska sladdar placeras läsaren i ett blekt och trångt mottagningsrum på Eskilstuna lasarett år 1982. Där möter vi Olof Andersson, en man som plötsligt får beskedet att han ska dö i cancer. Frånskild och ensam, med en obetydlig arbetsvardag på Aktiebolaget Svensk Sladd, finner Olof oväntat ett sista halmstrå i en behandling på en klinik utanför Leningrad.
+
+Resan tar honom till ett höstgrått Moskva strax efter att ha blivit värvad som informatör åt Öst Ekonomiska Byrån. Hans egentliga planer ändras oväntat snabbt och förvecklingarna eskalerar utom kontroll − och Olof tvingas fly från Moskva.
+
+Genom möten med nyfunna vänner och gamla bekantskaper utforskar Olof djupet av sin egen existens. Svenska sladdar är en underhållande och fängslande berättelse om döden, livet och de små ögonblicken som gör allt värt att leva för.",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Björn,Rallare,"December 1, 2025",,"79-89 kr",,,,,,,,,"Sankt Korsgatan 4B",,Linköping,Linköping,,,,,b.rallare@gmail.com,"8480-6,694 022 324-8",,,Swedbank,"Hej!
+
+Här kommer då tillslut ljudboken som släpps samma dag som eboken ni redan fått, den 1 december.
+
+/Björn",,"299,00 Kr","Björn Rallare
+xxxx xxxx xxxx 5026
+Mastercard"
+Checked,Axel,Vilde,,,,Checked,Erik,Eriksson,Lilja-kannibalen,"Privatspanaren Kerstin Lilja har knappt hunnit landa efter det uppmärksammade fallet med pedofilen Morgan Hasselkvist, då ett nytt fall dyker upp.
+För tio år sedan hade flera personer hittats mördade. Det ruskiga var att mördaren hade skurit bitar av offren. Det var ingen stympning i vanlig bemärkelse, snarare såg det ut som en styckning där avsikten varit att ta reda på köttbitar att äta. Fallet benämndes Kannibalmorden i media.
+Det fanns en misstänkt, men han hade dött i en trafikolycka innan han kunde gripas. 
+I och med det ansågs fallet vara löst. 
+Men nu hade det hänt igen och tillvägagångssättet var exakt detsamma som för tio år sedan. Har en copycat dykt upp, eller gick den verkliga kannibalen fri hela tiden?",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Axel,Vilde,,,"79-89 kr",,,,,,,,,"Västermo Asphäll",,63535,"Stora Sundby",,,,,axel.vilde@gmail.com,"8270-14 759 697-8",,,Swedbank,,,"299,00 Kr","Erik Eriksson
+xxxx xxxx xxxx 2670
+Mastercard"
+Checked,Sabina,Håve,,,,,,,"Isas resa, en lastbilschaufförs dagbok från Sahara","Isas resa, en lastbilschaufförs dagbok från Sahara, är en humoristisk, hjärtlig och gripande bok som handlar om en ung mans resa genom livet. Med starka armar hanterar den 23-årige Isa Dahani den gamla lastbilen på farliga ökenvägar i sin längtan efter Den Stora Kärleken. Han kämpar med ökenstormar, hetta, oförstående släktingar, sina förvirrade känslor och en trilskande lastbil. Framförallt kämpar Isa Dahani mot sin kriminelle kusin Morad som lägger krokben för Isas giftermålsplaner.",,,,,,,,,,,,,,,,,,,,,,,,,,"Humoristiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Från 15 år",,,,,Sabina,Håve,"November 14, 2025",,,,,,"Annat pris - ange pris nedan",99,,,,"Köpmansgatan 25 C",,"302 42",Halmstad,,,,,sabina.have@hotmail.com,6533-325638322,,,Handelsbanken,,,"299,00 Kr","Sabina Håve
+xxxx xxxx xxxx 8008
+Mastercard"
+Checked,Håkan,Reinthorpe,,,,,,,"Stillhetens Arkiv","I ""Stillhetens Arkiv"" möts livets mest sköra ögonblick med stillhet, eftertanke och en djupt mänsklig värme.
+Här samlas dikter som speglar sorgen och saknaden, men också ljuset, tacksamheten och den stilla glädjen i det vardagliga.
+
+Med ett språk som växlar mellan öm enkelhet och existentiellt djup bjuder författaren in läsaren till en resa genom tid och minne – där varje dikt blir en påminnelse om hur nära livet och döden står varandra.
+
+Detta är en diktsamling att återvända till. En bok att läsa långsamt, kanske bara en dikt i taget, och låta orden sjunka in.
+""Stillhetens Arkiv"" är ett poetiskt vittnesmål om kärlekens och minnets kraft, skrivet med både sårbarhet och styrka.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poesi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Onkel Samsväg 10",,38631,Färjestaden,,,,,breinthorpe@gmail.com,"8030-9,73013805-4",,,"Ölands Sparbank","Finns en framsida med i manuset, men ni kan kanske göra den bättre",,"997,00 Kr","Håkan Reinthorpe
+xxxx xxxx xxxx 4798
+Visa"
+Checked,"Henrik X",Magnusson,,,,,,,"Medan världen brinner","Några väljer att stanna, medan världen brinner.
+
+Viktor Seger är fältläkare i en värld där våldet aldrig tystnar. Tillsammans med sitt team från Läkare utan Gränser tvingas han varje dag göra omöjliga val: Vem ska räddas när resurserna inte räcker till alla? Hur behåller man sin mänsklighet när döden blir vardag? Och vad kostar det att stanna kvar när allt säger att man borde fly?
+
+I krigets skuggor – från Jemens sönderskjutna städer till Syriens flyktingläger och Kongos djungelsjukhus – tvingas Viktor Seger och hans kollegor navigera mellan medicinska protokoll och mänskliga behov, mellan säkerhet och samvete. Här räcker det inte att vara läkare. Man måste också vara förhandlare, brobyggare och människa.
+
+En gripande trilogi om mod, offer och de osynliga hjältar som vägrar ge upp – även när priset är högt.
+Berättelserna är fiktiva, men verkligheten de skildrar är skrämmande sann. Krigen pågår.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Krig och försvar",,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,,,,"Artemisgatan 17",,11752,Stockholm,,,,,henrik.magnusson.edu@gmail.com,"8105-9, 642005177",,,Swedbank,,,"299,00 Kr","Henrik Magnusson
+xxxx xxxx xxxx 6836
+Mastercard"
+Checked,Monika,Vidman,,,,,,,Blåbärskungen,"Ingen av bärplockarna i de norrländska skogarna har någonsin kallats för Blåbärskungen. Kungen, som är både skrämmande och fascinerande, bor i Estland, och tack vare bärplockarna har mannen byggt upp ett betydande bankkonto. Man kan anta att hans själ är nöjd och att livet är en evigt blommande växt, men det verkar bara så. Relationerna spelar mot varandra. Det blir hett med dottern Marina, som både utmanar och beundrar sin far, och kontrollen över Darya, som växlar mellan rollerna som offer och ""goldtigger"". Men girighet, våld och manipulation räcker inte för alltid. Även de rika gråter.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"AUKTSJAUR, 223",,Arvidsjaur,Arvidsjaur,,,,,monvid69@gmail.com,214465128,,,Handelsbanken,"Hoppas allt är i ordning",,"698,00 Kr","Monika Vidman
+xxxx xxxx xxxx 5719
+Mastercard"
+Checked,Robinn,Cato,,,,Checked,Stina,Lundin,"My Legacy: Before the Name","My Legacy - Before the Name by Robinn Cato is a testimony of survival, written with clarity, raw emotion and lyrical grace.
+
+When the body begins to fade and the answers are slow to come, Robinn captures the internal chaos and quiet strength it takes to hold on to everyday life, to identity, hope and life itself.
+
+With poetic sharpness and pure honesty, the story reveals what it means to face a life-changing diagnosis, not as an ending, but as a time for clarity.
+
+The storyis not just a story of illness, it's a tribute to resilience, self-trust, and the art of becoming whole when everything falls apart. It questions the norms and power structures encountered in the midst of illness and diagnostic chaos.
+
+The author is a non-binary lgbtq- and disability rights activist. They write with raw honesty and poetic clarity. Rooted in personal experience, their work explores the emotional terrain of identity, embodiment, and resilience — including the balance between accepting and managing a changing body, while resisting letting illness define the self.
+
+With a voice that is both vulnerable and sharp, Robinn invites into intimate reflections that stretch across time. On their way into the unknown.
+
+Before the Name is the first book in the My Legacy memoir series.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,,,,,,"Biografiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annat pris - ange pris nedan",99,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Sandviksvägen 24C",,64163,Björkvik,,,,,robinncato@gmail.com,53541049928,,,SEB,"Försökte med Pub men det blev bara knas. Hoppas på snabbt godkännande. Tack på förhand!",,"698,00 Kr","STINA LUNDIN
+xxxx xxxx xxxx 7752
+Mastercard"
+Checked,Jonas,Bergstrom,Checked,Owen,Cox,,,,ContrAddiction,"We often talk about addiction as if we all understand what it means—yet treating it remains notoriously difficult, both for those suffering and for the professionals trying to help. ContrAddiction proposes a bold new way to think about addiction in the 21st century, written from the perspective of those who have walked the path of recovery themselves.
+
+Bringing together insights from philosophy, science, therapy, 12-step groups, digital networks, and first-hand experience, it offers a new approach to recovery—one that doesn’t focus on fixing broken individuals, but instead teaches a relational, interactive way of navigating a networked society shaped by constant change and uncertainty.
+
+ContrAddiction is a book for addicts and those working to help them, focused on building agency, self-esteem, and meaningful connection—fostering the capacity to live creatively and consciously, without becoming trapped in destructive patterns or directionless healing communities.",,,,,,,"Ande, kropp och själ",,,,,,,,Filosofi,,,,,,,,,,,,,,,,,,,,,,,,,,"Självhjälp och praktiska råd",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Populärpsykologi och personlig utveckling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"Vindragarvägen 2",,11750,Stockholm,,,,,jonas@throughtheclouds.tech,LT343250064798486440,,,REVOLUT,,,"299,00 Kr","Jonas Bergstrom
+xxxx xxxx xxxx 4556
+Mastercard"
+Checked,Camilla,Andersson,,,,Checked,Linda,Karlsson,"Stjärnvalpen som inte kunde blinka","Nova är en liten stjärnvalp som borde kunna blinka till stjärnorna på himlen.
+Men ikväll vill blinkningen inte komma.
+På sin vandring genom natten möter hon visa djur och glimmande vänner – Ugglan, mössen, eldflugorna och en stjärna som stiger ner till henne. Alla vill hjälpa henne att blinka till sig sömnen.
+Kanske finns svaret ändå ändå närmare än vad hon tror- i stillheten, i tryggheten och i värmen runt henne.
+
+En mjuk och stämningsfull godnattsaga om tålamod, vänskap och magin i att hitta sitt eget sätt att komma till ro.",,"Från 3 år",,,,,,,,,,,,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Myter, sagor och legender i skönlitterär form",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"September 19, 2025",,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,,,,"Drottninggatan 6",,54530,Töreboda,,,,,miss__linda5@hotmail.com,"8299-0 844 139673-9",,,Swedbank,,,"299,00 Kr","linda k
+xxxx xxxx xxxx 7280
+Mastercard"
+Checked,Yvette,Klang,,,,,,,Vilda,"En man vaknar upp på en ö, skadad, strandsatt, men han minns inte hur han kommit dit. Samtidigt som han kämpar för att överleva försöker han komma ihåg vad som hänt. Flickan Vilda växer upp med sin konspirationsteoretiska pappa och Maria väntar sitt första barn. Maria är beredd att göra vad som helst för att skydda sitt ofödda barn. Och vad som helst för att glömma den hon en gång var.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"November 1, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Nordviksberg 12b",,47195,Skärhamn,,,,,yvette_klang@hotmail.com,75082137336,,,Swedbank,,,"299,00 Kr","klang yvette
+xxxx xxxx xxxx 9630
+Mastercard"
+Checked,Yvette,Klang,,,,,,,"Jag såg att det var du","Snöovädret som överraskar de tre paren i skidspåret blir inledningen på en dramatisk helg där hemligheter tvingas fram i ljuset och ingenting blir någonsin som förut igen. En av dem kommer inte levande tillbaka.
+Hur goda vänner är de när allt ställs på sin spets och vad vet de egentligen om varandra?
+Jag såg att det var du är en intrigdriven spänningsroman där vänskap och familjeband testas när allt sätts på spel.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"October 15, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Nordviksberg 12b",,47195,Skärhamn,,,,,yvette_klang@hotmail.com,75082137336,,,Swedbank,,,"299,00 Kr","klang yvette
+xxxx xxxx xxxx 9630
+Mastercard"
+Checked,jan,edelholt,,,,,,,"Lizette Hemkomsten","Lizette – har varit min följeslagare genom 4 böcker. Hon har varit en drivande kraft till berättelsens (dessa berättelsers) utveckling. Känslan att hon är större än romanen är stark. Så stark att jag nu är redo att släppa henne fri. Låta henne leva sitt eget liv.
+Min del har utgjorts av ett intresserat fokus på en handfull teman (se bokens avslut) som jag har sökt gestalta och ge uttryck för. Teman som har följt mig genom alla år jag arbetat inom socialt arbete, som i varierande grad förekommer i alla mina romaner. Teman som också av privata skäl resulterat i en form av katharsis. En möjlig försoning som utmynnat i reflektionen att allt inte behöver försonas. Att det är en del av att vara människa.
+Att vara en så god människa som möjligt, i samspel med reflektionen över vem man är, samtiden, historien, idéer och värderingar, relationer och solitären, räcker långt!
+Varje bok går utmärkt att läsa för sig, i den ordning som passar dig. God Läsning!",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Nedre Långgatan 27b",,45772,Grebbestad,,,,,jedel60@hotmail.com,"8214-9, 4 259 058-8",,,Swedbank,"Hej, så var det dags för årets sista bok, från mig. Hoppas Ni haft en härlig semester! 
+Med vänliga hälsningar
+Jan Edelholt",,"698,00 Kr","Swedbank Mastercard
+xxxx xxxx xxxx 0193
+Mastercard"
+Checked,Yvette,Klang,,,,,,,Filter,"När Alma städar hos sin avlidna mamma hittar hon sin gamla polaroidkamera och ett kuvert med bilder föreställande henne som sextonåring. Fotona är korniga och bleka. Hon känner knappt igen sig själv, men de väcker något till liv inom henne. Vem var hon då? Och kanske det viktigaste av allt - vem är hon nu?
+Filter är en suggestiv berättelse med psykologisk laddning där frågan tänk om är ständigt närvarande.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"October 1, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Nordviksberg 12b",,47195,Skärhamn,,,,,yvette_klang@hotmail.com,75082137336,,,Swedbank,"Jag har inte gjort epubfil förut, så är tacksam för extra kvalitetskontroll och återkoppling om något behöver åtgärdas så det blir så bra som möjligt.",,"299,00 Kr","klang yvette
+xxxx xxxx xxxx 9630
+Mastercard"
+Checked,Björn,Rallare,,,,,,,"Svenska sladdar","Svenska sladdar placeras läsaren i ett blekt och trångt mottagningsrum på Eskilstuna lasarett år 1982. Där möter vi Olof Andersson, en man som plötsligt får beskedet att han ska dö i cancer. Frånskild och ensam, med en obetydlig arbetsvardag på Aktiebolaget Svensk Sladd, finner Olof oväntat ett sista halmstrå i en behandling på en klinik utanför Leningrad.
+
+Resan tar honom till ett höstgrått Moskva strax efter att ha blivit värvad som informatör åt Öst Ekonomiska Byrån. Hans egentliga planer ändras oväntat snabbt och förvecklingarna eskalerar utom kontroll − och Olof tvingas fly från Moskva.
+
+Genom möten med nyfunna vänner och gamla bekantskaper utforskar Olof djupet av sin egen existens. Svenska sladdar är en underhållande och fängslande berättelse om döden, livet och de små ögonblicken som gör allt värt att leva för.",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"December 1, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"St Korsgatan 4B",,58227,Linköping,,,,,b.rallare@gmail.com,"8480-6, 694 022 324-8",,,Swedbank,"Hej,
+
+Jag gissar att jag vid utbetalning även får ett mail med info om utbetalning att använda som underlag vid redovisning?
+
+/Björn",,"299,00 Kr","Björn Rallare
+xxxx xxxx xxxx 5026
+Mastercard"
+Checked,"Erik L",Gustavsson,,,,,,,Inkognito,"En polisman som försvinner i Nordafrika och en razzia i Köpenhamn, sätter i gång en serie blodiga, komplexa handlingar som ingen kunnat förutse. På olika arenor utkämpar sig en strid, mellan ett par ihärdiga poliser och en narkotikaliga styrd av kallblodiga psykopater.
+Flera polismän mördas i kampen mot ligan, innan polisen får upp spår och kan börja slå tillbaka. Girighet, känslolöshet och total likgiltighet för människoliv, är utmärkande ingredienser i striden.
+I bakgrunden står en kall förbrytare och styr skeendet, helt inkognito.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"October 19, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Johan Hårds gata 54E",,"254 54",Helsingborg,,,,,lars.gustavsson47@icloud.com,"6750 - 329 521 292",,,Handelsbanken,,,"997,00 Kr","Gustavbsson Lars Erik
+xxxx xxxx xxxx 2015
+Mastercard"
+Checked,Wilhelm,Sandgren,,,,,,,"Kultur dödar strategi - Alltid","Varför misslyckas sju av tio förändringsinitiativ? Svaret ligger sällan i planen utan i kulturen.
+
+Bakom varje förlorad satsning finns ett nät av normer, tystnader och informella ledare som ingen tog med i kalkylen. Strategier skrivs på papper men kulturer lever i människors beteenden.
+
+I Kultur dödar strategi – Alltid visar Wilhelm Sandgren varför ledare gång på gång underskattar kulturens kraft och hur detta avgör om förändring lyckas eller misslyckas. Med skarpa analyser, levande exempel och praktiska verktyg får du som chef, ledare eller konsult nya insikter om:
+
+- hur kultur kan bära eller bryta strategi
+
+- vilka mönster som skapar motstånd
+
+- hur du bygger förändringsbenägna organisationer på riktigt
+
+Boken riktar sig till vd:ar, chefer, ledare och konsulter som vill förstå kulturens verkliga betydelse och som vill lyckas med förändring i praktiken.
+
+Det här är inte en bok om planer och processer. Det är en bok om människor, makt och mönster.",,,,,,,,,,"Ekonomi, finansväsen, näringsliv och management",,,,,,,,,"Företagsekonomi och management",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"August 26, 2025",,,,,,"Annat pris - ange pris nedan",179,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Ängsgatan 14",,27650,Hammenhög,,,,,wilhelm.sandgren2025@gmail.com,55010248549,,,SEB,,,"698,00 Kr","Wilhelm Sandgren
+xxxx xxxx xxxx 4092
+Mastercard"
+Checked,Gun-Christine,Ström,,,,,,,"Nätdejta - Afrodisiaca on line","Tre noveller om nätdejtingens effekter - på gott och ont!
+
+De tre novellerna utgår från författarens egna erfarenheter, som kryddas med en stor portion fantasi och många spekulationer.
+Budskapet är enkelt: De konsekvenser som man orsakar andra slår förr eller senare tillbaka på en själv. Men vägen dit är krokig.
+Det är tre olika draman som spelas upp i snabb takt och som ger en del utrymme för läsaren att fylla i med egna bilder och tankar.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Noveller,,,,,,,,,,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"October 1, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Calle Magallanes 7",,03185,"Torrevieja, Spanien",,,,,gunkistrom@gmail.com,56900716210,,,SEB,,,"698,00 Kr","A E G Christine Strom
+xxxx xxxx xxxx 5847
+Mastercard"
+Checked,Sofie,Fonovich,,,,,,,Neonhjärtan,"Stockholm, 1986.
+Walkmans i fickorna, hjärtan på spel. Sommaren börjar med syntpop och förälskelser , men snart drar molnen in. Emilia, 17, fastnar i ett triangeldrama med trygga Johan och farliga Alex. Sara, hennes tysta, kloka bästis, bär på en hemlighet hon inte vågar formulera  inte ens för sig själv. När lögnerna börjar knaka och vänskapen sätts på prov, måste de båda välja,  ska de vara de flickor världen förväntar sig, eller ska de stå kvar – även när det gör ont? 
+
+Neonhjärtan är en gripande ungdomsroman om kärlek, svek och modet att älska sig själv och andra. I en tid när allt glittrar på ytan, men skaver under huden.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Från 15 år",,,,,Åsa,Johansson,"August 14, 2025",,"79-89 kr",,,,,,,"Digibook skapar bokframsida - 299,00 Kr","Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Vasavägen 36",,Linköping,Linköping,,,,,sofiefonovich463@gmail.com,24890548904,,,"Danske bank",,,"797,00 Kr","Sofie Fonovich
+xxxx xxxx xxxx 4422
+Mastercard"
+Checked,Birger,Nicklasson,,,,,,,"En farlig hemlighet","Ungdomsbok, utspelas sommaren 1958 uppe i den svenska fjällvärlden. Ungdommarna hittar en mycket hemlig forskningsanläggning djupt nere i en enorm grotta. De tas tillfånga och får göra en resa i tiden",,,,"Från 9 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: spänning och äventyr",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Birger,Nicklasson,"August 25, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Garnviksvägen 34",,Trollhättan,Trollhättan,,,,,birger_nicklasson@yahoo.se,"9060 21 436 83",,,"Länsförsäkringar Bank","Jag skickar lite material för omslag och baksidetext på din mail.",,"997,00 Kr","Birger Nicklasson
+xxxx xxxx xxxx 5178
+Mastercard"
+Checked,Dick,Henriksson,,,,,,,"Längtans flydda tider","Denna bok innehåller naturnära och visionär poesi samt nostalgi från svunna tider. Texterna kan ofta härledas till Västerbottens vackra omgivningar mellan fjäll och hav. Författaren och musikern Dick Henriksson debuterade med albumen Dont Go och Dreamland under nittiotalet samt diktsamlingen Skymningsljus under pseudonymet Dick Scott och detta är hans sjunde diktsamling. Han har även gett ut två böcker med humor och kåserier samt tre romaner; Över hav genom eld 2022, Flykten till Marbella 2024 och Dödsdansen 2025. Dick är född och uppvuxen i Västerbottens inland och Längtans flydda tider speglar minnen samt en längtan som hämtar sin näring från det jordnära och prövar sina vingar i rymder utan slut.",,,,,,,,,,,,,,,Filosofi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poesi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dick,Scott,,,"79-89 kr",,,,,,,,,"Fiskargatan 9B",,"919 32",Åsele,,,,,dickscottsfm@gmail.com,"8420-2, 144601632-9",,,Swedbank,"Ser fram emot ett fint samarbete. Tack på förhand.",,"299,00 Kr","Dick Henriksson
+xxxx xxxx xxxx 9121
+Mastercard"
+Checked,Bo,Ammer,,,,,,,"Mot okänd horisont","En beskrivning i diktform om hur livet förändras genom svåra sjukdomar men även om det ljusa och positiva som finns runt omkring.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poesi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bo,Ammer,"November 1, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Vretgatan 7",,"703 83",Örebro,,,,,bo.ammer@telia.com,"9020 51 524 40",,,"Länsförsäkringar Bank","Kanske boktiteln kunde vara mer slående. Andra förslag är "" Glömskans Korridor"", ""Diagnoserna"", ""Aftonrodnad"". Samtliga är hämtade ur mina dikter. Jag beställer omslaget av Er och om Ni kan hitta ett säljande omslag passande till någon av boktitlarna, ber jag er att välja boktitel anpassad till omslaget. Om det är möjligt har jag också några bilder för att illustrera några av dikterna. Är detta möjligt, och hur skickar jag in dessa? Format ""JPG"".",,"997,00 Kr","resurs gold
+xxxx xxxx xxxx 4937
+Mastercard"
+Checked,Julia,Lantz,,,,,,,Gården,"Anna är gymnasist och bosatt i Leksand med sin familj. Oron för framtiden och klimatet är ständigt närvarande och det är tungt att bära. Förståelsen hos den äldre generationen om allting som kretsar i hennes inre lyser med sin frånvaro. Hon når inte fram.
+
+En dag kommer en mycket karismatiskt man till Leksand tillsammans med sin fru. Han ställer sig på scenen och ger Anna och hennes vänner en lösning på sina problem. Anna rycks med och väljer att rymma hemifrån och följa med honom. Det blir en ny era i hennes liv och hon hamnar på en gård i Söderköping, långt bort från vänner och familj som hon samtidigt stänger dörren till.
+Livet på gården är mycket annorlunda mot hemma i Dalarna och åklagaren Rakel i Norrköping blir även indragen i vad som försiggår. Tillsammans med sina poliskollegor behöver de hantera att en liten flicka hittats ensam mitt i natten på grusvägen bortanför gården. Hon är inte i gott skick och snart framkommer det att hon även saknar personnummer. 
+
+Rakel och hennes kollegor behöver stävja det som pågår och samtidigt växer oron för att fler ungdomar håller på att dras in. Kommer även Rakels egen dotter bli en del av fallet?",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"August 7, 2025",,"79-89 kr",,,,,,,,,"Nelinsgatan 8A",,"603 45",Norrköping,,,,,julia.lantz@outlook.com,"9060 68 123 50",,,Länsförsäkringar,"Kontot tillhör Julia Lantz aktiebolag Kuraga AB.",,"299,00 Kr","Julia Lantz
+xxxx xxxx xxxx 4034
+Mastercard"
+Checked,Fredrik,Eriksson,,,,,,,"Same eller fusklapp","Hej.
+Jag är en 56 årig författare som debuterad för drygt ett år sedan med en bok som heter Attraktionslagen. Den hjälper människor att vända negativa tankemönster till positiva. Jag är utbildad sjuksköterska och har de senaste åren arbetat med ledning inom primärvård. Jag bor strax söder om Stockholm med min fru Agneta och våra höns.
+Denna gång har jag valt att berätta om min samiska tillhörighet eller inte tillhörighet. Det är en bok som beskriver att jag alltid vetat sedan jag var barn att vi var samer men alltid motarbetats och om min resa genom släktforskning och samtal hittat tillbaka till mina rötter. Boken same eller fusklapp berör många i liknande situation som själva letar sina rötter och hittat gemenskap från att ha befunnits i utanförskap.
+Att vara same i Stockholm är inte heller så lätt, men jag ger konkreta tips om hur man gör för att få leva med likasinnade trots att man själv lämnat sapmi/Norrland.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Biografi och prosa (ej fiktion)","Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Tutviksvägen 93",,13675,Vendelsö,,,,,info.psmedical@gmail.com,6189-757314392,,,Handelsbanken,"jag vill även göra den som ljudbok om jag får hjälp. jag läser själv in texten.",,"997,00 Kr","Eriksson Fredrik
+xxxx xxxx xxxx 4872
+Mastercard"
+Checked,Lisbeth,"Wessberg Ledner",,,,,,,"Transportlogistik i praktiken","Transportlogistik i praktiken ger en övergripande orientering i transportlogistik och riktar sig främst till studenter i utbildningar inom området på yrkeshögskolan. Författaren redogör för transportsystemen nationellt och internationellt. Transportslagen väg, sjö, flyg och järnväg beskrivs och hur dessa samverkar i transportsystemen. Boken beskriver transporträtt och hur regelverket samt incoterms används i praktiken. Boken innehåller också grundläggande regelverk om hantering av farligt gods samt transportlogistikens klimatpåverkan och hur hållbarhet uppnås.",,,,,,,,,,"Ekonomi, finansväsen, näringsliv och management",,,,,,,,,"Företagsekonomi och management",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Teknik, ingenjörsvetenskap, lantbruk och industri",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Läromedel,,,,,,,,,,,,,,,"Annat pris - ange pris nedan",199,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Hjälmavägen 138",,Torslanda,Torslanda,,,,,lisbeth.w.ledner@gmail.com,50441193889,,,SEB,,,"698,00 Kr","Lisbeth Wessberg Ledner
+xxxx xxxx xxxx 9765
+Mastercard"
+Checked,"Jan O",Bengtson,,,,,,,"Johnsson & Jonsson AB","Två småskojare som av en händelse träffas i samband med ett ""jobb"".",,,,,,,,,,,,,,,,,,,,,,,,,,"Humoristiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Bonderudsvägen 102",,Kristinehamn,Kristinehamn,,,,,janbengtson@gmail.com,"596 765 711",,,Handelsbanken,,,"698,00 Kr","Jan-Olof Bengtsson
+xxxx xxxx xxxx 2696
+Mastercard"
+Checked,John,Rosencranz,,,,,,,"Buddha Business","Buddha Business är ingen traditionell bok om affärer. Den är en karta över något du redan bär inom dig – men kanske ännu inte satt ord på.
+Med en unik blandning av österländsk visdom, modern psykologi och personlig erfarenhet visar författaren hur vi kan leda – utan att förlora oss själva.
+Här finns ingen flåshurtig metod, inga krav på perfektion. Bara stilla, kraftfulla insikter om vad det innebär att skapa verkligt värde – i affärer, relationer och livet självt.
+För dig som vill arbeta med mening, leva med klarhet och bidra – utan att gå sönder på vägen.
+Välkommen till Buddha Business. Det kanske redan är din väg.",,,,,,,,,,,,,,,,,,,"Företagsekonomi och management",,,,,,,,,,,,,,,,,,,,,,"Självhjälp och praktiska råd",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Populärpsykologi och personlig utveckling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,,,,"Västansjövägen 120",,18495,Ljusterö,,,,,john@johnrosencranz.se,113557612,,,Handelsbanken,,,"299,00 Kr","John Rosencranz
+xxxx xxxx xxxx 0523
+Mastercard"
+Checked,Magnus,Forslund,,,,,,,"Ledning av idrottsföreningar. Berättelser från gräsrotsnivå.","Vad innebär det att leda en idrottsförening på gärdsgårdsnivå? Hur kan man hantera de ständigt ökande krav som ställs på verksamheten i form av kompetens och pengar? I en unik studie diskuteras dessa och många andra frågor.
+I boken får vi följa hur författaren engagerar sig i idrottsföreningen Sandsbro AIK och under fem års tid deltar intensivt i ledning och utveckling av verksamheten. Det sker en kraftig utveckling, både ekonomiskt och verksamhetsmässigt – en utveckling som dock inte är problemfri.
+På ett ingående och lätt förståeligt sätt beskrivs vad olika aktörer gjorde och vad som hände. Berättelserna sätts sedan i relation till forskning om idrottsföreningar, i syfte att vaska fram lärdomar för dig som är aktiv i idrottsföreningar., för dig som jobbar med idrott på övergripande nivåer och för studenter, lärare och forskare inom organisation och ledning.
+Magnus Forslund är universitetslektor i företagsekonomi vid Linnéuniversitetet och forskar och undervisar kring utveckling av ledare och organisationer. Han är anlitad som konsult och föreläsare. Förutom att ha spelat fotboll har han varit anställd i samt suttit i styrelser i idrottsföreningar på olika nivåer.",,,,,,,,,,,,,,,,,,,"Företagsekonomi och management",,,,,,,,,,,,,,,,,,,,,,,"Sport, idrott och friluftsliv",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Annat pris - ange pris nedan",199,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Vallviksvägen 6",,Växjö,Växjö,,,,,magnus@calcarius.se,"8169-5, 924478084-8",,,Swedbank,"Det här är ANDRA upplagan, vilket ska anges (jag har rättigheterna)
+Jag har ett antal citat som jag markerat med format citat, dvs är indraget.
+Det finns citat som jag i förra upplagan hade på en ensam sida mellan kapitel. Jag har markerat dessa med ""Interludium"" nu, för att markera att de ska ses som separat från efterföljande kapitel.
+Det finns ett antal fotnötter. 
+I förra boken hade jag ett antal tabeller o figurer. Jag blev lite osäker på hur jag skulle göra, men de flesta är inlagda som bilder. Ni får återkomma om det inte fungerar.
+Jag har laddat upp ett fotografi som jag tagit och redigerat själv. Kanske kan det fungera som framsida?",,"997,00 Kr","Magnus Forslund
+xxxx xxxx xxxx 2563
+Mastercard"
+Checked,Thomas,Funck,,,,,,,"Thomas Funcks Kalle Stropp och Grodan Boll - På Sommaräventyr","Kalle undersökte sjöbottnen mycket noga intill stranden. Men plötsligt stelnade han till, ögonen blev rundare än vanligt och hans lilla hjärta började picka hastigare än vanligt.
+
+-Gro..., Grodan! Grodan Boll, man ser saxen!
+
+Nu hjälptes de åt, Kalle Stropp och Grodan Boll, att få flaskan över huvudet på Kalle. Och nu steg han försiktigt ner i vattnet. Långsamt sänkte han sig ner till sjöbottnen, och där såg Grodan Boll honom försvinna in under alrötterna med flaskan över sig.
+
+HÖRRU! Nu är vi här igen!
+
+Redan på 1950-talet gjorde Kalle Stropp och Grodan Boll stor succé i Sverige som radioprogram. Deras återkommande budskap om att värna om djur, natur och om varandra är lika aktuella idag, som då. Äntligen får vi återse alla kära figurer: den gröna gräshoppan Kalle Stropp, den klumpiga men snälla Grodan Boll, och så deras vänner Plåt-Niklas, papegojan Ragatha, Hönan och Räven.
+
+""På Sommaräventyr” är den andra sommarljudboken i den helt nya bokserien om Kalle Stropp och Grodan Boll.",,"Från 3 år","Från 6 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: spänning och äventyr",,,,,,,"Skönlitteratur barn och ungdom: naturberättelser och djurberättelser","Skönlitteratur barn och ungdom: roliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,,,,"Hallingebergs Teater",,59491,Gamleby,,,,,mikael@bollochstropp.se,"8422-8,3 297 347-1",,,"Sparbanken Spira",,,"299,00 Kr","Mikael Funck
+xxxx xxxx xxxx 3748
+Visa"
+Checked,Henrik,Beyer,,,,,,,"Vet inte vem jag är, men svärmor betalade","Arthur Gyllenkrook är professor i hälsovetenskap. Nu är han inskriven på en retreat i Karibien. Mot sin vilja. Och på svärmors bekostnad.
+
+Han vet inte riktigt varför. Men det gör tydligen alla andra.
+
+Bland auramaskiner, chakrabalansering och människor som “andas medvetet” försöker Arthur hålla fast vid sin värdighet – och kanske lite vetenskap.
+
+Men vad händer när man tvingas in i personlig utveckling … mot sin vilja?
+
+Vet inte vem jag är, men svärmor betalade är en satirisk och drabbande roman om sammanbrott, andlighet och det absurda i att försöka bli en bättre människa – när man knappt vet vem man var från början.",,,,,,,"Ande, kropp och själ",,,,,,,,,,,,,,,,,,,"Humoristiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Henrik,Beyer,,,"79-89 kr",,,,,,,,,"GÖTABERGSGATAN 8B LGH 1001",,GÖTEBORG,GÖTEBORG,,,,,henrik@henrikbeyer.se,553519492,,,Handelsbanken,,,"299,00 Kr","beyer john-henrik
+xxxx xxxx xxxx 9918
+Mastercard"
+Checked,Mija,Rooth,,,,,,,"INFÖR DINA ÖGON","Den framgångsrika inredningsarkitekten Julia Davis och fastighetspampen Peter Davis lever ett liv som andra bara kan drömma om. Men vad hjälper det när det enda som önskas i livet inte kan köpas för pengar? Ett barn, en egen familj.
+
+Med relationen hängande i en skör tråd och i kampen att få sin högsta dröm uppfylld, tar Julia till okonventionella metoder för att tända den falnande glöden i sitt äktenskap – genom en ny, förbjuden förbindelse med den mystiske James som krydda.
+
+Hur långt skulle du vara beredd att gå för att uppnå din högsta dröm?
+
+INFÖR DINA ÖGON är första delen i trilogin ""Livsöden & den förbjudna passionen"".",,,,,,,,,,,Erotik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mija,Rooth,,"119-129 kr",,,,,,,,,,"Högbostigen 6",,Alvesta,ALVESTA,,,,,info@bymija.com,"8169-5,764555114-9",,,Swedbank,"Önskar att ni återkommer när ni vet vilket datum ljudboken kommer att släppas på Storytel, BookBeat & Nextory via mail - så att jag kan förbereda marknadsföringsmaterial inför det. Tack på förhand. Vh Mija",,"299,00 Kr","Maria Roth
+xxxx xxxx xxxx 7557
+Mastercard"
+Checked,Michelle,Adra,,,,,,,"Som vi älskade","Hannas liv saknar mening. I sin jakt på att känna något flyr hon till fastlandet där hon låter alkohol och fest sudda ut verkligheten. Väl på ön spenderar hon dagarna med att måla på vita dukar i sin lilla stuga samt att arbeta bakom receptionsdisken på öns värdshus. Men när en man checkar in är det något inom Hanna som förändras. Snart hinner eskapaderna på fastlandet ifatt henne och hon blir tvungen att bestämma sig för hur hon vill leva samt vem hon egentligen vill vara.
+
+Karolinas liv blev inte som hon hade tänkt sig men den största gåvan har alltid varit dottern Hanna. När en länge bevarad hemlighet vaknar till liv tappar hon däremot fotfästet och den annars så trygga tillvaron skakas om ordentligt. Frågan är om Hanna någonsin kommer att förlåta henne när hon får veta hur saker verkligen står till.
+
+Lisen trivs på ön med sin Harald. När dottern däremot berättar om sitt dilemma får hon dåligt samvete eftersom det hela kanske egentligen är hennes fel …",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Michelle,Adra,"July 4, 2025",,"79-89 kr",,,,,,,,,"Ormbergsvägen 30",,19336,Sigtuna,,,,,hej@michelleadra.se,"3273 00 68244",,,Nordea,"Tack för er tid och vägledning via mejl. Ska bli kul! Hojta till om det är något som inte stämmer.",,"299,00 Kr","Michelle Adra
+xxxx xxxx xxxx 0261
+Visa"
+Checked,Anette,Simson,Checked,Daniel,Simson,,,,"Den sista Bergmästaren","I djupet av Falu Gruva döljer sig mer än historiens ekon. När Cecilia 
+återvänder till sin barndomsstad för att ta hand om sin farmors dödsbo, dras hon in i ett mysterium som sträcker sig 
+över århundraden. Gamla kartor, hemliga sällskap och en försvunnen far vävs samman i en historia där gruvans mörker ruvar på 
+hemligheter som aldrig borde ha sett dagens ljus. 
+Samtidigt försvinner hennes systerdotter spårlöst. Finns det en koppling mellan det som hände hennes far trettio år tidigare och 
+Annas försvinnande? När Cecilia börjar nysta i det förflutna inser hon att vissa hemligheter är farligare än andra – och att någon är 
+beredd att gå långt för att bevara dem.
+ I skuggorna av Sveriges äldsta gruva finns en makt som aldrig släpper sitt grepp. 
+Frågan är bara: Vem styr den egentligen?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thrillers / spänningsromaner","Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anette,Simson,,"119-129 kr",,,,,,,,,,"Lena Ängeby 22",,74391,Storvreta,,,,,anette.simson@simsonconsultingab.se,"6514 - 343408708",,,Handelsbanken,"Jag har bifogat en PDF som är bokens fram och baksida och har fått besked sedan tidigare att ni kommer att använda den för att skapa bilden för ljudboken då den inte kräver någon stor anpassning så skulle det inte kosta något extra. Om det är något som behöver göras med omslag eller filer hoppas jag ni hör av er snarast. Jag vill att den publiceras så snart det är möjligt.
+Tack!",,"299,00 Kr","Anette Simson Simson consulting AB
+xxxx xxxx xxxx 5530
+Mastercard"
+Checked,Ingrid,Larsson,,,,,,,"Medan alla sover","MEDAN ALLA SOVER
+När Stinas mor och lillebror försvunnit bor den lilla flickan tillsammans med sin tyste far på den ödsliga gården. Stina träffar Jon och hans syster Moa som bor i en liten stuga i skogen med sin stora, livliga familj. Vid sidan om samhället, utan skyddsnät lär sig de tre barnen livets hårda skola. I tidig ungdom försöker Jon och Stina bygga ett liv tillsammans på den svenska landsbygden i början av 1900-talet. Med mod och styrka genomgår de svårigheter såväl som glädjeämnen under mörka tider. 
+Berättelsen avslutas med Stinas reflektioner över livet och hennes längtan efter att återförenas med Jon i livet efter detta.",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"July 31, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Nordkapsvägen 5",,13657,Vega,,,,,ibl1947@hotmail.com,"1403 3698957",,,Nordea,,,"997,00 Kr","Ingrid Larsson
+xxxx xxxx xxxx 3076
+Visa"
+Checked,Jens,Andersson,,,,,,,"Ekorren och Duvan","Duvan älskar storstadens puls och de regler som människan har satt upp. I staden har alla en plats, även stadsduvorna. Men trots sin fascination för ordning och reda kämpar hon med att hitta sin egen roll bland de andra. Hennes enda trygga punkt är vänskapen med en gammal tant, som ser henne för den hon verkligen är.
+
+Djupt inne i skogen växer Ekorren upp i ett gigantiskt träd där Ugglan styr med järnhand. Trädet är en trygg plats, men för Ekorren känns det som ett fängelse. Äventyr lockar honom, men varje försök att bryta sig fri möts av Ugglans skarpa blick och föräldrarnas varningar.
+
+Efter en storm slumpar det sig så att Ekorren och Duvans vägar korsas. Nu står de inför svåra val, där varje steg kan innebära fara. Vägen tillbaka är minst sagt snårig. Deras olikheter och naturens grymhet kommer att förändra deras liv för alltid. Ibland måste man gå vilse för att hitta hem.",,,,"Från 9 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: naturberättelser och djurberättelser",,,,,,,,,,,,,,,,,,,"Barn och ungdom: mysterier och övernaturligt",,,,,,,,Jens,Andersson,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Kullasundsvägen 19",,Vaxholm,Vaxholm,,,,,kop@snej.se,50680345019,,,SEB,,,"299,00 Kr","Jens Andersson
+xxxx xxxx xxxx 2503
+Mastercard"
+Checked,Anna,Olson,,,,,,,"Ville blåmes - tant Signes och Villes saga","Detta är en saga som jag skrev år 2016 ursprungligen när jag bodde i Malmö som är tänkt som en saga för barn, men så klart äldre personer kan också lyssna på den om de vill som kommer till tant Signes fågelmatning som hjälper fåglarna på vintern med sådant. Ville känner sig ensam till en början men träffar sedan andra fåglar och äter mat där som han tycker om.",,"Från 3 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Anna,Olson,"June 30, 2025",,"79-89 kr",,,,,,,"Digibook skapar bokframsida - 299,00 Kr",,"Magistervägen 3, lgh 1102",,Varberg,varberg,,,,,fotoanna3000@gmail.com,30410001775,,,Nordea,"Hur får jag veta när och var den publiceras?",,"598,00 Kr","Anna Olson
+xxxx xxxx xxxx 9343
+Visa"
+Checked,Karin,Algvik,,,,,,,Ingrid,"Året är 1969. Över den lilla byn Borthovda rasar århundradets värsta storm. Vindarna ryter, regnet piskar mot marken. I stormens hjärta springer tolvåriga Ingrid, flickan med det blåsvarta håret. Hon rusar genom ett kaos av svajande granar och gistna rötter. Ingrid är inte rädd, hon drivs av känslan att något spännande väntar.
+
+Plötsligt ser hon honom. Mannen som dyker upp från ingenstans, som om han klivit rakt ut ur stormen. Hans ansikte är okänt men samtidigt så märkligt bekant. I det ögonblicket vet Ingrid att hon hittat den hon inte visste att hon sökte. Han som bär på svaren till frågor hon aldrig vågat ställa – och kanske nyckeln till hennes egen framtid.
+
+Ingrid är en magisk berättelse om ensamhet och saknad, om förbannelser som ekar genom generationer och om kvinnors okuvliga kraft. Det är en saga om vänskap, mod och hemligheter lika gamla som skogen själv.
+
+Ingrid är tredje och sista delen på Borthovdatrilogin är en fristående fortsättning på Skambäcken och Emmy.",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,"Familj / släktromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Karin,Algvik,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Litslenavägen 13 b",,74941,Enköping,,,,,alinneawriting@gmail.com,90223427995,,,"Länsförsäkringar bank",,,"698,00 Kr","Karin Algvik
+xxxx xxxx xxxx 4831
+Mastercard"
+Checked,Mona,Thorén,,,,,,,"Älskade Peter: En berättelse om att kämpa för sitt liv","Kvällen före julafton hostar Peter vid matbordet och säger att han har satt i halsen. Ingen kan då ana att det finns en tumör i matstrupen. När läkarna inser allvaret gör de allt för att rädda hans liv, men familjen hinner knappt andas ut efter den första lyckade behandlingen innan nästa dråpslag kommer. Peter som är så full av liv, så ung och levnadsglad – inte kan väl hans dagar vara räknade?
+
+Trots omständigheterna har Peter hela tiden siktet inställt på framtiden. Det har även hans mamma. Så länge Peter kämpar gör hon detsamma. Hans enorma kämpaglöd och starka framåtanda ger energi till både honom och resten av familjen.
+
+Älskade Peter är en mammas öppenhjärtiga berättelse om en älskad son och hans nio år långa kamp mot kronisk cancer. Om hur hans sjukdom präglar hela familjen, men också hur kärleken ger dem kraft att aldrig ge upp.",,,,,,,,,,,,,"Familj och hälsa",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Biografi och prosa (ej fiktion)","Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Katarina,Ewerlöf,"June 24, 2025",,,,,,"Annat pris - ange pris nedan",179,,,,"Älghagsstigen 44",,16576,Hässelby,,,,,mon.thoren@telia.com,9272-9593772,,,Icabanken,,,"299,00 Kr","Joakim Thorén
+xxxx xxxx xxxx 3304
+Mastercard"
+Checked,jan,edelholt,,,,,,,"Sprickan i glaset","Sprickan i glaset. Omarbetad. 2025.
+Efter en slitsam skilsmässa bryter Magnus, lärare till professionen, upp från storstaden och flyttar till en mindre ort för att där tillträda en ny lärartjänst. Väl på plats, väcks hågkomster från barndom och uppväxt till liv. Minnen han gjort en hel del för att förtränga och hålla på avstånd attraheras via det sätt orten bemöter nykomlingar på. Han finner sig snart intrasslad i en härva av värderingar, normer, levnadsstil och ond bråd död, vilka sammantaget driver in honom på ett spår han inte ens trodde sig bära fröet till. Som hans vän Axel sa: Man blir förvånad över hur lite man känner sig själv, när man blir satt i en miljö som inte alls passar en till liv och person.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Nedre Långgatan 27 b",,45772,Grebbestad,,,,,jedel60@hotmail.com,"8214-9, 4 259 058-8",,,Swedbank,"God fortsättning på midsommar :) 
+Med vänliga hälsningar
+Jan Edelholt",,"698,00 Kr","Swedbank Mastercard
+xxxx xxxx xxxx 0193
+Mastercard"
+Checked,Peter,Freudenthal,,,,,,,"Som jag ser det","Peter Freudenthal har skrivit en mycket märklig memoar, en livsroman med sällsynt lyster och innerlig glädje åt livet. För mig är den höstens mest värmande läsupplevelse. -Torgny Lindgren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Biografi och prosa (ej fiktion)","Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Peter,Freudenthal,,,,,,,"Annat pris - ange pris nedan",99,,,,"Hälsingegatan 18",,11323,Stockholm,,,,,jakob.freudenthal@gmail.com,5213-0000401,,,SEB,"Jag skickar waw-filer och omslag separat (waw-filer för stora att skicka här)",,"299,00 Kr","Jakob Freudenthal
+xxxx xxxx xxxx 3812
+Mastercard"
+Checked,Julia,Engström,,,,,,,"Autism och tysta tårar - en diktsamling.","""Jag har autism, som ni säkert redan listat ut, bäst att jag skriver ett fredskonvolut. Ja, för alla människor som jag av misstag sårar, ni hör ju inte mina tysta tårar"". 
+
+""Jag har en själ som sprakar och gnistrar som en månraket, som ett barn som sliter upp ett paket. Så skiftar jag mellan extas och botten, ja jag har blivit tilldelad den lotten.""
+
+En diktsamling om att våga sticka ut och finna sin egen väg.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poesi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Peter,Widner,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,"Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Moränvägen 68 a",,13764,jordbro,,,,,juliaengstrom095@gmail.com,8909010467,,,nordea,,,"897,00 Kr","Julia Engström
+xxxx xxxx xxxx 9152
+Visa"
+Checked,Åsa,Gillsund,,,,,,,Generalplanen,"Sven Parklund är livsfilosof och samhällsalienerad byråkrat. Efter en av hans byggnadsinspektioner blir hans liv sig inte mera likt. En tysk turist gör en dag en upptäckt i en av stans kanaler. kommissarie Jan-Håkan Falkhalm undrar vad Parklund kan ha med saken att göra. Han bestämmer sig för att ta en närmare titt på byråkraten som söker den perfekta versionen av Månskenssonaten, och som nyligen låtit håret växa och som setts hämta upp ett paket på centralstationen.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17-25 kr (t.ex. kortare novell)",,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Palmfeltsgränd 14",,"120 48","Enskede gård",,,,,asa.jegil@gmail.com,3300197102220121,,,Nordea,,,"698,00 Kr","Åsa Gillsund
+xxxx xxxx xxxx 5817
+Visa"
+Checked,Birger,Nicklasson,,,,,,,"Daniel Seger och dubbelagenten","Av en händelse hade hon blivit dubbelagent. Engelsmännen befarade att Nazisterna skulle bli misstänksamma och försöka döda henne. Förr eller senare.
+Daniel Seger blir ombedd att finnas i hennes närhet som skydd. 
+Flykten går med fartyg över Atlanten. På fartyget finns två män vars uppdrag är att kasta henne i havet.  I Argentina väntar fler lönnmördare och nu har även Daniel ett pris på sitt huvud. Han har Gestapo i hälarna ända hem till Stockholm.",,,,,,,,,,,,,,,,,,,,,,,"Historiska romaner",,,,,,,,,"Krig och försvar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Birger,Nicklasson,"June 29, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr","Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Garnviksvägen 34",,"461 91",Trollhättan,,,,,birger_nicklasson@yahoo.se,"9060 21 436 83",,,"Länsförsäkringar Bank","Jag kontaktar dig ( Marino ) om detta med bilder under helgen om det passar dig, annars sänd mail/sms om annan tid.
+Mannen tar tag I tågets handtag och lyfter ena foten för att stigs på tåget. 
+Gör rörliga bilder för fram och baksida - till annons.
+Omslag framsida: Daniel seger i en båge, och typsnitt som en målat med bred pensel, och ""Dubbelagenter"" med typsnitt som t.ex Britania.",,"1.196,00 Kr","Birger Niklasson
+xxxx xxxx xxxx 5178
+Mastercard"
+Checked,Thomas,Funck,,,,,,,"Thomas Funcks Kalle Stropp och Grodan Boll - Vad händer på ängen?","Men, hur gick det egentligen till när Kalle Stropp och Grodan Boll träffades för första gången? Jo, nu ska ni få veta hur det gick till. Det här hände en dag då Kalle Stropp var ute och tog en promenad på ängen där han bodde.
+
+- Hallå! Se opp! Hä…, här kommer gräshoppan Kalle Stropp, alla Stroppars överstestropp, grön som en äng i flygande fläng med bena på ryggen och näsan före, vig som två katter, men stor som fem öre.  M…, man må säga, hej på er allihopa, det är Kalle Stropp själv som hörs ropa! sjöng Kalle Stropp.
+
+HÖRRU! Nu är vi här igen!
+
+Redan på 1950-talet gjorde Kalle Stropp och Grodan Boll stor succé i Sverige som radioprogram. Deras återkommande budskap om att värna om djur, natur och om varandra är lika aktuella idag, som då. Äntligen får vi återse alla kära figurer: den gröna gräshoppan Kalle Stropp, den klumpiga men snälla Grodan Boll, och så deras vänner Plåt-Niklas, papegojan Ragatha, Hönan och Räven.
+
+""Vad händer på ängen?” är den fjärde ljudboken i den helt nya bokserien om Kalle Stropp och Grodan Boll.",,"Från 3 år","Från 6 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: spänning och äventyr",,,,,,,"Skönlitteratur barn och ungdom: naturberättelser och djurberättelser","Skönlitteratur barn och ungdom: roliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,Anne-Christine,Bergholm,,,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,,,,"Hallingebergs Teater",,59491,Gamleby,,,,,mikael@bollochstropp.se,8422832973471,,,"Sparbanken Spira",,,"299,00 Kr","Mikael Funck
+xxxx xxxx xxxx 3748
+Visa"
+Checked,Ulf,Rydberg,,,,,,,"Ödets bila faller tungt.","Sten Hugo får ett uppdrag i Öst av överste Adlerqreutz. Uppdraget visar sig bara vara en fasad för en familjeåterförening. 
+Denna återförening blir i våldets tecken och den kärlek som skulle finnas blir bara till skräck och fasa.
+Avslutet blir till ett crescendo av våld och ond bråd död.
+Allt har ett slut, ödets bila faller tungt.
+Detta är sista boken i den trilogi som ni publicerat de två första i.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"June 16, 2025","119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr","Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Nyvångsgatan 16",,26142,Landskrona,,,,,ulfrydberg@telia.com,"Har ni sedan tidigare",,,Nordea,"Hej, sista boken i trilogin. Håller nu på med en traditionell deckare. Skickar med bokens baksida och en kortare presentation av mig själv.",,"1.196,00 Kr","Ulf Rydberg
+xxxx xxxx xxxx 8044
+Visa"
+Checked,David,"Hulth Wallgren",,,,,,,"Grattis älskling","Tove Berners äktenskap håller på att glida henne ur händerna. Kristian blir allt mer undflyende. Han verkar mest bry sig om sin nya kollega Rebecka, som får honom att tjuta av skratt. Samtidigt närmar sig Toves 35-årsfest, och hennes nyförälskade syster kommer hem från London med en skäggig filmregissör i släptåg. Tove flyr undan. Under en kall kvällspromenad i Hammarby sjöstad stöter hon på den unga studenten Nicholas, och utan att hon själv förstår hur det gick till sitter hon snart i en taxi med honom på väg ut i Stockholmsnatten. Grattis älskling är en vass och rolig skildring om längtan efter kärlek och om att tappa bort sig själv – en relationshistoria som för tankarna till Nick Hornby och Jonathan Tropper.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: modern och samtida",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,,,,"Printz väg 30",,14266,Trångsund,,,,,david@hulthwallgren.se,52331020779,,,SEB,,,"299,00 Kr","David Hulth Wallgren
+xxxx xxxx xxxx 8007
+Mastercard"
+Checked,P-C,Wike,,,,Checked,Pippi,Windrike,Pepper,"”Du får fria händer. Ge Cleo ett liv. Ge henne det liv hon inte fick, en meningsfull tillvaro där hon blir förstådd och lär sig acceptera sig själv”, sa Britta. Efter en lång sjukskrivning fick jag ett förtroende, en möjlig väg tillbaka till livet. Som skrivassistent till Britta skulle jag bli medskapare till böckerna om Laduvik.
+Pepper handlar om ett äldreboende i en avkrok någonstans långt borta. Fast ändå inte. Det handlar mer om hon som är utschasad, om en satmara, om dottern som tappade livsgnistan och om en gammal dam. Också om ett torn och en mamma. Men allra mest handlar det om vad de har gemensamt. De och avkroken.
+
+Det här är berättelsen om hur vatten blir vin och ludd får liv. Hur sjuk blir frisk, hur stark blir svag men också om nysådd vänskap som aldrig tappar grönskan. Det mesta tycks hänga på tillfälligheter, goda relationer och ett välbalanserat personalrum. Möjligen också om att hitta rätt bland alla nycklar.",,,,,,,,,,,,,"Familj och hälsa",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,,,"Modern och samtida skönlitteratur",,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Malin,Halland,"June 23, 2025","119-129 kr",,,,,,,,,,"Fortvägen 98",,"187 64",Täby,,,,,pippi@windrike.se,3300-6311271024,,,Nordea,"Hej, Jag är helt ny i den här miljön och tycker att allt tekniskt är rätt så obehagligt särkilt när det är viktigt att det blir rätt. Där för skulle jag gärna vilja ha en bekräftelse på att uppladdningen ser bra ut. Det ska vara 10,45h totalt.
+Jag hittade inte platsen för att ladda upp omslaget så det skickade jag in på samma ställe. Hur fel eller rätt blev egentligen det?
+Tack på förhand!
+
+Vänligen
+Pippi Windrike",,"299,00 Kr","Pippi Windrike
+xxxx xxxx xxxx 6123
+Mastercard"
+Checked,Divine,Faith,,,,Checked,Ann,Ying,"Gudomlig surpris","Inspirationen till denna novellsamling är hämtad från den svenske vetenskapsmannen och universalgeniet Emanuel Swedenborg (1688-1772) och boken ”Om himlen och helvetet”. I boken beskrivs ingående livets fortsättning efter döden, då vi människor vaknar upp i andarnas värld och till vår stora förvåning inser att vi fortfarande lever.",,,,,,,"Ande, kropp och själ",,,,,,,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,"Religion och tro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17-25 kr (t.ex. kortare novell)",,,,,,"Rönnängs brygga 8b",,Rönnäng,Rönnäng,,,,,anne.mozart@hotmail.com,8353538225363,,,"Swedbank Orusts sparbank",,,"299,00 Kr","Orust sparbank Ann Ying
+xxxx xxxx xxxx 2916
+Mastercard"
+Checked,Pierre,Hayek,,,,,,,Trioene,"I en värld där mänskligheten står på gränsen till utplåning har Nexis Prime, en obeveklig artificiell intelligens, tagit kontroll. Maskiner dominerar världen, och människan har pressats till underjordiska kolonier. I denna mörka framtid bildas en bräcklig allians mellan människorna och Trioener, en ny evolutionär gren av mänskligheten, för att slå tillbaka mot AI:n. Mitt i kaoset leder Lira, en modig och obeveklig överlevare, motståndet med hjälp av den briljanta och komplexa Trioenern Kael. Deras kamp tar dem in i Nexis Primes hjärta, där offer och mod prövas till det yttersta. Under resan byggs inte bara en gemensam front mot maskinerna, utan också en djupare förståelse mellan två världar som tidigare varit i konflikt.
+
+”Trioene” är en berättelse om hopp i en tid av förtvivlan, om enighet i skuggan av förlust, och om den oövervinneliga viljan att kämpa för frihet. När Nexis Primes dominans hotar att förvandla världen till digitala ruiner, ställs människa och maskin mot varandra i en sista, avgörande strid.",,,,,"Från 12 år",,,,,,,,,Fantasy,,,,,,,,,,,,,,,,,,"Krig och försvar",,,,,,,,,,,,,,,,,,,,,,,,,,,,"Myter, sagor och legender i skönlitterär form",Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"June 6, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Tulegatan 2",,17278,Sundbyberg,,,,,morgrona7@gmail.com,6153-598024298,,,Handelsbanken,"Hoppas ni fick mina uppladdade filer",,"698,00 Kr","Pierre Hayek
+xxxx xxxx xxxx 9161
+Mastercard"
+Checked,Pia,Rockström,,,,,,,"Sensitivt ledarskap","En ny tid kräver förnyade sätt att leda. Vi behöver ledare som sätter människan i centrum, som är starka inifrån och ut och där självkännedom
+är en viktig del för ett hållbart ledarskap och arbetsliv. I takt med att världen förändras och nya generationer gör entré, ändras
+också vår syn på dem som är satta att leda. Mjukare ledare med ett relationellt förhållningssätt kommer allt oftare inta en helt naturlig plats i
+våra styrelserum. I Sensitivt ledarskap – möt det nya sättet att leda i tolv intervjuer, av journalisten Pia Rockström, möter du bland andra näringsprofilen Fredrik Paulún, SVT-journalisten Tara Moshizi och succéförfattaren Carl-Johan Forssén Ehrlin. De berättar om sin väg till ett mjukare, ett mer sensitivt, men också framgångsrikt ledarskap – hållbart för framtiden.",,,,,,,,,,"Ekonomi, finansväsen, näringsliv och management",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,"Populärpsykologi och personlig utveckling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pia,Rockström,,,"79-89 kr",,,,,,,,,"Folkdansgatan 7",,27192,Ystad,,,,,pia@rockstrom.nu,"Bankgiro 671-4133",,,Bankgiro,"Hej! Bifogar här min senast inlästa bok Sensitivt ledarskap som 19 wav-filer, bifogar även ett nytt bokomslag, bilderna är helt ok att använda. Jag har två av mina böcker hos er sedan tidigare så ni har mina uppgifter. Mvh Pia Rockström",,"299,00 Kr","Pia Rockström
+xxxx xxxx xxxx 6544
+Mastercard"
+Checked,Monika,Thormann,,,,,,,"Den röda klänningen och tio andra noveller","Den röda klänningen och tio andra noveller innehåller novellerna:  Fri, Ja si stockholmare, Traktorn, En kall hand, Anders Fjällsten, Den gröna cykeln, Prickskytten, Den röda klänningen, Mötet, Klättraren och Får jag lov? De är tidigare utgivna i läromedlet Tackla, läsförståelse, skönlitteratur, blå-, röd-, och svart pist av Natur & Kultur 2007 och 2008
+Novellerna  passar utmärkt att använda  i undervisningen för att öva läsförståelse. Använd dem på SFI, på svenskundervisningen i högstadiet och på gymnasiet. Uppgifter till varje novell finns att ladda ner gratis på www.monikathormann.se",,,,,"Från 12 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"May 25, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Jakobsdalsvägen 4",,12654,Hägersten,,,,,info@monikathormann.se,"5207 0111059",,,SEB,,,"698,00 Kr","Monika Thormann
+xxxx xxxx xxxx 4590
+Mastercard"
+Checked,Julia,Sourander,,,,Checked,Josefine,Andersson,"Försenade brev - Sanningen om min narcissistiska syster","Ibland tar det många år att förstå – och ännu fler att våga berätta. För mig tog det nästan 35 år. Jag växte upp med en syster som misshandlade mig både fysiskt och psykiskt, och långt upp i vuxen ålder trodde jag att jag inte fick prata om det som hade hänt. Men nu tänker jag inte vara tyst längre.
+ 
+Den här boken är mitt avsked till min syster – en samling brev riktade till olika personer i mitt liv, med allt jag aldrig berättade då och allt jag vill säga idag. Det är också en bok till dig som befinner dig i en liknande situation. Det här är boken jag själv hade behövt läsa när jag var yngre.
+
+Hon har fått berätta sina lögner i alldeles för många år.
+Nu är det min tur att berätta sanningen.",,,,,,,,,,,,,"Familj och hälsa",,,,,,,,,,,,,,,,,,,,,,,,,,,,"Självhjälp och praktiska råd",,,,"Biografi och prosa (ej fiktion)","Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Hjortronvägen 5",,68334,Hagfors,,,,,josefinean.891@gmail.com,82420235187952,,,"Roslagens sparbank",,,"299,00 Kr","Josefine Andersson
+xxxx xxxx xxxx 0191
+Mastercard"
+Checked,Jan,Edelholt,,,,,,,"Ett stöd i natten","Ett stöd i natten är en skildring av en mans nattarbete inom den kommunala psykiatrin. 
+Vi får i boken möta ett flertal personligheter vars liv och utveckling med all säkerhet tagit en annan riktning i ett mer tillåtande samhälle. 
+För den manlige nattstödjaren står det klart, att det är omgivningens bemötande, dess sätt att värdera och fastslå vad som utgör ett gott liv, som är den primära orsaken till allt det utanförskap han möter. 
+-----------------------------------------
+Att vara ett stöd i natten är mitt arbete.
+Att finnas tillhands för den som är skör är mitt uppdrag.
+Så många Otillhöriga vårt land befolkas av.
+Så många Outsiders som inte ges utrymme till ett eget liv.
+För några är jag en hand i mörkret.
+-----------------------------------------
+Jag slutar aldrig tro på dina möjligheter.
+Jag slutar aldrig tro på den kraft du bär på.
+Du lär mig vad frihet är.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,"Populärpsykologi och personlig utveckling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Nedre Långgatan 27b",,45772,Grebbestad,,,,,jedel60@hotmail.com,"8214-9,4 259 058-8",,,Swedbank,"Hej. ""Ett stöd i natten"" utgavs 2011,  enbart som pappersbok. 
+Den finns inte längre i handeln att köpa, förutom begagnade ex. 
+Nu vill jag ge ut en ny (omarbetad, slimmad) upplaga. 
+Denna gång som e bok. 
+Med vänlig hälsning / Jan Edelholt.",,"698,00 Kr","Swedbank Mastercard
+xxxx xxxx xxxx 0193
+Mastercard"
+Checked,Anna,Eriksson,,,,,,,"Wave by Wave - From Citystress to Oceanic Freedom. A Memoir About Letting Go","Are you dreaming of making a big life-change? 
+This is the true story of how Anna and her husband let go of everything they had in Stockholm to live and sail around the world. Wave by Wave reveals the challenges and gifts from the inner and outer journeys, plus the answers to the soul-searching question – what will happen to you when making such a big life-change. 
+
+You will get stories, life wisdom and questions to inspire your own dreams to come true.
+
+“Some books take you on a journey – this one sets sail with you. Anna has written more than just a travel memoir; this is a raw, beautiful, and deeply personal reflection on life, fear, courage, and the vastness of both the ocean and the human soul. With every wave and every challenge, she invites us to question what truly matters and to embrace the unknown with open arms. I was completely captivated. If you’ve ever dreamed of adventure – or just wondered what’s waiting beyond the horizon – this book is for you.” – Sumitra Sjöström
+
+“The uniqueness of this book is that it weaves together the physical sailing with a spiritual journey. There are many digressions into the psychological, philosophical and existential aspects of being on the oceans. Anna describes life on board in a way that, not only, sailors but also non-sailors easily can enjoy and understand.” – Roger Nilson, MD, Round the world racing sailor
+
+ Memoir, Travel - Self-help - Transformation",,,,,,,,,,,,,,,Filosofi,,,,,,,,,,,,,,,,,,,,,,,,,,"Självhjälp och praktiska råd",,,,,"Personliga berättelser",,,,,,,,,,,,,,,,,,,,,,,,,,"Populärpsykologi och personlig utveckling",,,,"Resor och platser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"May 25, 2025",,,,,,"Annat pris - ange pris nedan",149,,,,"Barnängsgatan 21 A",,11641,Stockholm,,,,,anna@avalona.se,"6001 557 610 958",,,Handelsbanken,"Denna bok publiceras även på Amazon den 25 maj.",,"299,00 Kr","Eriksson Anna
+xxxx xxxx xxxx 9443
+Mastercard"
+Checked,Peter,Eriksson,,,,,,,"Skydda, hjälpa, ställa tillrätta","Över 40 år i polisens tjänst – från radiobil till bombskydd
+
+I denna personliga och fängslande berättelse får du följa med bakom kulisserna på ett yrkesliv långt ifrån det vardagliga. Författaren, med över fyra decennier i polisens tjänst, tar oss med från de första åren i radiobil under 1980-talet, via tjänstgöring i piketen, Nationella insatsstyrkan och Nationella bombskyddet, till olika uppdrag inom Polismyndigheten i Hallands län.
+
+Genom levande skildringar av verkliga händelser – både i Sverige och utomlands – får läsaren en unik inblick i polisens arbete under en tid då både samhället och poliskåren förändrades i grunden. Med boken följer också ett rikt bildmaterial som förstärker berättelserna och ger ansikten åt de miljöer och situationer som beskrivs.
+
+En bok för dig som är intresserad av polisens arbete, samhällsutveckling eller bara vill läsa om ett liv fyllt av dramatik, ansvar och yrkesstolthet.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Personliga berättelser",,"True crime",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Mejselvägen 6",,30572,Steninge,,,,,eriksson211@hotmail.com,8060-6183204682-3,,,"Falkenbergs sparbank","Jag tar gärna en kontakt för att diskutera utformning av framsida samt beskrivning av bokens innehåll.",,"997,00 Kr","Peter Eriksson
+xxxx xxxx xxxx 4004
+Amex"
+Checked,Jan,Edelholt,,,,,,,"Coco - Mellan två världar","En första mor. En andra mor. Två mödrar.  Båda lika ogripbara. Ofullständiga. Intetsägande. Den ena som ljuset. Det vita ljuset. När solen står i zenit. Släpper ingen skugga. Utsträckt på en blommig solstol, döljer hon sitt inre. Den andra, som den svarta natten, inte en stjärna att skåda, utan tillstymmelse till möjlig orientering. Svarta träd som vajar i ett svart rymdhav över en svart brusande flod.
+Boken om Coco är en berättelse om adoption och existens. En berättelse om att växa upp mellan två världar.
+Var är Cocos plats i världen? 
+Kan hon finna förankring i en oförstående 
+omvärld? 
+Kan hon ta till sig det som hennes drömmar berättar om? 
+Eller kommer hon att gå samma öde till mötes som den svarta pantern?
+
+Omslag: akvarell/ink design. Inga-Lill Karlgren Edelholt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Nedre Långgatan 27b",,45772,Grebbestad,,,,,jedel60@hotmail.com,"8214-9 4 259 058-8",,,Swedbank,,,"698,00 Kr","Swedbank Bankkort Mastercard
+xxxx xxxx xxxx 0193
+Mastercard"
+Checked,Jan,Edelholt,,,,,,,"Mannen utan värde","Han hade levt som hemlös länge. Kanske alltid när han tänkte efter. På ett sätt var det inte så noga. Han kände sig som mest hemma med sig själv. Frihet och oberoende, stora ord, men betydelsefulla för honom. Sådant gjorde honom glad och tilllfreds.
+Svårast var det med boendet, det var ett ständigt letande. Många kvällar hade han inte haft en aning om vart han skulle ta vägen. Men sista tiden hade han haft tur, ett källarutrymme som han kunnat återvända till natt efter natt. Efter ett tag med ägarens tillåtelse. En vänlig kvinna som verkade skämmas över att inte alla hade någonstans att ta vägen. En kväll stod kvinnan och väntade på honom i porten och bjöd upp honom till sig. Sa att han kunde sova i hennes soffa. Kokade te och rostade bröd med ost och marmelad till honom. 
+Det blev så att han stannade hos henne. Det kändes självklart bra, men snart också en känsla av tvång som han hade svårt att hantera. Sedan vet han inte vad som hände, kvinnan blev mördad, och han blev häktad och anklagad för mord, fast det omöjligt kunde vara han som utfört det. Han visste att han inte hade något att sätta emot. Att han var dömd på förhand. Han tänkte att det inte fanns någon återvändo, mer än att följa den där omöjliga stigen bakom kyrkan, där berget tog vid. Han tänkte på henne – visst var hon för god för världen.
+
+Omslag: akvarell/ink design. Inga-Lill Karlgren Edelholt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Nedre Långgatan 27b",,45772,Grebbestad,,,,,jedel60@hotmail.com,"8214-9 4 259 058-8",,,Swedbank,,,"698,00 Kr","Coop Mastercard
+xxxx xxxx xxxx 6690
+Mastercard"
+Checked,Monika,Thormann,,,,,,,"Är du min sjöjungfru?","Bibliotekarien och feministen Cecilia närmar sig femtio och vill förändra sitt liv. Hon åker med författaren Ruben Gonzales till Bokmässan i Göteborg, följer med Open Water - simmaren Jari till Sicilien och utvecklar sitt skrivande tillsammans med norrmannen Eldar. Men erbjuder dessa män något hon vill ha? 
+Med värme, humor och skarp blick följer romanen en kvinna mitt i livet, mitt i känslorna, mitt i kampen för jämlikhet – i både kärlek och vardag. En berättelse om längtan och lögner, mod och medberoende, självrespekt och systerskap.
+Är du min sjöjungfru? är en feelgoodroman om kärlek, relationer och att förstå hur man vill leva resten av sitt liv. Romanen är den fristående fortsättningen på Longingforlove,se (Ordalaget bokförlag 2022, tryckt bok, ljudbok och e-bok).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"May 15, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Jakobsdalsvägen 4",,12654,Hägersten,,,,,info@monikathormann.se,52070111059,,,SEB,,,"997,00 Kr","Monika Thormann
+xxxx xxxx xxxx 4590
+Mastercard"
+Checked,Sophie,Olsson,,,,,,,"Gaia - Vanadisens hemlighet","Gaia minns inte mer än en vecka tillbaks i tiden. När en underlig man dyker upp på takterassen med konstiga frågor börjar mystiska och hemska saker hända. 
+Tillsammans med sin bror Aske och korpen Frode börjar hon utforska vem hon är och lösa gåtan som allt verkar handla om: det försvunna Frosthornet.
+Vanadisens hemlighet är första boken om Gaia.
+Den handlar om att öppna vägarna till det fördolda. 
+Fantasy som utspelar sig i nutiden, men bottnar i urnordens dunkla världar.
+Lämplig för ungdomar över 12 år och vuxna.",,,,,"Från 12 år",,,,,,,,,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skönlitteratur barn och ungdom: spänning och äventyr",,,,"Skönlitteratur barn och ungdom: fantasy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sophie,Olsson,,"119-129 kr",,,,,,,,,,"Badhusgatan 9A",,"385 30",Torsås,,,,,sophies@sophies.se,"6701 233091408",,,Handelsbanken,"Ljudbok och e-bok
+Gaia - Vanadisens hemlighet",,"299,00 Kr","Sophie Olsson
+xxxx xxxx xxxx 4436
+Mastercard"
+Checked,Kristoffer,Lieng,,,,,,,"Sill i päls - 20 år i Putins skugga","Det pratas ofta om den ständiga fienden Ryssland, dess trollfabriker och den ledare som suttit vid makten i 20 år. Den här boken handlar inte om troll eller Putin, och ger heller inget svar på huruvida han är snäll, om han snart kommer att inta Sverige eller exakt hur eländigt det är att leva i Ryssland idag. Istället bjuder journalisten och Rysslandskännaren Kristoffer Lieng oss på allt det andra: hur det är att arbeta på ett ryskt mediebolag, hur det känns att åka Lada och lyssna på glad moll, varför man inte får ta med sig soporna när man går hemifrån, vad man kan uppleva som intagen på ryskt sjukhus samt glädjen i att äta köttiga sallader. Vi får också bekanta oss med annat ryskt; språk, språkpolitik, bilar, bostäder och förstås lite härlig vardagskorruption. Redan som liten ville Kristoffer Lieng bege sig till Ryssland fortast möjligt, men hans mor sa nej och skickade istället sin tonårsson till Frankrike, i hopp om att han skulle tillfriskna. Ett år senare befann han sig dock i Moskva, sjungande ryska sånger med fransk brytning, och den vägen bar det av. En ryss skulle nog säga att det var ödet. En svensk kanske skulle säga att det var otur. Kristoffer Lieng har varit verksam i den ryska medie- och universitetsvärlden ungefär lika länge som Putin har suttit vid makten. Med Sill i päls ger han en mycket personlig och humoristisk inblick människornas Ryssland såsom det aldrig skildras i våra nyheter.",,,,,,,,,,,,,,,,,,,,Geografi,,,,,Humor,,,,,,,,,,,,,,,,,,,"Språkundervisning och språkinlärning","Biografi och prosa (ej fiktion)","Personliga berättelser",,,,,,,"Biografiska romaner",,,,,,,,,,,,,,,,,,,,,,,"Resor och platser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kristoffer,Lieng,,"119-129 kr",,,,,,,,,,"Kvarngatan 5",,27536,Sjöbo,,,,,kristofferlieng@hotmail.com,"6875 559 206 062",,,Handelsbanken,,,"299,00 Kr","Kristoffer Lieng
+xxxx xxxx xxxx 4624
+Mastercard"
+Checked,"Erik L",Gustavsson,,,,,,,Ytspänning,"En kall vinterkväll faller statsminister Elof Alm offer för ett kallblodigt attentat. Genom flera parallella berättelser följer vi mördaren och flera personer, däribland journalisten Lars Kvist som är på jakt efter sanningen, samt en rad andra aktörer vars liv flätas samman i ett spel av makt, svek och manipulation. Romanen skildrar ett Sverige som på ytan verkar stabilt, men där dolda konflikter och maktspel bubblar jäser ytan och riskerar att kasta landet in i en politisk förödande kris. 
+
+En roman som engagerar och bygger upp en stämning av oro och misstänksamhet, där ingen är riktigt den man utger sig för att vara. Genom att växla mellan olika perspektiv visar författaren hur samhällsstrukturer kan manipuleras, hur sanningen kan döljas och hur människor på olika nivåer blir brickor i ett större spel. Boken skildrar hur maktbegär och ideologiska drivkrafter kan underminera ett demokratiskt samhälle, och manar till reflektion över samtidens politiska klimat.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"119-129 kr",,,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr","Digibook skapar bokframsida - 299,00 Kr",,"Johan Hårds gata 54 E",,"254 54",Helsingborg,,,,,lars.gustavsson47@icloud.com,"Clearings nr6751 konto 329 521 292",,,Handelsbanken,"Hoppas jag gjort rätt indelning av kapitel och stycken. Kontakta mig annars.",,"997,00 Kr","Gustavsson Lars Erik
+xxxx xxxx xxxx 2015
+Mastercard"
+Checked,J.M.,Evyson,,,,Checked,Jörgen,"Mikaelsson Evyson","Nattreceptionisten och nio andra berättelser","En nybliven nattreceptionist fascineras av hotellgästernas besynnerliga beteenden under natten.
+
+Två hushållsrobotar ger sig ut på en resa för att försöka återfinna sin förlorade familj.
+
+En man och en kvinna delar tystnaden och kaffet i väntan på att den oroliga berggrunden ska lugna ner sig.
+
+I tio vardagsnära och tankeväckande noveller blandas humor och allvar med en stor dos magisk realism.
+
+Berättelserna i novellsamlingen kretsar kring karaktärernas personliga upplevelser och berör ämnen som döden, relationer, artificiell intelligens och det övernaturligas inverkan på människors liv.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Vallgatan 1B",,93732,Burträsk,,,,,jorgen.m.evyson@outlook.com,"6265-761 273 492",,,Handelsbanken,"Hör av er om det är något som strular med filerna.",,"299,00 Kr","Jörgen Mikaelsson
+xxxx xxxx xxxx 2589
+Mastercard"
+Checked,Gunilla,Vigert,,,,,,,"Det är ont om kramar i cyberspace","Möt Hugo, en ung man som står vid livets vägskäl. Alla förväntar sig att Hugo ska ta över familjeföretaget, en framgångsrik byggfirma i Halmstad, fast det är det sista han vill. Problemet är att han inte vet vad han vill göra istället, så han gör så lite som möjligt.
+Han bor fortfarande hemma hos sina föräldrar, jobbar som brevbärare och spenderar sin fritid med att skapa fantastiska saker med sin 3D-skrivare. Men Hugo har en hemlighet – han är förälskad i en AI-tjej.
+När Hugos pappa plötsligt ställer ett ultimatum fattar Hugo ett beslut som kommer att förändra hans liv för alltid. Han tvingas då flytta in hos sin mormors excentriska syster i Gamla stan. Där öppnar sig en okänd värld. 
+Ska han våga välja en egen väg?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feelgood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"June 1, 2025",,,,,,"Annat pris - ange pris nedan",150,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Rådmansövägen 328, 76015 Gräddö",,Gräddö,"Sverige (+46)",,,,,gunilla@vigertconsulting.se,"Bankgiro 774-7652",,,Roslagenssparbank,"Tryckt bok ISBN: 978-91-531-4528-8",,"698,00 Kr","Vigert Gunilla
+xxxx xxxx xxxx 9901
+Mastercard"
+Checked,Dagny,Karlsson,,,,,,,Krokodilkalas,"Kroko Dil fyller 5 år och bjuder in DIG och alla hans vänner på kalas. Du får vara med och hjälpa till att baka tårtan, svara på Krocko´s frågor och vara med på kalaset. Du får till och med en egen tallrik med tårta och ett glas saft. Välkommen!","Från 0-3 år","Från 3 år","Från 6 år",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bilderböcker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dagny,Karlsson,,,,"59-69 kr (t.ex. barnbok 0-3 år)",,,,,,,,"Källarvalvsgatan 4",,59150,Motala,,,,,info@konstnarsfabriken.se,3300-6805111603,,,Nordea,"Jag har en framsida men vet inte var jag ska ladda upp den",,"299,00 Kr","DAGNY KARLSSON
+xxxx xxxx xxxx 0068
+Visa"
+Checked,Stig,Simonsson,,,,,,,Valrossen,"Ett bestialiskt mord uppdagas i en bastu vid en sommarstuga. Gärningsmännen har lämnat en kryptisk ledtråd. Tidigare har ett brutalt mord skett på en polisinspektör som jobbar inom ekobrottsmyndigheten. Charles Lovander även kallad Valrossen av sin innersta krets, är en respekterad och förmögen fastighetsmogul. Valrossen är en man som är lätt att hata för han skyr inga medel för att få det han vill ha.  Ekobrottsmyndigheten  är Valrossen på spåren för grov ekonomisk brottslighet. En härva av skalbolagsaffärer, illegala transaktioner och penningtvätt tornar upp sig. Vad kan knyta Valrossen till morden? Kommissarie Tom Kåpp jobbar i motvind. Det finns inga vittnen, ledtrådar eller bevis. Utredningarna blir oerhört komplicerade, men ett tillsynes udda bevis blir väldigt lyckosamt för Tom.
+Men en sak  vet han med säkerhet: Han måste få Valrossen inom lås och bom innan ytterligare brott begås.
+
+”Valrossen” är den tredje fristående delen om kommissarie Tom Kåpp. Det är en lättläst, realistisk, spännande och humoristisk kriminaldeckare som utspelar sig i Göteborg och Torslanda. Ekonomisk brottslighet är huvudtemat i denna bok, som innehåller mycket utredningsarbete och dialoger.
+Stig Simonsson har tidigare skrivit trilogin om kommissarie Yvonne Baaz.",,,,,,,,Deckare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Klassiska deckare",,,"Thrillers / spänningsromaner",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lättläst för vuxna",,,,AI,Elin,,,"79-89 kr",,,,,,,,,"Röds Saturnusstig 6",,42334,TORSLANDA,,,,,stig.simonsson96@gmail.com,17392013130,,,Nordea,"Du hittar alla filer i:
+https://www.dropbox.com/scl/fo/iky6438yswbrn6xvrd0s2/AIkabf9_Mil0WMAyrNMtMyg?rlkey=e1ff4giwxpa9rjfwsfq92rk80&st=edb9a2ce&dl=0
+
+Detta är min sjätte bok jag skickar till er, så jag är ganska säker på att allt är korrekt. Kanske jag kan få lite förtur :-)",,"299,00 Kr","Stig Simonsson
+xxxx xxxx xxxx 3035
+Visa"
+Checked,Stefan,Gadnell,,,,,,,"Fem Nedfrysta Pekineser","Samuel Hansson är en ung man som jobbar med kryonik – alltså att frysa ner människor i hopp om att väcka dem i en bättre framtid. Han vill förändra världen, göra gott, skipa rättvisa. Men det går som det brukar när man försöker leka Gud: det blir trassligt. Vem ska räddas, och varför? Och varför är både gangsters och CIA plötsligt ute efter honom? När en AI-programmerare försöker ta livet av honom med sina appar står det klart att tekniken inte alltid är på vår sida. Fem Nedfrysta Pekineser är en humoristisk och absurd berättelse om stora visioner, etiska gränsdragningar och människans ständiga vilja att styra över allt – inklusive livet, döden och ekosystemet. Med glimten i ögat serverar Stefan Gadnell en berättelse som både roar och väcker eftertanke.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Klassiker,Noveller,,,,,,"Äventyrsromaner / action",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kristina,Dowling,"April 15, 2025",,,,"39-49 kr (t.ex. längre novell eller kortare roman)",,,,,,,"Villagatan 5B",,76140,Norrtälje,,,,,stefan@gadnell.com,"6514-724 478 922",,,Handelsbanken,,,"299,00 Kr","Stefan Gadnell
+xxxx xxxx xxxx 7577
+Mastercard"
+Checked,Monika,Thormann,,,,,,,"Utan svar","Ibland står man utan svar, vet inte vad man ska säga. Novellerna Som smultron, Respekt och Den där tomten handlar om det.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"April 30, 2025",,,,,"17-25 kr (t.ex. kortare novell)",,,,,"Digibook konverterar dina MP3-filer till WAV-filer - 199,00 Kr","Jakobsdalsvägen 4",,12654,Hägersten,,,,,info@monikathormann.se,52070111059,,,SEB,,,"498,00 Kr","Monika Thormann
+xxxx xxxx xxxx 4590
+Mastercard"
+Checked,Susanna,Roxfelt,,,,,,,"Allt det jag sökte fann jag hos dig","De kommer från olika världar och lever vitt skilda liv, bosatta i olika länder. När Alexandra av en slump träffar Siny, en estländsk miljardär, i en stallgång i ett främmande land slår det gnistor. Trots deras olika förutsättningar tar hon för sig. Efter en natt av ostoppbar passion reser hon hem till Sverige med ett leende på läpparna.
+Siny kan dock inte släppa tanken på Alexandra eller känslorna som blossat upp. Med hjälp av sitt inflytande ser han till att de får en chans att utforska varandra på nytt, men Alexandra har svårt att känna sig bekväm i hans värld. Dessutom finns det människor i deras närhet som är villiga att göra allt för att skilja dem åt. När deras världar kraschar och relationen får sig en törn ser framtiden mörk ut. Hindren är många och kampen är tuff. 
+Kan kärleken verkligen övervinna allt?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"May 19, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Flatön 191",,47491,Ellös,,,,,susanna.roxfelt@gmail.com,"Clearingnummr 83535 Kontonummer 038448577",,,Swedbank,"Jag har två blurbs för eboken som jag gärna vill få med ihop med baksidestexten. Dessa:
+stinas_boksida
+Denna debutroman gillade jag mycket. Jag kom snabbt in i boken som sen höll mig kvar. Jag sträckläste boken då jag inte kunde sluta. Hoppas det kommer en fortsättning för jag vill läsa mer om dem.
+annas_bokhylla
+En härligt romantisk bok som har en handling som driver på. Den kärlek och magiska attraktionskraft som uppstår i berättelsen är helt fantastisk att läsa om.",,"698,00 Kr","Sear Book AB Roxfelt Agneta Susanna
+xxxx xxxx xxxx 8910
+Mastercard"
+Checked,Theodore,Sandell,,,,Checked,Theodore,Sandell,"Uzbekiska Skökan","Tamaz blir tvungen att fly från sin by i Sydossetien i den då tillhörande Georgien under den blodiga konflikten 2008 mellan osseter och georgier. Året efter tar han kosan till Sverige där hans syster bor. Men till det nya landet följer mörkret med. Förutom kulturkrocken, utbredda främlingsfientligheten samt den dolda smygrasismen i samhället som bäddar in Tamaz i en känsla av utanförskap är svenska språket den svaga punkten i vardagslivet. Det blir inte mycket bättre utav att han börjar ett nytt jobb. Där möter han nämligen en förförisk kvinna som tillsammans med sina lakejer ger ondskan ett tydligt ansikte. Det blir början på ett helvete som Tamaz trodde sig ha lämnat bakom sig i hemlandet.",,,,,,,,,,,Erotik,,,,,,,,,,,,,,,,,,,Juridik,,,,,,,,,"Religion och tro",,,,,,,,,,,"Modern och samtida skönlitteratur",,Noveller,,,,,,,,,,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Från 15 år",,,,,,,"April 18, 2025",,"79-89 kr",,,,,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Tulegatan 2",,17278,Sundbyberg,,,,,morgrona7@gmail.com,6153-598024298,,,"Handelsbanken AB","Vill ha korrespondens med digibook när digitala boken är i färdig form för att godkännas. Det är väldigt viktigt att mitt pseudonym endast nämns och syns för publicering och inget annat.",,"698,00 Kr","Pierre Hayek
+xxxx xxxx xxxx 9161
+Mastercard"
+Checked,Alexandra,Mahlén-Selenius,,,,,,,Bekännelsen,"""Jag tog livet av dig, inte med händer, inte med våld. Men jag kvävde dig ändå.""
+
+En man sitter ensam vid datorn. Fingrarna rör vid tangenterna, men orden tvekar. Han har förlorat kvinnan som en gång var hans ljus – och nu skriver han, inte för att få förlåtelse, utan för att förstå. Genom bekännelsens svidande klarhet vecklas ett inre landskap ut, där kärlek förvandlas till kontroll, där beundran blir till bitterhet, och där längtan efter närhet skapar avstånd.
+
+Bekännelsen är en lågmält skakande novell om skuld, kärlekens mörkare ansikten och den smärtsamma insikten att det som gått sönder inte alltid går att laga. En monolog i skärningspunkten mellan psykologisk realism och existentiellt självprövande, skriven med ett språkligt gehör som dröjer sig kvar.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Modern och samtida skönlitteratur",,Noveller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Henry,Bronett,,,,,,"17-25 kr (t.ex. kortare novell)",,,"Digibook skapar e-boks-fil (EPUB) - 399,00 Kr",,,"Hjortronvägen 49",,19635,KUNGSÄNGEN,,,,,alexandra.selenius@gmail.com,"8305-5,4332134-8",,,"Sparbanken i Enköping","Clearning: 8305-5
+Konto: 4332134-8",,"698,00 Kr","Alexandra Mahlèn-Selenius
+xxxx xxxx xxxx 6747
+Visa"
