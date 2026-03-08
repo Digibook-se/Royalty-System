@@ -1,9 +1,21 @@
 #!/usr/bin/env python3
 import os
 import sys
+import re
+import unicodedata
 from datetime import datetime, timezone, date
 from decimal import Decimal
 import xml.etree.ElementTree as ET
+
+_BIC_RE = re.compile(r"^[A-Z0-9]{8}([A-Z0-9]{3})?$")  # 8 eller 11 tecken
+
+def clean_bic(bic: str | None) -> str:
+    if not bic:
+        return ""
+    return bic.strip().upper().replace(" ", "").replace("/", "")
+
+def is_valid_bic(bic: str) -> bool:
+    return bool(_BIC_RE.match(bic))
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -25,6 +37,31 @@ SWEDBANK_TEST_IBANS = [
     "SE2480000890119146168456",
     "SE0280000890119146168464",
 ]
+
+_ALLOWED = set("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 /-?:().,'+")
+
+def sepa_sanitize(text: str | None, *, replacement: str = " ") -> str:
+    """
+    Gör text bank-godkänd:
+    - ersätter & med OCH
+    - tar bort å/ä/ö/é/ł (gör om till a/a/o/e/l)
+    - ersätter allt annat konstigt med mellanslag
+    """
+    if not text:
+        return ""
+
+    text = text.replace("&", " OCH ")
+
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+
+    out = []
+    for ch in text:
+        out.append(ch if ch in _ALLOWED else replacement)
+
+    text = "".join(out)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
 def is_test_iban_mode() -> bool:
     return (os.getenv("TEST_IBAN_MODE", "0") or "0").strip() == "1"
@@ -84,8 +121,14 @@ def main():
         # Detta är en bra bas som brukar fungera, men om banken klagar så anpassar vi versionen.
         ns = "urn:iso:std:iso:20022:tech:xsd:pain.001.001.03"
         ET.register_namespace("", ns)
+        ET.register_namespace("xsi", "http://www.w3.org/2001/XMLSchema-instance")
 
-        doc = ET.Element(f"{{{ns}}}Document")
+        doc = ET.Element(
+            f"{{{ns}}}Document",
+            {
+                "{http://www.w3.org/2001/XMLSchema-instance}schemaLocation": f"{ns} pain.001.001.03.xsd"
+            }
+        )
         ccti = ET.SubElement(doc, f"{{{ns}}}CstmrCdtTrfInitn")
 
         # Group Header
@@ -116,6 +159,7 @@ def main():
         pmtinf = ET.SubElement(ccti, f"{{{ns}}}PmtInf")
         text(pmtinf, f"{{{ns}}}PmtInfId", f"P{batch.id}-{batch.period}")
         text(pmtinf, f"{{{ns}}}PmtMtd", "TRF")
+        # Payment Type Info (många banker kräver SEPA här)
         text(pmtinf, f"{{{ns}}}NbOfTxs", str(num))
         cs = ET.SubElement(pmtinf, f"{{{ns}}}CtrlSum")
         cs.text = f"{total_amount:.2f}"
@@ -125,7 +169,7 @@ def main():
 
         # Debtor
         dbtr = ET.SubElement(pmtinf, f"{{{ns}}}Dbtr")
-        text(dbtr, f"{{{ns}}}Nm", batch.debtor_name or DEBTOR_NAME)
+        text(dbtr, f"{{{ns}}}Nm", sepa_sanitize(batch.debtor_name or DEBTOR_NAME))
 
         dbtracct = ET.SubElement(pmtinf, f"{{{ns}}}DbtrAcct")
         dbtracct_id = ET.SubElement(dbtracct, f"{{{ns}}}Id")
@@ -183,16 +227,25 @@ def main():
                 # Test-IBAN är Swedbank-testkonton -> Swedbank BIC
                 text(fin, f"{{{ns}}}BIC", "SWEDSESS")
             else:
-                bic = bic_by_author_id.get(t.author_id, "").strip().upper()
+                bic_raw = bic_by_author_id.get(t.author_id, "")
+                bic = clean_bic(bic_raw)
+
                 if not bic:
                     raise RuntimeError(
                         f"Saknar BIC för author_id={t.author_id} ({t.creditor_name}). "
                         "Importera BIC till authors-tabellen innan export."
                     )
+
+                if not is_valid_bic(bic):
+                    raise RuntimeError(
+                        f"OGILTIG BIC '{bic_raw}' (rensad='{bic}') för author_id={t.author_id} ({t.creditor_name}). "
+                        "BIC måste vara 8 eller 11 tecken (A–Z/0–9)."
+                    )
+
                 text(fin, f"{{{ns}}}BIC", bic)
 
             cdtr = ET.SubElement(cdt, f"{{{ns}}}Cdtr")
-            text(cdtr, f"{{{ns}}}Nm", t.creditor_name or "OKÄND")
+            text(cdtr, f"{{{ns}}}Nm", sepa_sanitize(t.creditor_name or "OKAND"))
 
             pstl = ET.SubElement(cdtr, f"{{{ns}}}PstlAdr")
             text(pstl, f"{{{ns}}}Ctry", "SE")
@@ -205,7 +258,7 @@ def main():
 
 
             rmt = ET.SubElement(cdt, f"{{{ns}}}RmtInf")
-            text(rmt, f"{{{ns}}}Ustrd", f"Royalty {batch.period}")
+            text(rmt, f"{{{ns}}}Ustrd", sepa_sanitize(f"Royalty {batch.period}"))
 
             t.status = "exported"
 
@@ -214,7 +267,16 @@ def main():
         out_path = os.path.join(OUT_DIR, filename)
 
         tree = ET.ElementTree(doc)
-        tree.write(out_path, encoding="utf-8", xml_declaration=True)
+        try:
+            ET.indent(tree, space="  ", level=0)
+        except Exception:
+            pass
+
+        xml_bytes = ET.tostring(doc, encoding="utf-8", xml_declaration=False)
+
+        with open(out_path, "wb") as f:
+            f.write(b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\r\n')
+            f.write(xml_bytes.replace(b"\n", b"\r\n"))
 
         batch.pain001_filename = filename
         batch.status = "exported"
